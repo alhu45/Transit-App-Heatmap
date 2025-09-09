@@ -1,0 +1,17 @@
+{
+  "model_version": "v2025.09.03.1725",
+  "features": [
+    "station",
+    "line",
+    "day_type",
+    "tod_sin",
+    "tod_cos"
+  ],
+  "algo": "LinearRegression + OneHotEncoder (station/line/day) + cyclical time features",
+  "service_hours_rule": "hours in {6..23, 0, 1}; outside = closed",
+  "metrics": {
+    "r2": 0.4771848320485088,
+    "rmse": 1717.5653682775862,
+    "mae": 1069.7464749526846
+  }
+}
