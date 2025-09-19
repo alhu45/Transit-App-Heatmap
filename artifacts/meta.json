@@ -1,5 +1,5 @@
 {
-  "model_version": "v2025.09.03.1725",
+  "model_version": "v2025.09.18.2234",
   "features": [
     "station",
     "line",
@@ -7,11 +7,11 @@
     "tod_sin",
     "tod_cos"
   ],
-  "algo": "LinearRegression + OneHotEncoder (station/line/day) + cyclical time features",
-  "service_hours_rule": "hours in {6..23, 0, 1}; outside = closed",
+  "algo": "XGBoost + OHE(station/line/day) + time features (sin/cos, hour, minute, weekend)",
+  "service_hours_rule": "Mon\u2013Fri 06:00\u201301:30; Sat\u2013Sun 08:00\u201301:30 (next day).",
   "metrics": {
-    "r2": 0.4771848320485088,
-    "rmse": 1717.5653682775862,
-    "mae": 1069.7464749526846
+    "r2": 0.5297789428246601,
+    "rmse": 1152.9341332149966,
+    "mae": 626.2920407547638
   }
 }

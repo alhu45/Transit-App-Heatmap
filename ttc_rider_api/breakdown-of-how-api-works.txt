@@ -1,0 +1,71 @@
+📝 train.py
+Purpose: Train and save the ML model.
+Loads the CSV → cleans text fields (station, line, day_type).
+Parses and normalizes hour/minute from messy formats (6–7 a.m., 15:34, etc.).
+Filters to TTC service hours (6–23, plus 0–1).
+Adds cyclical time-of-day features (tod_sin, tod_cos).
+Builds a Pipeline:
+clean_df (from transformers.py).
+ColumnTransformer: OHE for categorical (station, line, day_type), numeric passthrough for time features.
+LinearRegression.
+Splits into train/test → prints R², RMSE, MAE.
+Saves:
+artifacts/model.joblib → trained pipeline.
+artifacts/meta.json → metadata (version, features, metrics, service-hour rule).
+
+📝 schemas.py
+Purpose: Define request/response contracts for FastAPI (Pydantic).
+Input:
+PredictRecord: station, line, hour (0–23), day_type.
+PredictRequest: wrapper for one or many records.
+Output:
+PredictResponseItem: echoes inputs + predicted riders.
+PredictResponse: wraps predictions with model_version.
+🔒 Validates inputs automatically and generates docs (/docs).
+
+📝 main.py
+Purpose: FastAPI app serving predictions.
+Loads model + meta from artifacts/.
+Endpoints:
+POST /predict: JSON with hour (0–23).
+POST /predict_time: JSON with "time": "3:34 PM" or "15:34" → parses to hour/minute.
+GET /options: returns available stations, lines, day_types/days, and hours.
+(Optional) GET /service_hours: returns hours when the model thinks TTC is open.
+Applies service-hour rule: predictions outside (2–5 AM) → 0 riders.
+Uses schemas for validation + clean responses.
+
+📝 transformers.py
+Purpose: Shared utilities for training + inference.
+clean_df(df):
+Standardizes strings (lowercase, strip whitespace).
+Creates minute_of_day from hour+minute.
+Adds cyclical encoding (tod_sin, tod_cos) so the model sees time as circular (23:00 is next to 0:00).
+is_service_hour(hour):
+Returns True if hour in {6..23, 0, 1}, else False.
+Used in train.py to filter training data, and in main.py to zero out closed-hour predictions.
+Keeps all the logic consistent between model training and API calls.
+
+Data Flow:
+CSV (raw TTC ridership)
+   │
+   ▼
+train.py
+   - uses transformers.clean_df + is_service_hour
+   - trains pipeline
+   - saves model.joblib + meta.json
+   │
+   ▼
+artifacts/
+   - model.joblib
+   - meta.json
+   │
+   ▼
+main.py (FastAPI)
+   - loads artifacts
+   - exposes /predict + /predict_time
+   - validates via schemas.py
+   │
+   ▼
+Client (curl, frontend, etc.)
+   - sends station/line/hour or time
+   - gets predicted riders back
