@@ -1,17 +1,20 @@
 {
-  "model_version": "v2025.09.18.2234",
+  "model_version": "v2025.09.19.1631",
   "features": [
     "station",
     "line",
     "day_type",
     "tod_sin",
-    "tod_cos"
+    "tod_cos",
+    "hour",
+    "minute",
+    "is_weekend"
   ],
   "algo": "XGBoost + OHE(station/line/day) + time features (sin/cos, hour, minute, weekend)",
   "service_hours_rule": "Mon\u2013Fri 06:00\u201301:30; Sat\u2013Sun 08:00\u201301:30 (next day).",
   "metrics": {
-    "r2": 0.5297789428246601,
-    "rmse": 1152.9341332149966,
-    "mae": 626.2920407547638
+    "r2": 0.864289387908919,
+    "rmse": 762.1877196185037,
+    "mae": 348.04291004487123
   }
 }

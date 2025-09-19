@@ -12,9 +12,10 @@ def clean_df(df_in: pd.DataFrame) -> pd.DataFrame:
     """
     df = df_in.copy()
 
-    for col in ["station", "line", "day_type"]:
+    for col in ["station", "line", "day"]:
         s = df[col].astype(str).str.strip().str.lower()
-        df[col] = s.replace({"": None, "nan": None, "none": None})
+        df[col] = s.replace({...})
+
 
     if "hour" in df.columns:
         df["hour"] = pd.to_numeric(df["hour"], errors="coerce")

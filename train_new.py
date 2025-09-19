@@ -16,75 +16,6 @@ import matplotlib.pyplot as plt
 # New ML Model: XGBoost
 from xgboost import XGBRegressor
 
-# Function to clean hour format from excelspreadsheet to 24h time format 
-def _coerce_hour_minute(series: pd.Series) -> tuple[pd.Series, pd.Series]:
-    raw = series.astype(str)
-    norm = (raw.str.lower()
-                 .str.strip()
-                 .str.replace("\u2013", "-", regex=False)  
-                 .str.replace("\u2014", "-", regex=False)  
-                 .str.replace("\u2212", "-", regex=False)  
-                 .str.replace(".", "", regex=False)        
-                 .str.replace(r"\s+", " ", regex=True))    
-
-    hour = pd.Series(np.nan, index=norm.index, dtype="float64")
-    minute = pd.Series(np.nan, index=norm.index, dtype="float64")
-
-    mask = hour.isna()
-    if mask.any():
-        m = norm[mask].str.extract(r"^\s*(\d{1,2})\s*-\s*(\d{1,2})\s*(am|pm)\s*$")
-        ok = m[0].notna() & m[2].notna()
-        if ok.any():
-            start = pd.to_numeric(m.loc[ok, 0], errors="coerce")
-            ampm = m.loc[ok, 2]
-            def _h12_to_24(h, ap):
-                h = int(h)
-                if ap == "am":
-                    return 0 if h == 12 else h
-                else:  # pm
-                    return 12 if h == 12 else h + 12
-            conv = [ _h12_to_24(h, ap) if pd.notna(h) else np.nan for h, ap in zip(start, ampm) ]
-            hour.loc[start.index] = conv
-            minute.loc[start.index] = 0
-
-    mask = hour.isna()
-    if mask.any():
-        m = norm[mask].str.extract(r"^\s*(\d{1,2})(?::(\d{1,2}))?\s*(am|pm)\s*$")
-        ok = m[0].notna() & m[2].notna()
-        if ok.any():
-            hh = pd.to_numeric(m.loc[ok, 0], errors="coerce")
-            mm = pd.to_numeric(m.loc[ok, 1], errors="coerce").fillna(0)
-            ap = m.loc[ok, 2]
-            def _h12_to_24(h, ap):
-                h = int(h)
-                if ap == "am":
-                    return 0 if h == 12 else h
-                else:
-                    return 12 if h == 12 else h + 12
-            conv = [ _h12_to_24(h, a) if pd.notna(h) else np.nan for h, a in zip(hh, ap) ]
-            hour.loc[hh.index] = conv
-            minute.loc[mm.index] = mm.clip(lower=0, upper=59)
-
-    mask = hour.isna()
-    if mask.any():
-        m = norm[mask].str.extract(r"^\s*(\d{1,2})\s*:\s*(\d{1,2})\s*$")
-        ok = m[0].notna() & m[1].notna()
-        if ok.any():
-            hh = pd.to_numeric(m.loc[ok, 0], errors="coerce")
-            mm = pd.to_numeric(m.loc[ok, 1], errors="coerce")
-            hour.loc[hh.index] = hh
-            minute.loc[mm.index] = mm.clip(lower=0, upper=59)
-
-    mask = hour.isna()
-    if mask.any():
-        hh = pd.to_numeric(norm[mask], errors="coerce")
-        hour.loc[hh.index] = hh
-        minute.loc[hh.index] = minute.loc[hh.index].fillna(0)
-
-    minute = minute.clip(lower=0, upper=59)
-
-    return hour, minute
-
 # Functions to graph our results 
 #----------------------------------------------------------------------------------------------------------------------------
 def most_common_line_for_station(df_like: pd.DataFrame, station_name: str) -> str:
@@ -94,33 +25,33 @@ def most_common_line_for_station(df_like: pd.DataFrame, station_name: str) -> st
     # fallback: most common line overall
     return df_like["line"].mode().iloc[0]
 
-def hourly_profile_dataframe(station: str, line: str, day_type: str) -> pd.DataFrame:
-    hours = hours_for_daytype(day_type)
+def hourly_profile_dataframe(station: str, line: str, day: str) -> pd.DataFrame:
+    hours = hours_for_daytype(day)
     grid = pd.DataFrame({
         "station": [station] * len(hours),
         "line":    [line] * len(hours),
-        "day_type":[day_type] * len(hours),
+        "day":     [day] * len(hours),   
         "hour":    hours,
         "minute":  [0] * len(hours),
     })
-    # Apply service hours rule
     grid = grid[service_open_mask(grid)].copy()
-    # >>> NEW: add weekend flag same as training <<<
-    grid["is_weekend"] = grid["day_type"].isin(["saturday", "sunday"]).astype(int)
+    grid["is_weekend"] = grid["day"].isin(["saturday", "sunday"]).astype(int)
     return grid
 
-def plot_station_day(pipe, station: str, line: str, day_type: str):
-    grid = hourly_profile_dataframe(station, line, day_type)
+def plot_station_day(pipe, station: str, line: str, day: str):
+    grid = hourly_profile_dataframe(station, line, day)
     preds = pipe.predict(grid)
+
     fig = plt.figure()
-    plt.plot(grid["hour"], preds, marker="o")
-    plt.title(f"{station} — Estimated riders by hour ({day_type.title()})")
+    plt.bar(grid["hour"], preds, width=0.8, align="center")  # swapped to bar chart
+    plt.title(f"{station} — Estimated riders by hour ({day.title()})")
     plt.xlabel("Hour of day (24h)")
     plt.ylabel("Predicted riders")
-    plt.xticks(range(0,24,2))
-    plt.grid(True, which="both", linestyle="--", alpha=0.4)
+    plt.xticks(range(0, 24, 2))  # show ticks every 2 hours
+    plt.grid(True, which="both", axis="y", linestyle="--", alpha=0.4)  # keep only horizontal grid
     plt.tight_layout()
     plt.show()
+
 #----------------------------------------------------------------------------------------------------------------------------
 
 # Data to determine open subway hours
@@ -133,7 +64,7 @@ def service_open_mask(df_like: pd.DataFrame) -> pd.Series:
     Mon–Fri: open 06:00–23:59 same day + 00:00–01:30 next day
     Sat–Sun: open 08:00–23:59 same day + 00:00–01:30 next day
     """
-    day = df_like["day_type"].astype(str).str.strip().str.lower()
+    day = df_like["day"].astype(str).str.strip().str.lower()
     h = pd.to_numeric(df_like["hour"], errors="coerce")
     m = pd.to_numeric(df_like.get("minute", 0), errors="coerce").fillna(0)
 
@@ -150,24 +81,24 @@ def hours_for_daytype(day_type: str) -> list[int]:
     start = 6 if day_type.lower() in WEEKDAYS else 8
     return list(range(start, 24)) + [0, 1]
 
-df = pd.read_csv("TTC_Ridership_Long_Format.csv")
+df = pd.read_csv("Ridership.csv")
+df.columns = df.columns.str.lower()
 
 # Basic cleaning / normalization see everything uppercase or lowercase is treated the same
-df["day_type"] = df["day_type"].str.lower().str.strip()
+df["day"] = df["day"].str.lower().str.strip()
 df["station"] = df["station"].str.strip()
 df["line"] = df["line"].str.strip()
 
 # Features & target
-X = df[["station", "line", "hour", "day_type"]].copy()  # copy to avoid view issues
+X = df[["station", "line", "hour", "day"]].copy()
 y = df["riders"].astype(float) # Y value is the value we want to predict
 
-# Using the function I created, standardizes time
-hours, minutes = _coerce_hour_minute(X["hour"])
-X["hour"] = hours
-X["minute"] = minutes.fillna(0)
+# Using the clean hour/minute directly from the CSV instead of old function
+X["hour"] = X["hour"].replace(24, 0)  
+X["minute"] = 0
 
 # Adding a weekend flag -> Trees love numeric signals, helping the model split weekday V weekend for more nodes
-X["is_weekend"] = X["day_type"].isin(["saturday", "sunday"]).astype(int)
+X["is_weekend"] = X["day"].isin(["saturday", "sunday"]).astype(int)
 
 # Drop rows where hour couldn't be parsed at all
 X = X.dropna(subset=["hour"])
@@ -197,7 +128,7 @@ if len(X) == 0:
 cleaner = FunctionTransformer(clean_df) # Gets df from the transformer from the user
 
 # Categorical features still go through OHE
-cat_features = ["station", "line", "day_type"]
+cat_features = ["station", "line", "day"]
 
 # Give XGBoost the time signals + raw hour/minute + weekend flag
 num_features = ["tod_sin", "tod_cos", "hour", "minute", "is_weekend"]
@@ -273,7 +204,7 @@ joblib.dump(pipe, MODEL_PATH)
 # Info about the model
 meta = {
     "model_version": time.strftime("v%Y.%m.%d.%H%M"),
-    "features": ["station", "line", "day_type", "tod_sin", "tod_cos"], 
+    "features": ["station", "line", "day_type", "tod_sin", "tod_cos", "hour", "minute", "is_weekend"],
     "algo": "XGBoost + OHE(station/line/day) + time features (sin/cos, hour, minute, weekend)",
     "service_hours_rule": "Mon–Fri 06:00–01:30; Sat–Sun 08:00–01:30 (next day).",
     "metrics": {"r2": float(r2), "rmse": float(rmse), "mae": float(mae)},
@@ -286,12 +217,9 @@ print(f"Saved model → {MODEL_PATH}")
 print(f"Saved meta  → {META_PATH}")
 
 # Visualization for Stations
-station_name = "Union"
+station_name = "Finch"
 line = most_common_line_for_station(X_train.assign(station=X_train["station"]),
                                               station_name=station_name)
 
-# Monday
-plot_station_day(pipe, station_name, line, day_type="monday")
-
-# Sunday
-plot_station_day(pipe, station_name, line, day_type="sunday")
+plot_station_day(pipe, station_name, line, day="monday")
+plot_station_day(pipe, station_name, line, day="sunday")
