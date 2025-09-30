@@ -14,7 +14,8 @@ def clean_df(df_in: pd.DataFrame) -> pd.DataFrame:
 
     for col in ["station", "line", "day"]:
         s = df[col].astype(str).str.strip().str.lower()
-        df[col] = s.replace({...})
+        df[col] = s.replace(to_replace={...}, value=None)
+
 
 
     if "hour" in df.columns:
