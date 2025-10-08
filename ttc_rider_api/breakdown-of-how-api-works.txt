@@ -35,6 +35,8 @@ Applies service-hour rule: predictions outside (2–5 AM) → 0 riders.
 Uses schemas for validation + clean responses.
 
 📝 transformers.py
+Allows API calls to be non-messy if the input is messy. Cleans up data. 
+
 Purpose: Shared utilities for training + inference.
 clean_df(df):
 Standardizes strings (lowercase, strip whitespace).

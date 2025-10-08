@@ -8,9 +8,6 @@ from sklearn.metrics import r2_score, mean_squared_error, mean_absolute_error
 from sklearn.impute import SimpleImputer  
 import joblib, json, time
 from pathlib import Path
-from ttc_rider_api.transformers import clean_df
-from datetime import datetime
-import re
 import matplotlib.pyplot as plt
 
 # New ML Model: XGBoost
@@ -81,7 +78,7 @@ def hours_for_daytype(day_type: str) -> list[int]:
     start = 6 if day_type.lower() in WEEKDAYS else 8
     return list(range(start, 24)) + [0, 1]
 
-df = pd.read_csv("Ridership.csv")
+df = pd.read_csv("Ridership_Data.csv")
 df.columns = df.columns.str.lower()
 
 # Basic cleaning / normalization see everything uppercase or lowercase is treated the same
@@ -89,14 +86,12 @@ df["day"] = df["day"].str.lower().str.strip()
 df["station"] = df["station"].str.strip()
 df["line"] = df["line"].str.strip()
 
-# Features & target
+# Features & target (station, line, hour, day, and is_weekend)
 X = df[["station", "line", "hour", "day"]].copy()
 y = df["riders"].astype(float) # Y value is the value we want to predict
-
 # Using the clean hour/minute directly from the CSV instead of old function
 X["hour"] = X["hour"].replace(24, 0)  
 X["minute"] = 0
-
 # Adding a weekend flag -> Trees love numeric signals, helping the model split weekday V weekend for more nodes
 X["is_weekend"] = X["day"].isin(["saturday", "sunday"]).astype(int)
 
@@ -124,15 +119,12 @@ if len(X) == 0:
         "Check the 'hour' column format in the CSV — see DEBUG printouts above."
     )
 
-# Model pipeline
-cleaner = FunctionTransformer(clean_df) # Gets df from the transformer from the user
 
 # Categorical features still go through OHE
 cat_features = ["station", "line", "day"]
 
 # Give XGBoost the time signals + raw hour/minute + weekend flag
-num_features = ["tod_sin", "tod_cos", "hour", "minute", "is_weekend"]
-
+num_features = ["hour", "minute", "is_weekend"]
 
 cat_pipeline = Pipeline(steps=[
     ("imputer", SimpleImputer(strategy="most_frequent")),    
@@ -152,7 +144,6 @@ pre = ColumnTransformer(
 
 # Pipeline with XGBoost settings now instead of Linear Regression
 pipe = Pipeline(steps=[
-    ("clean", cleaner),
     ("pre", pre),
     ("reg", XGBRegressor(
         n_estimators=600,        # number of trees
@@ -185,9 +176,9 @@ r2  = r2_score(y_test, y_pred) # how much variation in ridership is explained by
 rmse = np.sqrt(mean_squared_error(y_test, y_pred)) # average error size in riders
 mae  = mean_absolute_error(y_test, y_pred) # average absolute error in riders
 
-print(f"R²:  {r2:.3f}")
-print(f"RMSE:{rmse:.1f}")
-print(f"MAE: {mae:.1f}")
+print(f"R²:  {r2:.3f}") # Measures the models variability 
+print(f"RMSE:{rmse:.1f}") # Root Mean Squared Error (Error in predicitions)
+print(f"MAE: {mae:.1f}") # Mean Absoulte Error
 
 # This section saves the model and metadata so the FastAPI API can load it later on 
 # Create a folder to save the model and info about it
@@ -204,7 +195,7 @@ joblib.dump(pipe, MODEL_PATH)
 # Info about the model
 meta = {
     "model_version": time.strftime("v%Y.%m.%d.%H%M"),
-    "features": ["station", "line", "day_type", "tod_sin", "tod_cos", "hour", "minute", "is_weekend"],
+    "features": ["station", "line", "day", "hour", "is_weekend"],
     "algo": "XGBoost + OHE(station/line/day) + time features (sin/cos, hour, minute, weekend)",
     "service_hours_rule": "Mon–Fri 06:00–01:30; Sat–Sun 08:00–01:30 (next day).",
     "metrics": {"r2": float(r2), "rmse": float(rmse), "mae": float(mae)},
@@ -223,3 +214,6 @@ line = most_common_line_for_station(X_train.assign(station=X_train["station"]),
 
 plot_station_day(pipe, station_name, line, day="monday")
 plot_station_day(pipe, station_name, line, day="sunday")
+
+mask = service_open_mask(X)
+print(X[mask]["hour"].unique())

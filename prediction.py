@@ -1,7 +1,12 @@
+import joblib
+import pandas as pd
 import requests
 from dotenv import load_dotenv
 import os
 from datetime import datetime, timedelta
+
+# Loading the model
+model = joblib.load("artifacts/model.joblib")
 
 venues = [
     "KovZpZAFFE1A",  # Scotiabank Arena (Max Capacity: 20 000)
@@ -55,4 +60,31 @@ if res_ticketmaster.status_code == 200:
 
         print(f"{date} {time} — {name} @ {venue} ({lat},{lon})")
 
-        
+def TTC_Hours(day: str, hour: int) -> bool:
+    day = day.lower()
+    if day in ["saturday", "sunday"]:
+        # Weekends Hours (8:00 AM to 1:30 AM)
+        return (8 <= hour <= 23) or (hour in [0, 1])
+    else:
+        # Weekdays Hours (6:00 AM to 1:30 AM)
+        return (6 <= hour <= 23) or (hour in [0, 1])
+
+# Fetching prediciton from model
+sample = pd.DataFrame([{
+    "station": "Union",
+    "line": "1",
+    "day": "tuesday",
+    "hour": 6,
+    "minute": 0,
+    "is_weekend": 0
+}])
+
+day = sample.loc[0, "day"]
+hour = int(sample.loc[0, "hour"])
+
+prediction = model.predict(sample)
+if not TTC_Hours(day, hour):
+    print(f"TTC is closed at {hour}:00 on {day}. Predicted ridership: 0 riders")
+else:
+    prediction = model.predict(sample)
+    print(f"Predicted ridership: {prediction[0]:,.0f}")
