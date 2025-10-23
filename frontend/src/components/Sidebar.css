@@ -1,0 +1,36 @@
+.sidebar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 300px;
+    height: 100%;
+    background: white;
+    box-shadow: 2px 0 10px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    z-index: 1000;
+    overflow-y: auto;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    transform: translateX(-110%);
+    transition: transform 0.4s ease-in-out;
+  }
+  
+  .sidebar.open {
+    transform: translateX(0);
+  }
+  
+  .close-btn {
+    margin-top: 10px;
+    padding: 8px 12px;
+    background: #007bff;
+    border: none;
+    color: white;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background 0.2s ease;
+  }
+  
+  .close-btn:hover {
+    background: #0069d9;
+  }
+  
