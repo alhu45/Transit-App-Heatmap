@@ -1,0 +1,3145 @@
+Station,Line,Day,Hour,Minute,Riders
+Bathurst,Line 2,monday,0,0,127.7259033
+Bathurst,Line 2,monday,1,0,102.1807227
+Bathurst,Line 2,monday,6,0,383.17771
+Bathurst,Line 2,monday,7,0,638.6295166
+Bathurst,Line 2,monday,8,0,894.0813233
+Bathurst,Line 2,monday,9,0,1149.53313
+Bathurst,Line 2,monday,10,0,1277.259033
+Bathurst,Line 2,monday,11,0,1404.984937
+Bathurst,Line 2,monday,11,0,1404.984937
+Bathurst,Line 2,monday,12,0,1532.71084
+Bathurst,Line 2,monday,13,0,1660.436743
+Bathurst,Line 2,monday,14,0,1788.162647
+Bathurst,Line 2,monday,15,0,2299.06626
+Bathurst,Line 2,monday,16,0,2809.969873
+Bathurst,Line 2,monday,17,0,3065.42168
+Bathurst,Line 2,monday,18,0,2809.969873
+Bathurst,Line 2,monday,19,0,2299.06626
+Bathurst,Line 2,monday,20,0,1788.162647
+Bathurst,Line 2,monday,21,0,1277.259033
+Bathurst,Line 2,monday,22,0,766.3554199
+Bathurst,Line 2,monday,23,0,510.9036133
+Bathurst,Line 2,monday,24,0,255.4518066
+Bathurst,Line 2,sunday,0,0,530.0839724
+Bathurst,Line 2,sunday,1,0,397.5629793
+Bathurst,Line 2,sunday,8,0,1325.209931
+Bathurst,Line 2,sunday,9,0,1590.251917
+Bathurst,Line 2,sunday,10,0,1855.293903
+Bathurst,Line 2,sunday,11,0,1987.814897
+Bathurst,Line 2,sunday,11,0,1987.814897
+Bathurst,Line 2,sunday,12,0,2120.33589
+Bathurst,Line 2,sunday,13,0,2252.856883
+Bathurst,Line 2,sunday,14,0,2385.377876
+Bathurst,Line 2,sunday,15,0,2517.898869
+Bathurst,Line 2,sunday,16,0,2650.419862
+Bathurst,Line 2,sunday,17,0,2650.419862
+Bathurst,Line 2,sunday,18,0,2517.898869
+Bathurst,Line 2,sunday,19,0,2385.377876
+Bathurst,Line 2,sunday,20,0,2120.33589
+Bathurst,Line 2,sunday,21,0,1855.293903
+Bathurst,Line 2,sunday,22,0,1590.251917
+Bathurst,Line 2,sunday,23,0,1192.688938
+Bathurst,Line 2,sunday,24,0,662.6049655
+Bay,Line 2,monday,0,0,87.57727472
+Bay,Line 2,monday,1,0,70.06181977
+Bay,Line 2,monday,6,0,262.7318241
+Bay,Line 2,monday,7,0,437.8863736
+Bay,Line 2,monday,8,0,613.040923
+Bay,Line 2,monday,9,0,788.1954724
+Bay,Line 2,monday,10,0,875.7727472
+Bay,Line 2,monday,11,0,963.3500219
+Bay,Line 2,monday,11,0,963.3500219
+Bay,Line 2,monday,12,0,1050.927297
+Bay,Line 2,monday,13,0,1138.504571
+Bay,Line 2,monday,14,0,1226.081846
+Bay,Line 2,monday,15,0,1576.390945
+Bay,Line 2,monday,16,0,1926.700044
+Bay,Line 2,monday,17,0,2101.854593
+Bay,Line 2,monday,18,0,1926.700044
+Bay,Line 2,monday,19,0,1576.390945
+Bay,Line 2,monday,20,0,1226.081846
+Bay,Line 2,monday,21,0,875.7727472
+Bay,Line 2,monday,22,0,525.4636483
+Bay,Line 2,monday,23,0,350.3090989
+Bay,Line 2,monday,24,0,175.1545494
+Bay,Line 2,sunday,0,0,363.4604138
+Bay,Line 2,sunday,1,0,272.5953103
+Bay,Line 2,sunday,8,0,908.6510345
+Bay,Line 2,sunday,9,0,1090.381241
+Bay,Line 2,sunday,10,0,1272.111448
+Bay,Line 2,sunday,11,0,1362.976552
+Bay,Line 2,sunday,11,0,1362.976552
+Bay,Line 2,sunday,12,0,1453.841655
+Bay,Line 2,sunday,13,0,1544.706759
+Bay,Line 2,sunday,14,0,1635.571862
+Bay,Line 2,sunday,15,0,1726.436966
+Bay,Line 2,sunday,16,0,1817.302069
+Bay,Line 2,sunday,17,0,1817.302069
+Bay,Line 2,sunday,18,0,1726.436966
+Bay,Line 2,sunday,19,0,1635.571862
+Bay,Line 2,sunday,20,0,1453.841655
+Bay,Line 2,sunday,21,0,1272.111448
+Bay,Line 2,sunday,22,0,1090.381241
+Bay,Line 2,sunday,23,0,817.785931
+Bay,Line 2,sunday,24,0,454.3255172
+Bayview,Line 4,monday,0,0,20.47060069
+Bayview,Line 4,monday,1,0,15.35295052
+Bayview,Line 4,monday,6,0,255.8825086
+Bayview,Line 4,monday,7,0,460.5885156
+Bayview,Line 4,monday,8,0,511.7650173
+Bayview,Line 4,monday,9,0,358.2355121
+Bayview,Line 4,monday,10,0,255.8825086
+Bayview,Line 4,monday,11,0,204.7060069
+Bayview,Line 4,monday,11,0,204.7060069
+Bayview,Line 4,monday,12,0,230.2942578
+Bayview,Line 4,monday,13,0,230.2942578
+Bayview,Line 4,monday,14,0,255.8825086
+Bayview,Line 4,monday,15,0,358.2355121
+Bayview,Line 4,monday,16,0,511.7650173
+Bayview,Line 4,monday,17,0,562.941519
+Bayview,Line 4,monday,18,0,511.7650173
+Bayview,Line 4,monday,19,0,409.4120138
+Bayview,Line 4,monday,20,0,307.0590104
+Bayview,Line 4,monday,21,0,204.7060069
+Bayview,Line 4,monday,22,0,102.3530035
+Bayview,Line 4,monday,23,0,51.17650173
+Bayview,Line 4,monday,24,0,25.58825086
+Bayview,Line 4,sunday,0,0,107.4962759
+Bayview,Line 4,sunday,1,0,80.6222069
+Bayview,Line 4,sunday,8,0,268.7406897
+Bayview,Line 4,sunday,9,0,322.4888276
+Bayview,Line 4,sunday,10,0,376.2369655
+Bayview,Line 4,sunday,11,0,403.1110345
+Bayview,Line 4,sunday,11,0,403.1110345
+Bayview,Line 4,sunday,12,0,429.9851034
+Bayview,Line 4,sunday,13,0,456.8591724
+Bayview,Line 4,sunday,14,0,483.7332414
+Bayview,Line 4,sunday,15,0,510.6073103
+Bayview,Line 4,sunday,16,0,537.4813793
+Bayview,Line 4,sunday,17,0,537.4813793
+Bayview,Line 4,sunday,18,0,510.6073103
+Bayview,Line 4,sunday,19,0,483.7332414
+Bayview,Line 4,sunday,20,0,429.9851034
+Bayview,Line 4,sunday,21,0,376.2369655
+Bayview,Line 4,sunday,22,0,322.4888276
+Bayview,Line 4,sunday,23,0,241.8666207
+Bayview,Line 4,sunday,24,0,134.3703448
+Bessarion,Line 4,monday,0,0,10.49097666
+Bessarion,Line 4,monday,1,0,7.868232498
+Bessarion,Line 4,monday,6,0,131.1372083
+Bessarion,Line 4,monday,7,0,236.0469749
+Bessarion,Line 4,monday,8,0,262.2744166
+Bessarion,Line 4,monday,9,0,183.5920916
+Bessarion,Line 4,monday,10,0,131.1372083
+Bessarion,Line 4,monday,11,0,104.9097666
+Bessarion,Line 4,monday,11,0,104.9097666
+Bessarion,Line 4,monday,12,0,118.0234875
+Bessarion,Line 4,monday,13,0,118.0234875
+Bessarion,Line 4,monday,14,0,131.1372083
+Bessarion,Line 4,monday,15,0,183.5920916
+Bessarion,Line 4,monday,16,0,262.2744166
+Bessarion,Line 4,monday,17,0,288.5018583
+Bessarion,Line 4,monday,18,0,262.2744166
+Bessarion,Line 4,monday,19,0,209.8195333
+Bessarion,Line 4,monday,20,0,157.36465
+Bessarion,Line 4,monday,21,0,104.9097666
+Bessarion,Line 4,monday,22,0,52.45488332
+Bessarion,Line 4,monday,23,0,26.22744166
+Bessarion,Line 4,monday,24,0,13.11372083
+Bessarion,Line 4,sunday,0,0,55.09075862
+Bessarion,Line 4,sunday,1,0,41.31806897
+Bessarion,Line 4,sunday,8,0,137.7268966
+Bessarion,Line 4,sunday,9,0,165.2722759
+Bessarion,Line 4,sunday,10,0,192.8176552
+Bessarion,Line 4,sunday,11,0,206.5903448
+Bessarion,Line 4,sunday,11,0,206.5903448
+Bessarion,Line 4,sunday,12,0,220.3630345
+Bessarion,Line 4,sunday,13,0,234.1357241
+Bessarion,Line 4,sunday,14,0,247.9084138
+Bessarion,Line 4,sunday,15,0,261.6811034
+Bessarion,Line 4,sunday,16,0,275.4537931
+Bessarion,Line 4,sunday,17,0,275.4537931
+Bessarion,Line 4,sunday,18,0,261.6811034
+Bessarion,Line 4,sunday,19,0,247.9084138
+Bessarion,Line 4,sunday,20,0,220.3630345
+Bessarion,Line 4,sunday,21,0,192.8176552
+Bessarion,Line 4,sunday,22,0,165.2722759
+Bessarion,Line 4,sunday,23,0,123.9542069
+Bessarion,Line 4,sunday,24,0,68.86344828
+Bloor-Yonge,Line 1,monday,0,0,1250.850065
+Bloor-Yonge,Line 1,monday,1,0,625.4250324
+Bloor-Yonge,Line 1,monday,6,0,6254.250324
+Bloor-Yonge,Line 1,monday,7,0,15010.20078
+Bloor-Yonge,Line 1,monday,8,0,18762.75097
+Bloor-Yonge,Line 1,monday,9,0,10006.80052
+Bloor-Yonge,Line 1,monday,10,0,6254.250324
+Bloor-Yonge,Line 1,monday,11,0,5003.400259
+Bloor-Yonge,Line 1,monday,11,0,5003.400259
+Bloor-Yonge,Line 1,monday,12,0,6254.250324
+Bloor-Yonge,Line 1,monday,13,0,5003.400259
+Bloor-Yonge,Line 1,monday,14,0,6254.250324
+Bloor-Yonge,Line 1,monday,15,0,7505.100389
+Bloor-Yonge,Line 1,monday,16,0,10006.80052
+Bloor-Yonge,Line 1,monday,17,0,18762.75097
+Bloor-Yonge,Line 1,monday,18,0,15010.20078
+Bloor-Yonge,Line 1,monday,19,0,7505.100389
+Bloor-Yonge,Line 1,monday,20,0,3752.550195
+Bloor-Yonge,Line 1,monday,21,0,2501.70013
+Bloor-Yonge,Line 1,monday,22,0,1250.850065
+Bloor-Yonge,Line 1,monday,23,0,625.4250324
+Bloor-Yonge,Line 1,monday,24,0,382.1461801
+Bloor-Yonge,Line 1,sunday,0,0,2713.704938
+Bloor-Yonge,Line 1,sunday,1,0,2035.278703
+Bloor-Yonge,Line 1,sunday,8,0,6784.262345
+Bloor-Yonge,Line 1,sunday,9,0,8141.114814
+Bloor-Yonge,Line 1,sunday,10,0,9497.967283
+Bloor-Yonge,Line 1,sunday,11,0,10176.39352
+Bloor-Yonge,Line 1,sunday,11,0,10176.39352
+Bloor-Yonge,Line 1,sunday,12,0,10854.81975
+Bloor-Yonge,Line 1,sunday,13,0,11533.24599
+Bloor-Yonge,Line 1,sunday,14,0,12211.67222
+Bloor-Yonge,Line 1,sunday,15,0,12890.09846
+Bloor-Yonge,Line 1,sunday,16,0,13568.52469
+Bloor-Yonge,Line 1,sunday,17,0,13568.52469
+Bloor-Yonge,Line 1,sunday,18,0,12890.09846
+Bloor-Yonge,Line 1,sunday,19,0,12211.67222
+Bloor-Yonge,Line 1,sunday,20,0,10854.81975
+Bloor-Yonge,Line 1,sunday,21,0,9497.967283
+Bloor-Yonge,Line 1,sunday,22,0,8141.114814
+Bloor-Yonge,Line 1,sunday,23,0,6105.83611
+Bloor-Yonge,Line 1,sunday,24,0,3392.131172
+Bloor-Yonge,Line 2,monday,0,0,507.3095221
+Bloor-Yonge,Line 2,monday,1,0,405.8476177
+Bloor-Yonge,Line 2,monday,6,0,1521.928566
+Bloor-Yonge,Line 2,monday,7,0,2536.54761
+Bloor-Yonge,Line 2,monday,8,0,3551.166655
+Bloor-Yonge,Line 2,monday,9,0,4565.785699
+Bloor-Yonge,Line 2,monday,10,0,5073.095221
+Bloor-Yonge,Line 2,monday,11,0,5580.404743
+Bloor-Yonge,Line 2,monday,11,0,5580.404743
+Bloor-Yonge,Line 2,monday,12,0,6087.714265
+Bloor-Yonge,Line 2,monday,13,0,6595.023787
+Bloor-Yonge,Line 2,monday,14,0,7102.333309
+Bloor-Yonge,Line 2,monday,15,0,9131.571398
+Bloor-Yonge,Line 2,monday,16,0,11160.80949
+Bloor-Yonge,Line 2,monday,17,0,12175.42853
+Bloor-Yonge,Line 2,monday,18,0,11160.80949
+Bloor-Yonge,Line 2,monday,19,0,9131.571398
+Bloor-Yonge,Line 2,monday,20,0,7102.333309
+Bloor-Yonge,Line 2,monday,21,0,5073.095221
+Bloor-Yonge,Line 2,monday,22,0,3043.857133
+Bloor-Yonge,Line 2,monday,23,0,2029.238088
+Bloor-Yonge,Line 2,monday,24,0,1014.619044
+Bloor-Yonge,Line 2,sunday,0,0,2105.419807
+Bloor-Yonge,Line 2,sunday,1,0,1579.064855
+Bloor-Yonge,Line 2,sunday,8,0,5263.549517
+Bloor-Yonge,Line 2,sunday,9,0,6316.259421
+Bloor-Yonge,Line 2,sunday,10,0,7368.969324
+Bloor-Yonge,Line 2,sunday,11,0,7895.324276
+Bloor-Yonge,Line 2,sunday,11,0,7895.324276
+Bloor-Yonge,Line 2,sunday,12,0,8421.679228
+Bloor-Yonge,Line 2,sunday,13,0,8948.034179
+Bloor-Yonge,Line 2,sunday,14,0,9474.389131
+Bloor-Yonge,Line 2,sunday,15,0,10000.74408
+Bloor-Yonge,Line 2,sunday,16,0,10527.09903
+Bloor-Yonge,Line 2,sunday,17,0,10527.09903
+Bloor-Yonge,Line 2,sunday,18,0,10000.74408
+Bloor-Yonge,Line 2,sunday,19,0,9474.389131
+Bloor-Yonge,Line 2,sunday,20,0,8421.679228
+Bloor-Yonge,Line 2,sunday,21,0,7368.969324
+Bloor-Yonge,Line 2,sunday,22,0,6316.259421
+Bloor-Yonge,Line 2,sunday,23,0,4737.194566
+Bloor-Yonge,Line 2,sunday,24,0,2631.774759
+Broadview,Line 2,monday,0,0,48.92305337
+Broadview,Line 2,monday,1,0,39.13844269
+Broadview,Line 2,monday,6,0,146.7691601
+Broadview,Line 2,monday,7,0,244.6152668
+Broadview,Line 2,monday,8,0,342.4613736
+Broadview,Line 2,monday,9,0,440.3074803
+Broadview,Line 2,monday,10,0,489.2305337
+Broadview,Line 2,monday,11,0,538.1535871
+Broadview,Line 2,monday,11,0,538.1535871
+Broadview,Line 2,monday,12,0,587.0766404
+Broadview,Line 2,monday,13,0,635.9996938
+Broadview,Line 2,monday,14,0,684.9227472
+Broadview,Line 2,monday,15,0,880.6149606
+Broadview,Line 2,monday,16,0,1076.307174
+Broadview,Line 2,monday,17,0,1174.153281
+Broadview,Line 2,monday,18,0,1076.307174
+Broadview,Line 2,monday,19,0,880.6149606
+Broadview,Line 2,monday,20,0,684.9227472
+Broadview,Line 2,monday,21,0,489.2305337
+Broadview,Line 2,monday,22,0,293.5383202
+Broadview,Line 2,monday,23,0,195.6922135
+Broadview,Line 2,monday,24,0,97.84610674
+Broadview,Line 2,sunday,0,0,203.0388966
+Broadview,Line 2,sunday,1,0,152.2791724
+Broadview,Line 2,sunday,8,0,507.5972414
+Broadview,Line 2,sunday,9,0,609.1166897
+Broadview,Line 2,sunday,10,0,710.6361379
+Broadview,Line 2,sunday,11,0,761.3958621
+Broadview,Line 2,sunday,11,0,761.3958621
+Broadview,Line 2,sunday,12,0,812.1555862
+Broadview,Line 2,sunday,13,0,862.9153103
+Broadview,Line 2,sunday,14,0,913.6750345
+Broadview,Line 2,sunday,15,0,964.4347586
+Broadview,Line 2,sunday,16,0,1015.194483
+Broadview,Line 2,sunday,17,0,1015.194483
+Broadview,Line 2,sunday,18,0,964.4347586
+Broadview,Line 2,sunday,19,0,913.6750345
+Broadview,Line 2,sunday,20,0,812.1555862
+Broadview,Line 2,sunday,21,0,710.6361379
+Broadview,Line 2,sunday,22,0,609.1166897
+Broadview,Line 2,sunday,23,0,456.8375172
+Broadview,Line 2,sunday,24,0,253.7986207
+Castle Frank,Line 2,monday,0,0,37.33096129
+Castle Frank,Line 2,monday,1,0,29.86476903
+Castle Frank,Line 2,monday,6,0,111.9928839
+Castle Frank,Line 2,monday,7,0,186.6548064
+Castle Frank,Line 2,monday,8,0,261.316729
+Castle Frank,Line 2,monday,9,0,335.9786516
+Castle Frank,Line 2,monday,10,0,373.3096129
+Castle Frank,Line 2,monday,11,0,410.6405741
+Castle Frank,Line 2,monday,11,0,410.6405741
+Castle Frank,Line 2,monday,12,0,447.9715354
+Castle Frank,Line 2,monday,13,0,485.3024967
+Castle Frank,Line 2,monday,14,0,522.633458
+Castle Frank,Line 2,monday,15,0,671.9573031
+Castle Frank,Line 2,monday,16,0,821.2811483
+Castle Frank,Line 2,monday,17,0,895.9430709
+Castle Frank,Line 2,monday,18,0,821.2811483
+Castle Frank,Line 2,monday,19,0,671.9573031
+Castle Frank,Line 2,monday,20,0,522.633458
+Castle Frank,Line 2,monday,21,0,373.3096129
+Castle Frank,Line 2,monday,22,0,223.9857677
+Castle Frank,Line 2,monday,23,0,149.3238451
+Castle Frank,Line 2,monday,24,0,74.66192257
+Castle Frank,Line 2,sunday,0,0,154.9297655
+Castle Frank,Line 2,sunday,1,0,116.1973241
+Castle Frank,Line 2,sunday,8,0,387.3244138
+Castle Frank,Line 2,sunday,9,0,464.7892966
+Castle Frank,Line 2,sunday,10,0,542.2541793
+Castle Frank,Line 2,sunday,11,0,580.9866207
+Castle Frank,Line 2,sunday,11,0,580.9866207
+Castle Frank,Line 2,sunday,12,0,619.7190621
+Castle Frank,Line 2,sunday,13,0,658.4515034
+Castle Frank,Line 2,sunday,14,0,697.1839448
+Castle Frank,Line 2,sunday,15,0,735.9163862
+Castle Frank,Line 2,sunday,16,0,774.6488276
+Castle Frank,Line 2,sunday,17,0,774.6488276
+Castle Frank,Line 2,sunday,18,0,735.9163862
+Castle Frank,Line 2,sunday,19,0,697.1839448
+Castle Frank,Line 2,sunday,20,0,619.7190621
+Castle Frank,Line 2,sunday,21,0,542.2541793
+Castle Frank,Line 2,sunday,22,0,464.7892966
+Castle Frank,Line 2,sunday,23,0,348.5919724
+Castle Frank,Line 2,sunday,24,0,193.6622069
+Chester,Line 2,monday,0,0,25.86827318
+Chester,Line 2,monday,1,0,20.69461855
+Chester,Line 2,monday,6,0,77.60481955
+Chester,Line 2,monday,7,0,129.3413659
+Chester,Line 2,monday,8,0,181.0779123
+Chester,Line 2,monday,9,0,232.8144587
+Chester,Line 2,monday,10,0,258.6827318
+Chester,Line 2,monday,11,0,284.551005
+Chester,Line 2,monday,11,0,284.551005
+Chester,Line 2,monday,12,0,310.4192782
+Chester,Line 2,monday,13,0,336.2875514
+Chester,Line 2,monday,14,0,362.1558246
+Chester,Line 2,monday,15,0,465.6289173
+Chester,Line 2,monday,16,0,569.1020101
+Chester,Line 2,monday,17,0,620.8385564
+Chester,Line 2,monday,18,0,569.1020101
+Chester,Line 2,monday,19,0,465.6289173
+Chester,Line 2,monday,20,0,362.1558246
+Chester,Line 2,monday,21,0,258.6827318
+Chester,Line 2,monday,22,0,155.2096391
+Chester,Line 2,monday,23,0,103.4730927
+Chester,Line 2,monday,24,0,51.73654637
+Chester,Line 2,sunday,0,0,107.3576828
+Chester,Line 2,sunday,1,0,80.51826207
+Chester,Line 2,sunday,8,0,268.3942069
+Chester,Line 2,sunday,9,0,322.0730483
+Chester,Line 2,sunday,10,0,375.7518897
+Chester,Line 2,sunday,11,0,402.5913103
+Chester,Line 2,sunday,11,0,402.5913103
+Chester,Line 2,sunday,12,0,429.430731
+Chester,Line 2,sunday,13,0,456.2701517
+Chester,Line 2,sunday,14,0,483.1095724
+Chester,Line 2,sunday,15,0,509.9489931
+Chester,Line 2,sunday,16,0,536.7884138
+Chester,Line 2,sunday,17,0,536.7884138
+Chester,Line 2,sunday,18,0,509.9489931
+Chester,Line 2,sunday,19,0,483.1095724
+Chester,Line 2,sunday,20,0,429.430731
+Chester,Line 2,sunday,21,0,375.7518897
+Chester,Line 2,sunday,22,0,322.0730483
+Chester,Line 2,sunday,23,0,241.5547862
+Chester,Line 2,sunday,24,0,134.1971034
+Christie,Line 2,monday,0,0,47.61649059
+Christie,Line 2,monday,1,0,38.09319248
+Christie,Line 2,monday,6,0,142.8494718
+Christie,Line 2,monday,7,0,238.082453
+Christie,Line 2,monday,8,0,333.3154342
+Christie,Line 2,monday,9,0,428.5484154
+Christie,Line 2,monday,10,0,476.1649059
+Christie,Line 2,monday,11,0,523.7813965
+Christie,Line 2,monday,11,0,523.7813965
+Christie,Line 2,monday,12,0,571.3978871
+Christie,Line 2,monday,13,0,619.0143777
+Christie,Line 2,monday,14,0,666.6308683
+Christie,Line 2,monday,15,0,857.0968307
+Christie,Line 2,monday,16,0,1047.562793
+Christie,Line 2,monday,17,0,1142.795774
+Christie,Line 2,monday,18,0,1047.562793
+Christie,Line 2,monday,19,0,857.0968307
+Christie,Line 2,monday,20,0,666.6308683
+Christie,Line 2,monday,21,0,476.1649059
+Christie,Line 2,monday,22,0,285.6989436
+Christie,Line 2,monday,23,0,190.4659624
+Christie,Line 2,monday,24,0,95.23298119
+Christie,Line 2,sunday,0,0,197.6164414
+Christie,Line 2,sunday,1,0,148.212331
+Christie,Line 2,sunday,8,0,494.0411034
+Christie,Line 2,sunday,9,0,592.8493241
+Christie,Line 2,sunday,10,0,691.6575448
+Christie,Line 2,sunday,11,0,741.0616552
+Christie,Line 2,sunday,11,0,741.0616552
+Christie,Line 2,sunday,12,0,790.4657655
+Christie,Line 2,sunday,13,0,839.8698759
+Christie,Line 2,sunday,14,0,889.2739862
+Christie,Line 2,sunday,15,0,938.6780966
+Christie,Line 2,sunday,16,0,988.0822069
+Christie,Line 2,sunday,17,0,988.0822069
+Christie,Line 2,sunday,18,0,938.6780966
+Christie,Line 2,sunday,19,0,889.2739862
+Christie,Line 2,sunday,20,0,790.4657655
+Christie,Line 2,sunday,21,0,691.6575448
+Christie,Line 2,sunday,22,0,592.8493241
+Christie,Line 2,sunday,23,0,444.6369931
+Christie,Line 2,sunday,24,0,247.0205517
+College,Line 1,monday,0,0,312.522864
+College,Line 1,monday,1,0,156.261432
+College,Line 1,monday,6,0,1562.61432
+College,Line 1,monday,7,0,3750.274368
+College,Line 1,monday,8,0,4687.84296
+College,Line 1,monday,9,0,2500.182912
+College,Line 1,monday,10,0,1562.61432
+College,Line 1,monday,11,0,1250.091456
+College,Line 1,monday,11,0,1250.091456
+College,Line 1,monday,12,0,1562.61432
+College,Line 1,monday,13,0,1250.091456
+College,Line 1,monday,14,0,1562.61432
+College,Line 1,monday,15,0,1875.137184
+College,Line 1,monday,16,0,2500.182912
+College,Line 1,monday,17,0,4687.84296
+College,Line 1,monday,18,0,3750.274368
+College,Line 1,monday,19,0,1875.137184
+College,Line 1,monday,20,0,937.5685921
+College,Line 1,monday,21,0,625.045728
+College,Line 1,monday,22,0,312.522864
+College,Line 1,monday,23,0,156.261432
+College,Line 1,monday,24,0,95.47860453
+College,Line 1,sunday,0,0,678.0147862
+College,Line 1,sunday,1,0,508.5110897
+College,Line 1,sunday,8,0,1695.036966
+College,Line 1,sunday,9,0,2034.044359
+College,Line 1,sunday,10,0,2373.051752
+College,Line 1,sunday,11,0,2542.555448
+College,Line 1,sunday,11,0,2542.555448
+College,Line 1,sunday,12,0,2712.059145
+College,Line 1,sunday,13,0,2881.562841
+College,Line 1,sunday,14,0,3051.066538
+College,Line 1,sunday,15,0,3220.570234
+College,Line 1,sunday,16,0,3390.073931
+College,Line 1,sunday,17,0,3390.073931
+College,Line 1,sunday,18,0,3220.570234
+College,Line 1,sunday,19,0,3051.066538
+College,Line 1,sunday,20,0,2712.059145
+College,Line 1,sunday,21,0,2373.051752
+College,Line 1,sunday,22,0,2034.044359
+College,Line 1,sunday,23,0,1525.533269
+College,Line 1,sunday,24,0,847.5184828
+Coxwell,Line 2,monday,0,0,56.14463036
+Coxwell,Line 2,monday,1,0,44.91570429
+Coxwell,Line 2,monday,6,0,168.4338911
+Coxwell,Line 2,monday,7,0,280.7231518
+Coxwell,Line 2,monday,8,0,393.0124125
+Coxwell,Line 2,monday,9,0,505.3016732
+Coxwell,Line 2,monday,10,0,561.4463036
+Coxwell,Line 2,monday,11,0,617.5909339
+Coxwell,Line 2,monday,11,0,617.5909339
+Coxwell,Line 2,monday,12,0,673.7355643
+Coxwell,Line 2,monday,13,0,729.8801947
+Coxwell,Line 2,monday,14,0,786.024825
+Coxwell,Line 2,monday,15,0,1010.603346
+Coxwell,Line 2,monday,16,0,1235.181868
+Coxwell,Line 2,monday,17,0,1347.471129
+Coxwell,Line 2,monday,18,0,1235.181868
+Coxwell,Line 2,monday,19,0,1010.603346
+Coxwell,Line 2,monday,20,0,786.024825
+Coxwell,Line 2,monday,21,0,561.4463036
+Coxwell,Line 2,monday,22,0,336.8677822
+Coxwell,Line 2,monday,23,0,224.5785214
+Coxwell,Line 2,monday,24,0,112.2892607
+Coxwell,Line 2,sunday,0,0,233.0096552
+Coxwell,Line 2,sunday,1,0,174.7572414
+Coxwell,Line 2,sunday,8,0,582.5241379
+Coxwell,Line 2,sunday,9,0,699.0289655
+Coxwell,Line 2,sunday,10,0,815.5337931
+Coxwell,Line 2,sunday,11,0,873.7862069
+Coxwell,Line 2,sunday,11,0,873.7862069
+Coxwell,Line 2,sunday,12,0,932.0386207
+Coxwell,Line 2,sunday,13,0,990.2910345
+Coxwell,Line 2,sunday,14,0,1048.543448
+Coxwell,Line 2,sunday,15,0,1106.795862
+Coxwell,Line 2,sunday,16,0,1165.048276
+Coxwell,Line 2,sunday,17,0,1165.048276
+Coxwell,Line 2,sunday,18,0,1106.795862
+Coxwell,Line 2,sunday,19,0,1048.543448
+Coxwell,Line 2,sunday,20,0,932.0386207
+Coxwell,Line 2,sunday,21,0,815.5337931
+Coxwell,Line 2,sunday,22,0,699.0289655
+Coxwell,Line 2,sunday,23,0,524.2717241
+Coxwell,Line 2,sunday,24,0,291.262069
+Davisville,Line 1,monday,0,0,126.9911109
+Davisville,Line 1,monday,1,0,63.49555544
+Davisville,Line 1,monday,6,0,634.9555544
+Davisville,Line 1,monday,7,0,1523.893331
+Davisville,Line 1,monday,8,0,1904.866663
+Davisville,Line 1,monday,9,0,1015.928887
+Davisville,Line 1,monday,10,0,634.9555544
+Davisville,Line 1,monday,11,0,507.9644435
+Davisville,Line 1,monday,11,0,507.9644435
+Davisville,Line 1,monday,12,0,634.9555544
+Davisville,Line 1,monday,13,0,507.9644435
+Davisville,Line 1,monday,14,0,634.9555544
+Davisville,Line 1,monday,15,0,761.9466653
+Davisville,Line 1,monday,16,0,1015.928887
+Davisville,Line 1,monday,17,0,1904.866663
+Davisville,Line 1,monday,18,0,1523.893331
+Davisville,Line 1,monday,19,0,761.9466653
+Davisville,Line 1,monday,20,0,380.9733326
+Davisville,Line 1,monday,21,0,253.9822218
+Davisville,Line 1,monday,22,0,126.9911109
+Davisville,Line 1,monday,23,0,63.49555544
+Davisville,Line 1,monday,24,0,38.7969504
+Davisville,Line 1,sunday,0,0,275.5057655
+Davisville,Line 1,sunday,1,0,206.6293241
+Davisville,Line 1,sunday,8,0,688.7644138
+Davisville,Line 1,sunday,9,0,826.5172966
+Davisville,Line 1,sunday,10,0,964.2701793
+Davisville,Line 1,sunday,11,0,1033.146621
+Davisville,Line 1,sunday,11,0,1033.146621
+Davisville,Line 1,sunday,12,0,1102.023062
+Davisville,Line 1,sunday,13,0,1170.899503
+Davisville,Line 1,sunday,14,0,1239.775945
+Davisville,Line 1,sunday,15,0,1308.652386
+Davisville,Line 1,sunday,16,0,1377.528828
+Davisville,Line 1,sunday,17,0,1377.528828
+Davisville,Line 1,sunday,18,0,1308.652386
+Davisville,Line 1,sunday,19,0,1239.775945
+Davisville,Line 1,sunday,20,0,1102.023062
+Davisville,Line 1,sunday,21,0,964.2701793
+Davisville,Line 1,sunday,22,0,826.5172966
+Davisville,Line 1,sunday,23,0,619.8879724
+Davisville,Line 1,sunday,24,0,344.3822069
+Don Mills,Line 4,monday,0,0,94.71240536
+Don Mills,Line 4,monday,1,0,71.03430402
+Don Mills,Line 4,monday,6,0,1183.905067
+Don Mills,Line 4,monday,7,0,2131.029121
+Don Mills,Line 4,monday,8,0,2367.810134
+Don Mills,Line 4,monday,9,0,1657.467094
+Don Mills,Line 4,monday,10,0,1183.905067
+Don Mills,Line 4,monday,11,0,947.1240536
+Don Mills,Line 4,monday,11,0,947.1240536
+Don Mills,Line 4,monday,12,0,1065.51456
+Don Mills,Line 4,monday,13,0,1065.51456
+Don Mills,Line 4,monday,14,0,1183.905067
+Don Mills,Line 4,monday,15,0,1657.467094
+Don Mills,Line 4,monday,16,0,2367.810134
+Don Mills,Line 4,monday,17,0,2604.591147
+Don Mills,Line 4,monday,18,0,2367.810134
+Don Mills,Line 4,monday,19,0,1894.248107
+Don Mills,Line 4,monday,20,0,1420.68608
+Don Mills,Line 4,monday,21,0,947.1240536
+Don Mills,Line 4,monday,22,0,473.5620268
+Don Mills,Line 4,monday,23,0,236.7810134
+Don Mills,Line 4,monday,24,0,118.3905067
+Don Mills,Line 4,sunday,0,0,497.3586759
+Don Mills,Line 4,sunday,1,0,373.0190069
+Don Mills,Line 4,sunday,8,0,1243.39669
+Don Mills,Line 4,sunday,9,0,1492.076028
+Don Mills,Line 4,sunday,10,0,1740.755366
+Don Mills,Line 4,sunday,11,0,1865.095034
+Don Mills,Line 4,sunday,11,0,1865.095034
+Don Mills,Line 4,sunday,12,0,1989.434703
+Don Mills,Line 4,sunday,13,0,2113.774372
+Don Mills,Line 4,sunday,14,0,2238.114041
+Don Mills,Line 4,sunday,15,0,2362.45371
+Don Mills,Line 4,sunday,16,0,2486.793379
+Don Mills,Line 4,sunday,17,0,2486.793379
+Don Mills,Line 4,sunday,18,0,2362.45371
+Don Mills,Line 4,sunday,19,0,2238.114041
+Don Mills,Line 4,sunday,20,0,1989.434703
+Don Mills,Line 4,sunday,21,0,1740.755366
+Don Mills,Line 4,sunday,22,0,1492.076028
+Don Mills,Line 4,sunday,23,0,1119.057021
+Don Mills,Line 4,sunday,24,0,621.6983448
+Donlands,Line 2,monday,0,0,26.36919182
+Donlands,Line 2,monday,1,0,21.09535346
+Donlands,Line 2,monday,6,0,79.10757546
+Donlands,Line 2,monday,7,0,131.8459591
+Donlands,Line 2,monday,8,0,184.5843427
+Donlands,Line 2,monday,9,0,237.3227264
+Donlands,Line 2,monday,10,0,263.6919182
+Donlands,Line 2,monday,11,0,290.06111
+Donlands,Line 2,monday,11,0,290.06111
+Donlands,Line 2,monday,12,0,316.4303018
+Donlands,Line 2,monday,13,0,342.7994937
+Donlands,Line 2,monday,14,0,369.1686855
+Donlands,Line 2,monday,15,0,474.6454528
+Donlands,Line 2,monday,16,0,580.12222
+Donlands,Line 2,monday,17,0,632.8606037
+Donlands,Line 2,monday,18,0,580.12222
+Donlands,Line 2,monday,19,0,474.6454528
+Donlands,Line 2,monday,20,0,369.1686855
+Donlands,Line 2,monday,21,0,263.6919182
+Donlands,Line 2,monday,22,0,158.2151509
+Donlands,Line 2,monday,23,0,105.4767673
+Donlands,Line 2,monday,24,0,52.73838364
+Donlands,Line 2,sunday,0,0,109.4365793
+Donlands,Line 2,sunday,1,0,82.07743448
+Donlands,Line 2,sunday,8,0,273.5914483
+Donlands,Line 2,sunday,9,0,328.3097379
+Donlands,Line 2,sunday,10,0,383.0280276
+Donlands,Line 2,sunday,11,0,410.3871724
+Donlands,Line 2,sunday,11,0,410.3871724
+Donlands,Line 2,sunday,12,0,437.7463172
+Donlands,Line 2,sunday,13,0,465.1054621
+Donlands,Line 2,sunday,14,0,492.4646069
+Donlands,Line 2,sunday,15,0,519.8237517
+Donlands,Line 2,sunday,16,0,547.1828966
+Donlands,Line 2,sunday,17,0,547.1828966
+Donlands,Line 2,sunday,18,0,519.8237517
+Donlands,Line 2,sunday,19,0,492.4646069
+Donlands,Line 2,sunday,20,0,437.7463172
+Donlands,Line 2,sunday,21,0,383.0280276
+Donlands,Line 2,sunday,22,0,328.3097379
+Donlands,Line 2,sunday,23,0,246.2323034
+Donlands,Line 2,sunday,24,0,136.7957241
+Downsview Park,Line 1,monday,0,0,44.86172803
+Downsview Park,Line 1,monday,1,0,22.43086402
+Downsview Park,Line 1,monday,6,0,224.3086402
+Downsview Park,Line 1,monday,7,0,538.3407364
+Downsview Park,Line 1,monday,8,0,672.9259205
+Downsview Park,Line 1,monday,9,0,358.8938243
+Downsview Park,Line 1,monday,10,0,224.3086402
+Downsview Park,Line 1,monday,11,0,179.4469121
+Downsview Park,Line 1,monday,11,0,179.4469121
+Downsview Park,Line 1,monday,12,0,224.3086402
+Downsview Park,Line 1,monday,13,0,179.4469121
+Downsview Park,Line 1,monday,14,0,224.3086402
+Downsview Park,Line 1,monday,15,0,269.1703682
+Downsview Park,Line 1,monday,16,0,358.8938243
+Downsview Park,Line 1,monday,17,0,672.9259205
+Downsview Park,Line 1,monday,18,0,538.3407364
+Downsview Park,Line 1,monday,19,0,269.1703682
+Downsview Park,Line 1,monday,20,0,134.5851841
+Downsview Park,Line 1,monday,21,0,89.72345607
+Downsview Park,Line 1,monday,22,0,44.86172803
+Downsview Park,Line 1,monday,23,0,22.43086402
+Downsview Park,Line 1,monday,24,0,13.70566983
+Downsview Park,Line 1,sunday,0,0,97.3270069
+Downsview Park,Line 1,sunday,1,0,72.99525517
+Downsview Park,Line 1,sunday,8,0,243.3175172
+Downsview Park,Line 1,sunday,9,0,291.9810207
+Downsview Park,Line 1,sunday,10,0,340.6445241
+Downsview Park,Line 1,sunday,11,0,364.9762759
+Downsview Park,Line 1,sunday,11,0,364.9762759
+Downsview Park,Line 1,sunday,12,0,389.3080276
+Downsview Park,Line 1,sunday,13,0,413.6397793
+Downsview Park,Line 1,sunday,14,0,437.971531
+Downsview Park,Line 1,sunday,15,0,462.3032828
+Downsview Park,Line 1,sunday,16,0,486.6350345
+Downsview Park,Line 1,sunday,17,0,486.6350345
+Downsview Park,Line 1,sunday,18,0,462.3032828
+Downsview Park,Line 1,sunday,19,0,437.971531
+Downsview Park,Line 1,sunday,20,0,389.3080276
+Downsview Park,Line 1,sunday,21,0,340.6445241
+Downsview Park,Line 1,sunday,22,0,291.9810207
+Downsview Park,Line 1,sunday,23,0,218.9857655
+Downsview Park,Line 1,sunday,24,0,121.6587586
+Dufferin,Line 2,monday,0,0,111.8718285
+Dufferin,Line 2,monday,1,0,89.49746282
+Dufferin,Line 2,monday,6,0,335.6154856
+Dufferin,Line 2,monday,7,0,559.3591426
+Dufferin,Line 2,monday,8,0,783.1027997
+Dufferin,Line 2,monday,9,0,1006.846457
+Dufferin,Line 2,monday,10,0,1118.718285
+Dufferin,Line 2,monday,11,0,1230.590114
+Dufferin,Line 2,monday,11,0,1230.590114
+Dufferin,Line 2,monday,12,0,1342.461942
+Dufferin,Line 2,monday,13,0,1454.333771
+Dufferin,Line 2,monday,14,0,1566.205599
+Dufferin,Line 2,monday,15,0,2013.692913
+Dufferin,Line 2,monday,16,0,2461.180227
+Dufferin,Line 2,monday,17,0,2684.923885
+Dufferin,Line 2,monday,18,0,2461.180227
+Dufferin,Line 2,monday,19,0,2013.692913
+Dufferin,Line 2,monday,20,0,1566.205599
+Dufferin,Line 2,monday,21,0,1118.718285
+Dufferin,Line 2,monday,22,0,671.2309711
+Dufferin,Line 2,monday,23,0,447.4873141
+Dufferin,Line 2,monday,24,0,223.743657
+Dufferin,Line 2,sunday,0,0,464.2868966
+Dufferin,Line 2,sunday,1,0,348.2151724
+Dufferin,Line 2,sunday,8,0,1160.717241
+Dufferin,Line 2,sunday,9,0,1392.86069
+Dufferin,Line 2,sunday,10,0,1625.004138
+Dufferin,Line 2,sunday,11,0,1741.075862
+Dufferin,Line 2,sunday,11,0,1741.075862
+Dufferin,Line 2,sunday,12,0,1857.147586
+Dufferin,Line 2,sunday,13,0,1973.21931
+Dufferin,Line 2,sunday,14,0,2089.291034
+Dufferin,Line 2,sunday,15,0,2205.362759
+Dufferin,Line 2,sunday,16,0,2321.434483
+Dufferin,Line 2,sunday,17,0,2321.434483
+Dufferin,Line 2,sunday,18,0,2205.362759
+Dufferin,Line 2,sunday,19,0,2089.291034
+Dufferin,Line 2,sunday,20,0,1857.147586
+Dufferin,Line 2,sunday,21,0,1625.004138
+Dufferin,Line 2,sunday,22,0,1392.86069
+Dufferin,Line 2,sunday,23,0,1044.645517
+Dufferin,Line 2,sunday,24,0,580.3586207
+Dundas,Line 1,monday,0,0,578.1876611
+Dundas,Line 1,monday,1,0,289.0938305
+Dundas,Line 1,monday,6,0,2890.938305
+Dundas,Line 1,monday,7,0,6938.251933
+Dundas,Line 1,monday,8,0,8672.814916
+Dundas,Line 1,monday,9,0,4625.501289
+Dundas,Line 1,monday,10,0,2890.938305
+Dundas,Line 1,monday,11,0,2312.750644
+Dundas,Line 1,monday,11,0,2312.750644
+Dundas,Line 1,monday,12,0,2890.938305
+Dundas,Line 1,monday,13,0,2312.750644
+Dundas,Line 1,monday,14,0,2890.938305
+Dundas,Line 1,monday,15,0,3469.125967
+Dundas,Line 1,monday,16,0,4625.501289
+Dundas,Line 1,monday,17,0,8672.814916
+Dundas,Line 1,monday,18,0,6938.251933
+Dundas,Line 1,monday,19,0,3469.125967
+Dundas,Line 1,monday,20,0,1734.562983
+Dundas,Line 1,monday,21,0,1156.375322
+Dundas,Line 1,monday,22,0,578.1876611
+Dundas,Line 1,monday,23,0,289.0938305
+Dundas,Line 1,monday,24,0,176.6416394
+Dundas,Line 1,sunday,0,0,1254.371531
+Dundas,Line 1,sunday,1,0,940.7786483
+Dundas,Line 1,sunday,8,0,3135.928828
+Dundas,Line 1,sunday,9,0,3763.114593
+Dundas,Line 1,sunday,10,0,4390.300359
+Dundas,Line 1,sunday,11,0,4703.893241
+Dundas,Line 1,sunday,11,0,4703.893241
+Dundas,Line 1,sunday,12,0,5017.486124
+Dundas,Line 1,sunday,13,0,5331.079007
+Dundas,Line 1,sunday,14,0,5644.67189
+Dundas,Line 1,sunday,15,0,5958.264772
+Dundas,Line 1,sunday,16,0,6271.857655
+Dundas,Line 1,sunday,17,0,6271.857655
+Dundas,Line 1,sunday,18,0,5958.264772
+Dundas,Line 1,sunday,19,0,5644.67189
+Dundas,Line 1,sunday,20,0,5017.486124
+Dundas,Line 1,sunday,21,0,4390.300359
+Dundas,Line 1,sunday,22,0,3763.114593
+Dundas,Line 1,sunday,23,0,2822.335945
+Dundas,Line 1,sunday,24,0,1567.964414
+Dundas West,Line 2,monday,0,0,99.60349628
+Dundas West,Line 2,monday,1,0,79.68279703
+Dundas West,Line 2,monday,6,0,298.8104888
+Dundas West,Line 2,monday,7,0,498.0174814
+Dundas West,Line 2,monday,8,0,697.224474
+Dundas West,Line 2,monday,9,0,896.4314665
+Dundas West,Line 2,monday,10,0,996.0349628
+Dundas West,Line 2,monday,11,0,1095.638459
+Dundas West,Line 2,monday,11,0,1095.638459
+Dundas West,Line 2,monday,12,0,1195.241955
+Dundas West,Line 2,monday,13,0,1294.845452
+Dundas West,Line 2,monday,14,0,1394.448948
+Dundas West,Line 2,monday,15,0,1792.862933
+Dundas West,Line 2,monday,16,0,2191.276918
+Dundas West,Line 2,monday,17,0,2390.483911
+Dundas West,Line 2,monday,18,0,2191.276918
+Dundas West,Line 2,monday,19,0,1792.862933
+Dundas West,Line 2,monday,20,0,1394.448948
+Dundas West,Line 2,monday,21,0,996.0349628
+Dundas West,Line 2,monday,22,0,597.6209777
+Dundas West,Line 2,monday,23,0,398.4139851
+Dundas West,Line 2,monday,24,0,199.2069926
+Dundas West,Line 2,sunday,0,0,413.3712552
+Dundas West,Line 2,sunday,1,0,310.0284414
+Dundas West,Line 2,sunday,8,0,1033.428138
+Dundas West,Line 2,sunday,9,0,1240.113766
+Dundas West,Line 2,sunday,10,0,1446.799393
+Dundas West,Line 2,sunday,11,0,1550.142207
+Dundas West,Line 2,sunday,11,0,1550.142207
+Dundas West,Line 2,sunday,12,0,1653.485021
+Dundas West,Line 2,sunday,13,0,1756.827834
+Dundas West,Line 2,sunday,14,0,1860.170648
+Dundas West,Line 2,sunday,15,0,1963.513462
+Dundas West,Line 2,sunday,16,0,2066.856276
+Dundas West,Line 2,sunday,17,0,2066.856276
+Dundas West,Line 2,sunday,18,0,1963.513462
+Dundas West,Line 2,sunday,19,0,1860.170648
+Dundas West,Line 2,sunday,20,0,1653.485021
+Dundas West,Line 2,sunday,21,0,1446.799393
+Dundas West,Line 2,sunday,22,0,1240.113766
+Dundas West,Line 2,sunday,23,0,930.0853241
+Dundas West,Line 2,sunday,24,0,516.714069
+Dupont,Line 1,monday,0,0,88.50968201
+Dupont,Line 1,monday,1,0,44.254841
+Dupont,Line 1,monday,6,0,442.54841
+Dupont,Line 1,monday,7,0,1062.116184
+Dupont,Line 1,monday,8,0,1327.64523
+Dupont,Line 1,monday,9,0,708.0774561
+Dupont,Line 1,monday,10,0,442.54841
+Dupont,Line 1,monday,11,0,354.038728
+Dupont,Line 1,monday,11,0,354.038728
+Dupont,Line 1,monday,12,0,442.54841
+Dupont,Line 1,monday,13,0,354.038728
+Dupont,Line 1,monday,14,0,442.54841
+Dupont,Line 1,monday,15,0,531.0580921
+Dupont,Line 1,monday,16,0,708.0774561
+Dupont,Line 1,monday,17,0,1327.64523
+Dupont,Line 1,monday,18,0,1062.116184
+Dupont,Line 1,monday,19,0,531.0580921
+Dupont,Line 1,monday,20,0,265.529046
+Dupont,Line 1,monday,21,0,177.019364
+Dupont,Line 1,monday,22,0,88.50968201
+Dupont,Line 1,monday,23,0,44.254841
+Dupont,Line 1,monday,24,0,27.04052055
+Dupont,Line 1,sunday,0,0,192.0207448
+Dupont,Line 1,sunday,1,0,144.0155586
+Dupont,Line 1,sunday,8,0,480.0518621
+Dupont,Line 1,sunday,9,0,576.0622345
+Dupont,Line 1,sunday,10,0,672.0726069
+Dupont,Line 1,sunday,11,0,720.0777931
+Dupont,Line 1,sunday,11,0,720.0777931
+Dupont,Line 1,sunday,12,0,768.0829793
+Dupont,Line 1,sunday,13,0,816.0881655
+Dupont,Line 1,sunday,14,0,864.0933517
+Dupont,Line 1,sunday,15,0,912.0985379
+Dupont,Line 1,sunday,16,0,960.1037241
+Dupont,Line 1,sunday,17,0,960.1037241
+Dupont,Line 1,sunday,18,0,912.0985379
+Dupont,Line 1,sunday,19,0,864.0933517
+Dupont,Line 1,sunday,20,0,768.0829793
+Dupont,Line 1,sunday,21,0,672.0726069
+Dupont,Line 1,sunday,22,0,576.0622345
+Dupont,Line 1,sunday,23,0,432.0466759
+Dupont,Line 1,sunday,24,0,240.025931
+Eglinton,Line 1,monday,0,0,485.6214184
+Eglinton,Line 1,monday,1,0,242.8107092
+Eglinton,Line 1,monday,6,0,2428.107092
+Eglinton,Line 1,monday,7,0,5827.457021
+Eglinton,Line 1,monday,8,0,7284.321276
+Eglinton,Line 1,monday,9,0,3884.971347
+Eglinton,Line 1,monday,10,0,2428.107092
+Eglinton,Line 1,monday,11,0,1942.485674
+Eglinton,Line 1,monday,11,0,1942.485674
+Eglinton,Line 1,monday,12,0,2428.107092
+Eglinton,Line 1,monday,13,0,1942.485674
+Eglinton,Line 1,monday,14,0,2428.107092
+Eglinton,Line 1,monday,15,0,2913.72851
+Eglinton,Line 1,monday,16,0,3884.971347
+Eglinton,Line 1,monday,17,0,7284.321276
+Eglinton,Line 1,monday,18,0,5827.457021
+Eglinton,Line 1,monday,19,0,2913.72851
+Eglinton,Line 1,monday,20,0,1456.864255
+Eglinton,Line 1,monday,21,0,971.2428368
+Eglinton,Line 1,monday,22,0,485.6214184
+Eglinton,Line 1,monday,23,0,242.8107092
+Eglinton,Line 1,monday,24,0,148.3618023
+Eglinton,Line 1,sunday,0,0,1053.550124
+Eglinton,Line 1,sunday,1,0,790.1625931
+Eglinton,Line 1,sunday,8,0,2633.87531
+Eglinton,Line 1,sunday,9,0,3160.650372
+Eglinton,Line 1,sunday,10,0,3687.425434
+Eglinton,Line 1,sunday,11,0,3950.812966
+Eglinton,Line 1,sunday,11,0,3950.812966
+Eglinton,Line 1,sunday,12,0,4214.200497
+Eglinton,Line 1,sunday,13,0,4477.588028
+Eglinton,Line 1,sunday,14,0,4740.975559
+Eglinton,Line 1,sunday,15,0,5004.36309
+Eglinton,Line 1,sunday,16,0,5267.750621
+Eglinton,Line 1,sunday,17,0,5267.750621
+Eglinton,Line 1,sunday,18,0,5004.36309
+Eglinton,Line 1,sunday,19,0,4740.975559
+Eglinton,Line 1,sunday,20,0,4214.200497
+Eglinton,Line 1,sunday,21,0,3687.425434
+Eglinton,Line 1,sunday,22,0,3160.650372
+Eglinton,Line 1,sunday,23,0,2370.487779
+Eglinton,Line 1,sunday,24,0,1316.937655
+Eglinton West,Line 1,monday,0,0,111.6512427
+Eglinton West,Line 1,monday,1,0,55.82562134
+Eglinton West,Line 1,monday,6,0,558.2562134
+Eglinton West,Line 1,monday,7,0,1339.814912
+Eglinton West,Line 1,monday,8,0,1674.76864
+Eglinton West,Line 1,monday,9,0,893.2099414
+Eglinton West,Line 1,monday,10,0,558.2562134
+Eglinton West,Line 1,monday,11,0,446.6049707
+Eglinton West,Line 1,monday,11,0,446.6049707
+Eglinton West,Line 1,monday,12,0,558.2562134
+Eglinton West,Line 1,monday,13,0,446.6049707
+Eglinton West,Line 1,monday,14,0,558.2562134
+Eglinton West,Line 1,monday,15,0,669.9074561
+Eglinton West,Line 1,monday,16,0,893.2099414
+Eglinton West,Line 1,monday,17,0,1674.76864
+Eglinton West,Line 1,monday,18,0,1339.814912
+Eglinton West,Line 1,monday,19,0,669.9074561
+Eglinton West,Line 1,monday,20,0,334.953728
+Eglinton West,Line 1,monday,21,0,223.3024854
+Eglinton West,Line 1,monday,22,0,111.6512427
+Eglinton West,Line 1,monday,23,0,55.82562134
+Eglinton West,Line 1,monday,24,0,34.11047982
+Eglinton West,Line 1,sunday,0,0,242.2260966
+Eglinton West,Line 1,sunday,1,0,181.6695724
+Eglinton West,Line 1,sunday,8,0,605.5652414
+Eglinton West,Line 1,sunday,9,0,726.6782897
+Eglinton West,Line 1,sunday,10,0,847.7913379
+Eglinton West,Line 1,sunday,11,0,908.3478621
+Eglinton West,Line 1,sunday,11,0,908.3478621
+Eglinton West,Line 1,sunday,12,0,968.9043862
+Eglinton West,Line 1,sunday,13,0,1029.46091
+Eglinton West,Line 1,sunday,14,0,1090.017434
+Eglinton West,Line 1,sunday,15,0,1150.573959
+Eglinton West,Line 1,sunday,16,0,1211.130483
+Eglinton West,Line 1,sunday,17,0,1211.130483
+Eglinton West,Line 1,sunday,18,0,1150.573959
+Eglinton West,Line 1,sunday,19,0,1090.017434
+Eglinton West,Line 1,sunday,20,0,968.9043862
+Eglinton West,Line 1,sunday,21,0,847.7913379
+Eglinton West,Line 1,sunday,22,0,726.6782897
+Eglinton West,Line 1,sunday,23,0,545.0087172
+Eglinton West,Line 1,sunday,24,0,302.7826207
+Finch,Line 1,monday,0,0,565.163546
+Finch,Line 1,monday,1,0,282.581773
+Finch,Line 1,monday,6,0,2825.81773
+Finch,Line 1,monday,7,0,6781.962552
+Finch,Line 1,monday,8,0,8477.45319
+Finch,Line 1,monday,9,0,4521.308368
+Finch,Line 1,monday,10,0,2825.81773
+Finch,Line 1,monday,11,0,2260.654184
+Finch,Line 1,monday,11,0,2260.654184
+Finch,Line 1,monday,12,0,2825.81773
+Finch,Line 1,monday,13,0,2260.654184
+Finch,Line 1,monday,14,0,2825.81773
+Finch,Line 1,monday,15,0,3390.981276
+Finch,Line 1,monday,16,0,4521.308368
+Finch,Line 1,monday,17,0,8477.45319
+Finch,Line 1,monday,18,0,6781.962552
+Finch,Line 1,monday,19,0,3390.981276
+Finch,Line 1,monday,20,0,1695.490638
+Finch,Line 1,monday,21,0,1130.327092
+Finch,Line 1,monday,22,0,565.163546
+Finch,Line 1,monday,23,0,282.581773
+Finch,Line 1,monday,24,0,172.6626526
+Finch,Line 1,sunday,0,0,1226.115862
+Finch,Line 1,sunday,1,0,919.5868966
+Finch,Line 1,sunday,8,0,3065.289655
+Finch,Line 1,sunday,9,0,3678.347586
+Finch,Line 1,sunday,10,0,4291.405517
+Finch,Line 1,sunday,11,0,4597.934483
+Finch,Line 1,sunday,11,0,4597.934483
+Finch,Line 1,sunday,12,0,4904.463448
+Finch,Line 1,sunday,13,0,5210.992414
+Finch,Line 1,sunday,14,0,5517.521379
+Finch,Line 1,sunday,15,0,5824.050345
+Finch,Line 1,sunday,16,0,6130.57931
+Finch,Line 1,sunday,17,0,6130.57931
+Finch,Line 1,sunday,18,0,5824.050345
+Finch,Line 1,sunday,19,0,5517.521379
+Finch,Line 1,sunday,20,0,4904.463448
+Finch,Line 1,sunday,21,0,4291.405517
+Finch,Line 1,sunday,22,0,3678.347586
+Finch,Line 1,sunday,23,0,2758.76069
+Finch,Line 1,sunday,24,0,1532.644828
+Finch West,Line 1,monday,0,0,146.4913494
+Finch West,Line 1,monday,1,0,73.24567469
+Finch West,Line 1,monday,6,0,732.4567469
+Finch West,Line 1,monday,7,0,1757.896192
+Finch West,Line 1,monday,8,0,2197.370241
+Finch West,Line 1,monday,9,0,1171.930795
+Finch West,Line 1,monday,10,0,732.4567469
+Finch West,Line 1,monday,11,0,585.9653975
+Finch West,Line 1,monday,11,0,585.9653975
+Finch West,Line 1,monday,12,0,732.4567469
+Finch West,Line 1,monday,13,0,585.9653975
+Finch West,Line 1,monday,14,0,732.4567469
+Finch West,Line 1,monday,15,0,878.9480962
+Finch West,Line 1,monday,16,0,1171.930795
+Finch West,Line 1,monday,17,0,2197.370241
+Finch West,Line 1,monday,18,0,1757.896192
+Finch West,Line 1,monday,19,0,878.9480962
+Finch West,Line 1,monday,20,0,439.4740481
+Finch West,Line 1,monday,21,0,292.9826987
+Finch West,Line 1,monday,22,0,146.4913494
+Finch West,Line 1,monday,23,0,73.24567469
+Finch West,Line 1,monday,24,0,44.75445231
+Finch West,Line 1,sunday,0,0,317.8113103
+Finch West,Line 1,sunday,1,0,238.3584828
+Finch West,Line 1,sunday,8,0,794.5282759
+Finch West,Line 1,sunday,9,0,953.433931
+Finch West,Line 1,sunday,10,0,1112.339586
+Finch West,Line 1,sunday,11,0,1191.792414
+Finch West,Line 1,sunday,11,0,1191.792414
+Finch West,Line 1,sunday,12,0,1271.245241
+Finch West,Line 1,sunday,13,0,1350.698069
+Finch West,Line 1,sunday,14,0,1430.150897
+Finch West,Line 1,sunday,15,0,1509.603724
+Finch West,Line 1,sunday,16,0,1589.056552
+Finch West,Line 1,sunday,17,0,1589.056552
+Finch West,Line 1,sunday,18,0,1509.603724
+Finch West,Line 1,sunday,19,0,1430.150897
+Finch West,Line 1,sunday,20,0,1271.245241
+Finch West,Line 1,sunday,21,0,1112.339586
+Finch West,Line 1,sunday,22,0,953.433931
+Finch West,Line 1,sunday,23,0,715.0754483
+Finch West,Line 1,sunday,24,0,397.2641379
+Glencairn,Line 1,monday,0,0,46.9379205
+Glencairn,Line 1,monday,1,0,23.46896025
+Glencairn,Line 1,monday,6,0,234.6896025
+Glencairn,Line 1,monday,7,0,563.255046
+Glencairn,Line 1,monday,8,0,704.0688075
+Glencairn,Line 1,monday,9,0,375.503364
+Glencairn,Line 1,monday,10,0,234.6896025
+Glencairn,Line 1,monday,11,0,187.751682
+Glencairn,Line 1,monday,11,0,187.751682
+Glencairn,Line 1,monday,12,0,234.6896025
+Glencairn,Line 1,monday,13,0,187.751682
+Glencairn,Line 1,monday,14,0,234.6896025
+Glencairn,Line 1,monday,15,0,281.627523
+Glencairn,Line 1,monday,16,0,375.503364
+Glencairn,Line 1,monday,17,0,704.0688075
+Glencairn,Line 1,monday,18,0,563.255046
+Glencairn,Line 1,monday,19,0,281.627523
+Glencairn,Line 1,monday,20,0,140.8137615
+Glencairn,Line 1,monday,21,0,93.875841
+Glencairn,Line 1,monday,22,0,46.9379205
+Glencairn,Line 1,monday,23,0,23.46896025
+Glencairn,Line 1,monday,24,0,14.3399657
+Glencairn,Line 1,sunday,0,0,101.8312828
+Glencairn,Line 1,sunday,1,0,76.37346207
+Glencairn,Line 1,sunday,8,0,254.5782069
+Glencairn,Line 1,sunday,9,0,305.4938483
+Glencairn,Line 1,sunday,10,0,356.4094897
+Glencairn,Line 1,sunday,11,0,381.8673103
+Glencairn,Line 1,sunday,11,0,381.8673103
+Glencairn,Line 1,sunday,12,0,407.325131
+Glencairn,Line 1,sunday,13,0,432.7829517
+Glencairn,Line 1,sunday,14,0,458.2407724
+Glencairn,Line 1,sunday,15,0,483.6985931
+Glencairn,Line 1,sunday,16,0,509.1564138
+Glencairn,Line 1,sunday,17,0,509.1564138
+Glencairn,Line 1,sunday,18,0,483.6985931
+Glencairn,Line 1,sunday,19,0,458.2407724
+Glencairn,Line 1,sunday,20,0,407.325131
+Glencairn,Line 1,sunday,21,0,356.4094897
+Glencairn,Line 1,sunday,22,0,305.4938483
+Glencairn,Line 1,sunday,23,0,229.1203862
+Glencairn,Line 1,sunday,24,0,127.2891034
+Greenwood,Line 2,monday,0,0,39.93573819
+Greenwood,Line 2,monday,1,0,31.94859055
+Greenwood,Line 2,monday,6,0,119.8072146
+Greenwood,Line 2,monday,7,0,199.6786909
+Greenwood,Line 2,monday,8,0,279.5501673
+Greenwood,Line 2,monday,9,0,359.4216437
+Greenwood,Line 2,monday,10,0,399.3573819
+Greenwood,Line 2,monday,11,0,439.2931201
+Greenwood,Line 2,monday,11,0,439.2931201
+Greenwood,Line 2,monday,12,0,479.2288583
+Greenwood,Line 2,monday,13,0,519.1645965
+Greenwood,Line 2,monday,14,0,559.1003346
+Greenwood,Line 2,monday,15,0,718.8432874
+Greenwood,Line 2,monday,16,0,878.5862402
+Greenwood,Line 2,monday,17,0,958.4577165
+Greenwood,Line 2,monday,18,0,878.5862402
+Greenwood,Line 2,monday,19,0,718.8432874
+Greenwood,Line 2,monday,20,0,559.1003346
+Greenwood,Line 2,monday,21,0,399.3573819
+Greenwood,Line 2,monday,22,0,239.6144291
+Greenwood,Line 2,monday,23,0,159.7429528
+Greenwood,Line 2,monday,24,0,79.87147638
+Greenwood,Line 2,sunday,0,0,165.7400276
+Greenwood,Line 2,sunday,1,0,124.3050207
+Greenwood,Line 2,sunday,8,0,414.350069
+Greenwood,Line 2,sunday,9,0,497.2200828
+Greenwood,Line 2,sunday,10,0,580.0900966
+Greenwood,Line 2,sunday,11,0,621.5251034
+Greenwood,Line 2,sunday,11,0,621.5251034
+Greenwood,Line 2,sunday,12,0,662.9601103
+Greenwood,Line 2,sunday,13,0,704.3951172
+Greenwood,Line 2,sunday,14,0,745.8301241
+Greenwood,Line 2,sunday,15,0,787.265131
+Greenwood,Line 2,sunday,16,0,828.7001379
+Greenwood,Line 2,sunday,17,0,828.7001379
+Greenwood,Line 2,sunday,18,0,787.265131
+Greenwood,Line 2,sunday,19,0,745.8301241
+Greenwood,Line 2,sunday,20,0,662.9601103
+Greenwood,Line 2,sunday,21,0,580.0900966
+Greenwood,Line 2,sunday,22,0,497.2200828
+Greenwood,Line 2,sunday,23,0,372.9150621
+Greenwood,Line 2,sunday,24,0,207.1750345
+High Park,Line 2,monday,0,0,38.29105534
+High Park,Line 2,monday,1,0,30.63284427
+High Park,Line 2,monday,6,0,114.873166
+High Park,Line 2,monday,7,0,191.4552767
+High Park,Line 2,monday,8,0,268.0373874
+High Park,Line 2,monday,9,0,344.619498
+High Park,Line 2,monday,10,0,382.9105534
+High Park,Line 2,monday,11,0,421.2016087
+High Park,Line 2,monday,11,0,421.2016087
+High Park,Line 2,monday,12,0,459.492664
+High Park,Line 2,monday,13,0,497.7837194
+High Park,Line 2,monday,14,0,536.0747747
+High Park,Line 2,monday,15,0,689.2389961
+High Park,Line 2,monday,16,0,842.4032174
+High Park,Line 2,monday,17,0,918.9853281
+High Park,Line 2,monday,18,0,842.4032174
+High Park,Line 2,monday,19,0,689.2389961
+High Park,Line 2,monday,20,0,536.0747747
+High Park,Line 2,monday,21,0,382.9105534
+High Park,Line 2,monday,22,0,229.746332
+High Park,Line 2,monday,23,0,153.1642213
+High Park,Line 2,monday,24,0,76.58211067
+High Park,Line 2,sunday,0,0,158.9143172
+High Park,Line 2,sunday,1,0,119.1857379
+High Park,Line 2,sunday,8,0,397.2857931
+High Park,Line 2,sunday,9,0,476.7429517
+High Park,Line 2,sunday,10,0,556.2001103
+High Park,Line 2,sunday,11,0,595.9286897
+High Park,Line 2,sunday,11,0,595.9286897
+High Park,Line 2,sunday,12,0,635.657269
+High Park,Line 2,sunday,13,0,675.3858483
+High Park,Line 2,sunday,14,0,715.1144276
+High Park,Line 2,sunday,15,0,754.8430069
+High Park,Line 2,sunday,16,0,794.5715862
+High Park,Line 2,sunday,17,0,794.5715862
+High Park,Line 2,sunday,18,0,754.8430069
+High Park,Line 2,sunday,19,0,715.1144276
+High Park,Line 2,sunday,20,0,635.657269
+High Park,Line 2,sunday,21,0,556.2001103
+High Park,Line 2,sunday,22,0,476.7429517
+High Park,Line 2,sunday,23,0,357.5572138
+High Park,Line 2,sunday,24,0,198.6428966
+Highway 407,Line 1,monday,0,0,61.07998536
+Highway 407,Line 1,monday,1,0,30.53999268
+Highway 407,Line 1,monday,6,0,305.3999268
+Highway 407,Line 1,monday,7,0,732.9598243
+Highway 407,Line 1,monday,8,0,916.1997803
+Highway 407,Line 1,monday,9,0,488.6398828
+Highway 407,Line 1,monday,10,0,305.3999268
+Highway 407,Line 1,monday,11,0,244.3199414
+Highway 407,Line 1,monday,11,0,244.3199414
+Highway 407,Line 1,monday,12,0,305.3999268
+Highway 407,Line 1,monday,13,0,244.3199414
+Highway 407,Line 1,monday,14,0,305.3999268
+Highway 407,Line 1,monday,15,0,366.4799121
+Highway 407,Line 1,monday,16,0,488.6398828
+Highway 407,Line 1,monday,17,0,916.1997803
+Highway 407,Line 1,monday,18,0,732.9598243
+Highway 407,Line 1,monday,19,0,366.4799121
+Highway 407,Line 1,monday,20,0,183.2399561
+Highway 407,Line 1,monday,21,0,122.1599707
+Highway 407,Line 1,monday,22,0,61.07998536
+Highway 407,Line 1,monday,23,0,30.53999268
+Highway 407,Line 1,monday,24,0,18.66049636
+Highway 407,Line 1,sunday,0,0,132.512331
+Highway 407,Line 1,sunday,1,0,99.38424828
+Highway 407,Line 1,sunday,8,0,331.2808276
+Highway 407,Line 1,sunday,9,0,397.5369931
+Highway 407,Line 1,sunday,10,0,463.7931586
+Highway 407,Line 1,sunday,11,0,496.9212414
+Highway 407,Line 1,sunday,11,0,496.9212414
+Highway 407,Line 1,sunday,12,0,530.0493241
+Highway 407,Line 1,sunday,13,0,563.1774069
+Highway 407,Line 1,sunday,14,0,596.3054897
+Highway 407,Line 1,sunday,15,0,629.4335724
+Highway 407,Line 1,sunday,16,0,662.5616552
+Highway 407,Line 1,sunday,17,0,662.5616552
+Highway 407,Line 1,sunday,18,0,629.4335724
+Highway 407,Line 1,sunday,19,0,596.3054897
+Highway 407,Line 1,sunday,20,0,530.0493241
+Highway 407,Line 1,sunday,21,0,463.7931586
+Highway 407,Line 1,sunday,22,0,397.5369931
+Highway 407,Line 1,sunday,23,0,298.1527448
+Highway 407,Line 1,sunday,24,0,165.6404138
+Islington,Line 2,monday,0,0,104.4540584
+Islington,Line 2,monday,1,0,83.56324672
+Islington,Line 2,monday,6,0,313.3621752
+Islington,Line 2,monday,7,0,522.270292
+Islington,Line 2,monday,8,0,731.1784088
+Islington,Line 2,monday,9,0,940.0865256
+Islington,Line 2,monday,10,0,1044.540584
+Islington,Line 2,monday,11,0,1148.994642
+Islington,Line 2,monday,11,0,1148.994642
+Islington,Line 2,monday,12,0,1253.448701
+Islington,Line 2,monday,13,0,1357.902759
+Islington,Line 2,monday,14,0,1462.356818
+Islington,Line 2,monday,15,0,1880.173051
+Islington,Line 2,monday,16,0,2297.989285
+Islington,Line 2,monday,17,0,2506.897402
+Islington,Line 2,monday,18,0,2297.989285
+Islington,Line 2,monday,19,0,1880.173051
+Islington,Line 2,monday,20,0,1462.356818
+Islington,Line 2,monday,21,0,1044.540584
+Islington,Line 2,monday,22,0,626.7243504
+Islington,Line 2,monday,23,0,417.8162336
+Islington,Line 2,monday,24,0,208.9081168
+Islington,Line 2,sunday,0,0,433.5019034
+Islington,Line 2,sunday,1,0,325.1264276
+Islington,Line 2,sunday,8,0,1083.754759
+Islington,Line 2,sunday,9,0,1300.50571
+Islington,Line 2,sunday,10,0,1517.256662
+Islington,Line 2,sunday,11,0,1625.632138
+Islington,Line 2,sunday,11,0,1625.632138
+Islington,Line 2,sunday,12,0,1734.007614
+Islington,Line 2,sunday,13,0,1842.38309
+Islington,Line 2,sunday,14,0,1950.758566
+Islington,Line 2,sunday,15,0,2059.134041
+Islington,Line 2,sunday,16,0,2167.509517
+Islington,Line 2,sunday,17,0,2167.509517
+Islington,Line 2,sunday,18,0,2059.134041
+Islington,Line 2,sunday,19,0,1950.758566
+Islington,Line 2,sunday,20,0,1734.007614
+Islington,Line 2,sunday,21,0,1517.256662
+Islington,Line 2,sunday,22,0,1300.50571
+Islington,Line 2,sunday,23,0,975.3792828
+Islington,Line 2,sunday,24,0,541.8773793
+Jane,Line 2,monday,0,0,62.41863626
+Jane,Line 2,monday,1,0,49.93490901
+Jane,Line 2,monday,6,0,187.2559088
+Jane,Line 2,monday,7,0,312.0931813
+Jane,Line 2,monday,8,0,436.9304538
+Jane,Line 2,monday,9,0,561.7677264
+Jane,Line 2,monday,10,0,624.1863626
+Jane,Line 2,monday,11,0,686.6049989
+Jane,Line 2,monday,11,0,686.6049989
+Jane,Line 2,monday,12,0,749.0236352
+Jane,Line 2,monday,13,0,811.4422714
+Jane,Line 2,monday,14,0,873.8609077
+Jane,Line 2,monday,15,0,1123.535453
+Jane,Line 2,monday,16,0,1373.209998
+Jane,Line 2,monday,17,0,1498.04727
+Jane,Line 2,monday,18,0,1373.209998
+Jane,Line 2,monday,19,0,1123.535453
+Jane,Line 2,monday,20,0,873.8609077
+Jane,Line 2,monday,21,0,624.1863626
+Jane,Line 2,monday,22,0,374.5118176
+Jane,Line 2,monday,23,0,249.6745451
+Jane,Line 2,monday,24,0,124.8372725
+Jane,Line 2,sunday,0,0,259.0478345
+Jane,Line 2,sunday,1,0,194.2858759
+Jane,Line 2,sunday,8,0,647.6195862
+Jane,Line 2,sunday,9,0,777.1435034
+Jane,Line 2,sunday,10,0,906.6674207
+Jane,Line 2,sunday,11,0,971.4293793
+Jane,Line 2,sunday,11,0,971.4293793
+Jane,Line 2,sunday,12,0,1036.191338
+Jane,Line 2,sunday,13,0,1100.953297
+Jane,Line 2,sunday,14,0,1165.715255
+Jane,Line 2,sunday,15,0,1230.477214
+Jane,Line 2,sunday,16,0,1295.239172
+Jane,Line 2,sunday,17,0,1295.239172
+Jane,Line 2,sunday,18,0,1230.477214
+Jane,Line 2,sunday,19,0,1165.715255
+Jane,Line 2,sunday,20,0,1036.191338
+Jane,Line 2,sunday,21,0,906.6674207
+Jane,Line 2,sunday,22,0,777.1435034
+Jane,Line 2,sunday,23,0,582.8576276
+Jane,Line 2,sunday,24,0,323.8097931
+Keele,Line 2,monday,0,0,68.06231955
+Keele,Line 2,monday,1,0,54.44985564
+Keele,Line 2,monday,6,0,204.1869587
+Keele,Line 2,monday,7,0,340.3115978
+Keele,Line 2,monday,8,0,476.4362369
+Keele,Line 2,monday,9,0,612.560876
+Keele,Line 2,monday,10,0,680.6231955
+Keele,Line 2,monday,11,0,748.6855151
+Keele,Line 2,monday,11,0,748.6855151
+Keele,Line 2,monday,12,0,816.7478346
+Keele,Line 2,monday,13,0,884.8101542
+Keele,Line 2,monday,14,0,952.8724738
+Keele,Line 2,monday,15,0,1225.121752
+Keele,Line 2,monday,16,0,1497.37103
+Keele,Line 2,monday,17,0,1633.495669
+Keele,Line 2,monday,18,0,1497.37103
+Keele,Line 2,monday,19,0,1225.121752
+Keele,Line 2,monday,20,0,952.8724738
+Keele,Line 2,monday,21,0,680.6231955
+Keele,Line 2,monday,22,0,408.3739173
+Keele,Line 2,monday,23,0,272.2492782
+Keele,Line 2,monday,24,0,136.1246391
+Keele,Line 2,sunday,0,0,282.470069
+Keele,Line 2,sunday,1,0,211.8525517
+Keele,Line 2,sunday,8,0,706.1751724
+Keele,Line 2,sunday,9,0,847.4102069
+Keele,Line 2,sunday,10,0,988.6452414
+Keele,Line 2,sunday,11,0,1059.262759
+Keele,Line 2,sunday,11,0,1059.262759
+Keele,Line 2,sunday,12,0,1129.880276
+Keele,Line 2,sunday,13,0,1200.497793
+Keele,Line 2,sunday,14,0,1271.11531
+Keele,Line 2,sunday,15,0,1341.732828
+Keele,Line 2,sunday,16,0,1412.350345
+Keele,Line 2,sunday,17,0,1412.350345
+Keele,Line 2,sunday,18,0,1341.732828
+Keele,Line 2,sunday,19,0,1271.11531
+Keele,Line 2,sunday,20,0,1129.880276
+Keele,Line 2,sunday,21,0,988.6452414
+Keele,Line 2,sunday,22,0,847.4102069
+Keele,Line 2,sunday,23,0,635.5576552
+Keele,Line 2,sunday,24,0,353.0875862
+Kennedy,Line 2,monday,0,0,178.9991
+Kennedy,Line 2,monday,1,0,143.19928
+Kennedy,Line 2,monday,6,0,536.9972999
+Kennedy,Line 2,monday,7,0,894.9954998
+Kennedy,Line 2,monday,8,0,1252.9937
+Kennedy,Line 2,monday,9,0,1610.9919
+Kennedy,Line 2,monday,10,0,1789.991
+Kennedy,Line 2,monday,11,0,1968.9901
+Kennedy,Line 2,monday,11,0,1968.9901
+Kennedy,Line 2,monday,12,0,2147.989199
+Kennedy,Line 2,monday,13,0,2326.988299
+Kennedy,Line 2,monday,14,0,2505.987399
+Kennedy,Line 2,monday,15,0,3221.983799
+Kennedy,Line 2,monday,16,0,3937.980199
+Kennedy,Line 2,monday,17,0,4295.978399
+Kennedy,Line 2,monday,18,0,3937.980199
+Kennedy,Line 2,monday,19,0,3221.983799
+Kennedy,Line 2,monday,20,0,2505.987399
+Kennedy,Line 2,monday,21,0,1789.991
+Kennedy,Line 2,monday,22,0,1073.9946
+Kennedy,Line 2,monday,23,0,715.9963998
+Kennedy,Line 2,monday,24,0,357.9981999
+Kennedy,Line 2,sunday,0,0,742.8763586
+Kennedy,Line 2,sunday,1,0,557.157269
+Kennedy,Line 2,sunday,8,0,1857.190897
+Kennedy,Line 2,sunday,9,0,2228.629076
+Kennedy,Line 2,sunday,10,0,2600.067255
+Kennedy,Line 2,sunday,11,0,2785.786345
+Kennedy,Line 2,sunday,11,0,2785.786345
+Kennedy,Line 2,sunday,12,0,2971.505434
+Kennedy,Line 2,sunday,13,0,3157.224524
+Kennedy,Line 2,sunday,14,0,3342.943614
+Kennedy,Line 2,sunday,15,0,3528.662703
+Kennedy,Line 2,sunday,16,0,3714.381793
+Kennedy,Line 2,sunday,17,0,3714.381793
+Kennedy,Line 2,sunday,18,0,3528.662703
+Kennedy,Line 2,sunday,19,0,3342.943614
+Kennedy,Line 2,sunday,20,0,2971.505434
+Kennedy,Line 2,sunday,21,0,2600.067255
+Kennedy,Line 2,sunday,22,0,2228.629076
+Kennedy,Line 2,sunday,23,0,1671.471807
+Kennedy,Line 2,sunday,24,0,928.5954483
+King,Line 1,monday,0,0,280.3418808
+King,Line 1,monday,1,0,140.1709404
+King,Line 1,monday,6,0,1401.709404
+King,Line 1,monday,7,0,3364.102569
+King,Line 1,monday,8,0,4205.128211
+King,Line 1,monday,9,0,2242.735046
+King,Line 1,monday,10,0,1401.709404
+King,Line 1,monday,11,0,1121.367523
+King,Line 1,monday,11,0,1121.367523
+King,Line 1,monday,12,0,1401.709404
+King,Line 1,monday,13,0,1121.367523
+King,Line 1,monday,14,0,1401.709404
+King,Line 1,monday,15,0,1682.051285
+King,Line 1,monday,16,0,2242.735046
+King,Line 1,monday,17,0,4205.128211
+King,Line 1,monday,18,0,3364.102569
+King,Line 1,monday,19,0,1682.051285
+King,Line 1,monday,20,0,841.0256423
+King,Line 1,monday,21,0,560.6837615
+King,Line 1,monday,22,0,280.3418808
+King,Line 1,monday,23,0,140.1709404
+King,Line 1,monday,24,0,85.64701866
+King,Line 1,sunday,0,0,608.1985103
+King,Line 1,sunday,1,0,456.1488828
+King,Line 1,sunday,8,0,1520.496276
+King,Line 1,sunday,9,0,1824.595531
+King,Line 1,sunday,10,0,2128.694786
+King,Line 1,sunday,11,0,2280.744414
+King,Line 1,sunday,11,0,2280.744414
+King,Line 1,sunday,12,0,2432.794041
+King,Line 1,sunday,13,0,2584.843669
+King,Line 1,sunday,14,0,2736.893297
+King,Line 1,sunday,15,0,2888.942924
+King,Line 1,sunday,16,0,3040.992552
+King,Line 1,sunday,17,0,3040.992552
+King,Line 1,sunday,18,0,2888.942924
+King,Line 1,sunday,19,0,2736.893297
+King,Line 1,sunday,20,0,2432.794041
+King,Line 1,sunday,21,0,2128.694786
+King,Line 1,sunday,22,0,1824.595531
+King,Line 1,sunday,23,0,1368.446648
+King,Line 1,sunday,24,0,760.2481379
+Kipling,Line 2,monday,0,0,206.1781102
+Kipling,Line 2,monday,1,0,164.9424882
+Kipling,Line 2,monday,6,0,618.5343307
+Kipling,Line 2,monday,7,0,1030.890551
+Kipling,Line 2,monday,8,0,1443.246772
+Kipling,Line 2,monday,9,0,1855.602992
+Kipling,Line 2,monday,10,0,2061.781102
+Kipling,Line 2,monday,11,0,2267.959213
+Kipling,Line 2,monday,11,0,2267.959213
+Kipling,Line 2,monday,12,0,2474.137323
+Kipling,Line 2,monday,13,0,2680.315433
+Kipling,Line 2,monday,14,0,2886.493543
+Kipling,Line 2,monday,15,0,3711.205984
+Kipling,Line 2,monday,16,0,4535.918425
+Kipling,Line 2,monday,17,0,4948.274646
+Kipling,Line 2,monday,18,0,4535.918425
+Kipling,Line 2,monday,19,0,3711.205984
+Kipling,Line 2,monday,20,0,2886.493543
+Kipling,Line 2,monday,21,0,2061.781102
+Kipling,Line 2,monday,22,0,1237.068661
+Kipling,Line 2,monday,23,0,824.7124409
+Kipling,Line 2,monday,24,0,412.3562205
+Kipling,Line 2,sunday,0,0,855.6738207
+Kipling,Line 2,sunday,1,0,641.7553655
+Kipling,Line 2,sunday,8,0,2139.184552
+Kipling,Line 2,sunday,9,0,2567.021462
+Kipling,Line 2,sunday,10,0,2994.858372
+Kipling,Line 2,sunday,11,0,3208.776828
+Kipling,Line 2,sunday,11,0,3208.776828
+Kipling,Line 2,sunday,12,0,3422.695283
+Kipling,Line 2,sunday,13,0,3636.613738
+Kipling,Line 2,sunday,14,0,3850.532193
+Kipling,Line 2,sunday,15,0,4064.450648
+Kipling,Line 2,sunday,16,0,4278.369103
+Kipling,Line 2,sunday,17,0,4278.369103
+Kipling,Line 2,sunday,18,0,4064.450648
+Kipling,Line 2,sunday,19,0,3850.532193
+Kipling,Line 2,sunday,20,0,3422.695283
+Kipling,Line 2,sunday,21,0,2994.858372
+Kipling,Line 2,sunday,22,0,2567.021462
+Kipling,Line 2,sunday,23,0,1925.266097
+Kipling,Line 2,sunday,24,0,1069.592276
+Lansdowne,Line 2,monday,0,0,72.65824803
+Lansdowne,Line 2,monday,1,0,58.12659843
+Lansdowne,Line 2,monday,6,0,217.9747441
+Lansdowne,Line 2,monday,7,0,363.2912402
+Lansdowne,Line 2,monday,8,0,508.6077362
+Lansdowne,Line 2,monday,9,0,653.9242323
+Lansdowne,Line 2,monday,10,0,726.5824803
+Lansdowne,Line 2,monday,11,0,799.2407283
+Lansdowne,Line 2,monday,11,0,799.2407283
+Lansdowne,Line 2,monday,12,0,871.8989764
+Lansdowne,Line 2,monday,13,0,944.5572244
+Lansdowne,Line 2,monday,14,0,1017.215472
+Lansdowne,Line 2,monday,15,0,1307.848465
+Lansdowne,Line 2,monday,16,0,1598.481457
+Lansdowne,Line 2,monday,17,0,1743.797953
+Lansdowne,Line 2,monday,18,0,1598.481457
+Lansdowne,Line 2,monday,19,0,1307.848465
+Lansdowne,Line 2,monday,20,0,1017.215472
+Lansdowne,Line 2,monday,21,0,726.5824803
+Lansdowne,Line 2,monday,22,0,435.9494882
+Lansdowne,Line 2,monday,23,0,290.6329921
+Lansdowne,Line 2,monday,24,0,145.3164961
+Lansdowne,Line 2,sunday,0,0,301.5439448
+Lansdowne,Line 2,sunday,1,0,226.1579586
+Lansdowne,Line 2,sunday,8,0,753.8598621
+Lansdowne,Line 2,sunday,9,0,904.6318345
+Lansdowne,Line 2,sunday,10,0,1055.403807
+Lansdowne,Line 2,sunday,11,0,1130.789793
+Lansdowne,Line 2,sunday,11,0,1130.789793
+Lansdowne,Line 2,sunday,12,0,1206.175779
+Lansdowne,Line 2,sunday,13,0,1281.561766
+Lansdowne,Line 2,sunday,14,0,1356.947752
+Lansdowne,Line 2,sunday,15,0,1432.333738
+Lansdowne,Line 2,sunday,16,0,1507.719724
+Lansdowne,Line 2,sunday,17,0,1507.719724
+Lansdowne,Line 2,sunday,18,0,1432.333738
+Lansdowne,Line 2,sunday,19,0,1356.947752
+Lansdowne,Line 2,sunday,20,0,1206.175779
+Lansdowne,Line 2,sunday,21,0,1055.403807
+Lansdowne,Line 2,sunday,22,0,904.6318345
+Lansdowne,Line 2,sunday,23,0,678.4738759
+Lansdowne,Line 2,sunday,24,0,376.929931
+Lawerence,Line 1,monday,0,0,169.2655837
+Lawerence,Line 1,monday,1,0,84.63279184
+Lawerence,Line 1,monday,6,0,846.3279184
+Lawerence,Line 1,monday,7,0,2031.187004
+Lawerence,Line 1,monday,8,0,2538.983755
+Lawerence,Line 1,monday,9,0,1354.124669
+Lawerence,Line 1,monday,10,0,846.3279184
+Lawerence,Line 1,monday,11,0,677.0623347
+Lawerence,Line 1,monday,11,0,677.0623347
+Lawerence,Line 1,monday,12,0,846.3279184
+Lawerence,Line 1,monday,13,0,677.0623347
+Lawerence,Line 1,monday,14,0,846.3279184
+Lawerence,Line 1,monday,15,0,1015.593502
+Lawerence,Line 1,monday,16,0,1354.124669
+Lawerence,Line 1,monday,17,0,2538.983755
+Lawerence,Line 1,monday,18,0,2031.187004
+Lawerence,Line 1,monday,19,0,1015.593502
+Lawerence,Line 1,monday,20,0,507.796751
+Lawerence,Line 1,monday,21,0,338.5311674
+Lawerence,Line 1,monday,22,0,169.2655837
+Lawerence,Line 1,monday,23,0,84.63279184
+Lawerence,Line 1,monday,24,0,51.71219001
+Lawerence,Line 1,sunday,0,0,367.2197517
+Lawerence,Line 1,sunday,1,0,275.4148138
+Lawerence,Line 1,sunday,8,0,918.0493793
+Lawerence,Line 1,sunday,9,0,1101.659255
+Lawerence,Line 1,sunday,10,0,1285.269131
+Lawerence,Line 1,sunday,11,0,1377.074069
+Lawerence,Line 1,sunday,11,0,1377.074069
+Lawerence,Line 1,sunday,12,0,1468.879007
+Lawerence,Line 1,sunday,13,0,1560.683945
+Lawerence,Line 1,sunday,14,0,1652.488883
+Lawerence,Line 1,sunday,15,0,1744.293821
+Lawerence,Line 1,sunday,16,0,1836.098759
+Lawerence,Line 1,sunday,17,0,1836.098759
+Lawerence,Line 1,sunday,18,0,1744.293821
+Lawerence,Line 1,sunday,19,0,1652.488883
+Lawerence,Line 1,sunday,20,0,1468.879007
+Lawerence,Line 1,sunday,21,0,1285.269131
+Lawerence,Line 1,sunday,22,0,1101.659255
+Lawerence,Line 1,sunday,23,0,826.2444414
+Lawerence,Line 1,sunday,24,0,459.0246897
+Lawerence West,Line 1,monday,0,0,157.6468912
+Lawerence West,Line 1,monday,1,0,78.82344561
+Lawerence West,Line 1,monday,6,0,788.2344561
+Lawerence West,Line 1,monday,7,0,1891.762695
+Lawerence West,Line 1,monday,8,0,2364.703368
+Lawerence West,Line 1,monday,9,0,1261.17513
+Lawerence West,Line 1,monday,10,0,788.2344561
+Lawerence West,Line 1,monday,11,0,630.5875649
+Lawerence West,Line 1,monday,11,0,630.5875649
+Lawerence West,Line 1,monday,12,0,788.2344561
+Lawerence West,Line 1,monday,13,0,630.5875649
+Lawerence West,Line 1,monday,14,0,788.2344561
+Lawerence West,Line 1,monday,15,0,945.8813473
+Lawerence West,Line 1,monday,16,0,1261.17513
+Lawerence West,Line 1,monday,17,0,2364.703368
+Lawerence West,Line 1,monday,18,0,1891.762695
+Lawerence West,Line 1,monday,19,0,945.8813473
+Lawerence West,Line 1,monday,20,0,472.9406736
+Lawerence West,Line 1,monday,21,0,315.2937824
+Lawerence West,Line 1,monday,22,0,157.6468912
+Lawerence West,Line 1,monday,23,0,78.82344561
+Lawerence West,Line 1,monday,24,0,48.16257277
+Lawerence West,Line 1,sunday,0,0,342.013131
+Lawerence West,Line 1,sunday,1,0,256.5098483
+Lawerence West,Line 1,sunday,8,0,855.0328276
+Lawerence West,Line 1,sunday,9,0,1026.039393
+Lawerence West,Line 1,sunday,10,0,1197.045959
+Lawerence West,Line 1,sunday,11,0,1282.549241
+Lawerence West,Line 1,sunday,11,0,1282.549241
+Lawerence West,Line 1,sunday,12,0,1368.052524
+Lawerence West,Line 1,sunday,13,0,1453.555807
+Lawerence West,Line 1,sunday,14,0,1539.05909
+Lawerence West,Line 1,sunday,15,0,1624.562372
+Lawerence West,Line 1,sunday,16,0,1710.065655
+Lawerence West,Line 1,sunday,17,0,1710.065655
+Lawerence West,Line 1,sunday,18,0,1624.562372
+Lawerence West,Line 1,sunday,19,0,1539.05909
+Lawerence West,Line 1,sunday,20,0,1368.052524
+Lawerence West,Line 1,sunday,21,0,1197.045959
+Lawerence West,Line 1,sunday,22,0,1026.039393
+Lawerence West,Line 1,sunday,23,0,769.5295448
+Lawerence West,Line 1,sunday,24,0,427.5164138
+Leslie,Line 4,monday,0,0,13.15660847
+Leslie,Line 4,monday,1,0,9.867456353
+Leslie,Line 4,monday,6,0,164.4576059
+Leslie,Line 4,monday,7,0,296.0236906
+Leslie,Line 4,monday,8,0,328.9152118
+Leslie,Line 4,monday,9,0,230.2406482
+Leslie,Line 4,monday,10,0,164.4576059
+Leslie,Line 4,monday,11,0,131.5660847
+Leslie,Line 4,monday,11,0,131.5660847
+Leslie,Line 4,monday,12,0,148.0118453
+Leslie,Line 4,monday,13,0,148.0118453
+Leslie,Line 4,monday,14,0,164.4576059
+Leslie,Line 4,monday,15,0,230.2406482
+Leslie,Line 4,monday,16,0,328.9152118
+Leslie,Line 4,monday,17,0,361.8067329
+Leslie,Line 4,monday,18,0,328.9152118
+Leslie,Line 4,monday,19,0,263.1321694
+Leslie,Line 4,monday,20,0,197.3491271
+Leslie,Line 4,monday,21,0,131.5660847
+Leslie,Line 4,monday,22,0,65.78304235
+Leslie,Line 4,monday,23,0,32.89152118
+Leslie,Line 4,monday,24,0,16.44576059
+Leslie,Line 4,sunday,0,0,69.08866207
+Leslie,Line 4,sunday,1,0,51.81649655
+Leslie,Line 4,sunday,8,0,172.7216552
+Leslie,Line 4,sunday,9,0,207.2659862
+Leslie,Line 4,sunday,10,0,241.8103172
+Leslie,Line 4,sunday,11,0,259.0824828
+Leslie,Line 4,sunday,11,0,259.0824828
+Leslie,Line 4,sunday,12,0,276.3546483
+Leslie,Line 4,sunday,13,0,293.6268138
+Leslie,Line 4,sunday,14,0,310.8989793
+Leslie,Line 4,sunday,15,0,328.1711448
+Leslie,Line 4,sunday,16,0,345.4433103
+Leslie,Line 4,sunday,17,0,345.4433103
+Leslie,Line 4,sunday,18,0,328.1711448
+Leslie,Line 4,sunday,19,0,310.8989793
+Leslie,Line 4,sunday,20,0,276.3546483
+Leslie,Line 4,sunday,21,0,241.8103172
+Leslie,Line 4,sunday,22,0,207.2659862
+Leslie,Line 4,sunday,23,0,155.4494897
+Leslie,Line 4,sunday,24,0,86.36082759
+Main Street,Line 2,monday,0,0,77.98468285
+Main Street,Line 2,monday,1,0,62.38774628
+Main Street,Line 2,monday,6,0,233.9540486
+Main Street,Line 2,monday,7,0,389.9234143
+Main Street,Line 2,monday,8,0,545.89278
+Main Street,Line 2,monday,9,0,701.8621457
+Main Street,Line 2,monday,10,0,779.8468285
+Main Street,Line 2,monday,11,0,857.8315114
+Main Street,Line 2,monday,11,0,857.8315114
+Main Street,Line 2,monday,12,0,935.8161942
+Main Street,Line 2,monday,13,0,1013.800877
+Main Street,Line 2,monday,14,0,1091.78556
+Main Street,Line 2,monday,15,0,1403.724291
+Main Street,Line 2,monday,16,0,1715.663023
+Main Street,Line 2,monday,17,0,1871.632388
+Main Street,Line 2,monday,18,0,1715.663023
+Main Street,Line 2,monday,19,0,1403.724291
+Main Street,Line 2,monday,20,0,1091.78556
+Main Street,Line 2,monday,21,0,779.8468285
+Main Street,Line 2,monday,22,0,467.9080971
+Main Street,Line 2,monday,23,0,311.9387314
+Main Street,Line 2,monday,24,0,155.9693657
+Main Street,Line 2,sunday,0,0,323.6495448
+Main Street,Line 2,sunday,1,0,242.7371586
+Main Street,Line 2,sunday,8,0,809.1238621
+Main Street,Line 2,sunday,9,0,970.9486345
+Main Street,Line 2,sunday,10,0,1132.773407
+Main Street,Line 2,sunday,11,0,1213.685793
+Main Street,Line 2,sunday,11,0,1213.685793
+Main Street,Line 2,sunday,12,0,1294.598179
+Main Street,Line 2,sunday,13,0,1375.510566
+Main Street,Line 2,sunday,14,0,1456.422952
+Main Street,Line 2,sunday,15,0,1537.335338
+Main Street,Line 2,sunday,16,0,1618.247724
+Main Street,Line 2,sunday,17,0,1618.247724
+Main Street,Line 2,sunday,18,0,1537.335338
+Main Street,Line 2,sunday,19,0,1456.422952
+Main Street,Line 2,sunday,20,0,1294.598179
+Main Street,Line 2,sunday,21,0,1132.773407
+Main Street,Line 2,sunday,22,0,970.9486345
+Main Street,Line 2,sunday,23,0,728.2114759
+Main Street,Line 2,sunday,24,0,404.561931
+Museum,Line 1,monday,0,0,76.69135565
+Museum,Line 1,monday,1,0,38.34567782
+Museum,Line 1,monday,6,0,383.4567782
+Museum,Line 1,monday,7,0,920.2962678
+Museum,Line 1,monday,8,0,1150.370335
+Museum,Line 1,monday,9,0,613.5308452
+Museum,Line 1,monday,10,0,383.4567782
+Museum,Line 1,monday,11,0,306.7654226
+Museum,Line 1,monday,11,0,306.7654226
+Museum,Line 1,monday,12,0,383.4567782
+Museum,Line 1,monday,13,0,306.7654226
+Museum,Line 1,monday,14,0,383.4567782
+Museum,Line 1,monday,15,0,460.1481339
+Museum,Line 1,monday,16,0,613.5308452
+Museum,Line 1,monday,17,0,1150.370335
+Museum,Line 1,monday,18,0,920.2962678
+Museum,Line 1,monday,19,0,460.1481339
+Museum,Line 1,monday,20,0,230.0740669
+Museum,Line 1,monday,21,0,153.3827113
+Museum,Line 1,monday,22,0,76.69135565
+Museum,Line 1,monday,23,0,38.34567782
+Museum,Line 1,monday,24,0,23.42991333
+Museum,Line 1,sunday,0,0,166.3810207
+Museum,Line 1,sunday,1,0,124.7857655
+Museum,Line 1,sunday,8,0,415.9525517
+Museum,Line 1,sunday,9,0,499.1430621
+Museum,Line 1,sunday,10,0,582.3335724
+Museum,Line 1,sunday,11,0,623.9288276
+Museum,Line 1,sunday,11,0,623.9288276
+Museum,Line 1,sunday,12,0,665.5240828
+Museum,Line 1,sunday,13,0,707.1193379
+Museum,Line 1,sunday,14,0,748.7145931
+Museum,Line 1,sunday,15,0,790.3098483
+Museum,Line 1,sunday,16,0,831.9051034
+Museum,Line 1,sunday,17,0,831.9051034
+Museum,Line 1,sunday,18,0,790.3098483
+Museum,Line 1,sunday,19,0,748.7145931
+Museum,Line 1,sunday,20,0,665.5240828
+Museum,Line 1,sunday,21,0,582.3335724
+Museum,Line 1,sunday,22,0,499.1430621
+Museum,Line 1,sunday,23,0,374.3572966
+Museum,Line 1,sunday,24,0,207.9762759
+North York Centre,Line 1,monday,0,0,133.347454
+North York Centre,Line 1,monday,1,0,66.67372699
+North York Centre,Line 1,monday,6,0,666.7372699
+North York Centre,Line 1,monday,7,0,1600.169448
+North York Centre,Line 1,monday,8,0,2000.21181
+North York Centre,Line 1,monday,9,0,1066.779632
+North York Centre,Line 1,monday,10,0,666.7372699
+North York Centre,Line 1,monday,11,0,533.3898159
+North York Centre,Line 1,monday,11,0,533.3898159
+North York Centre,Line 1,monday,12,0,666.7372699
+North York Centre,Line 1,monday,13,0,533.3898159
+North York Centre,Line 1,monday,14,0,666.7372699
+North York Centre,Line 1,monday,15,0,800.0847238
+North York Centre,Line 1,monday,16,0,1066.779632
+North York Centre,Line 1,monday,17,0,2000.21181
+North York Centre,Line 1,monday,18,0,1600.169448
+North York Centre,Line 1,monday,19,0,800.0847238
+North York Centre,Line 1,monday,20,0,400.0423619
+North York Centre,Line 1,monday,21,0,266.6949079
+North York Centre,Line 1,monday,22,0,133.347454
+North York Centre,Line 1,monday,23,0,66.67372699
+North York Centre,Line 1,monday,24,0,40.73887158
+North York Centre,Line 1,sunday,0,0,289.2957793
+North York Centre,Line 1,sunday,1,0,216.9718345
+North York Centre,Line 1,sunday,8,0,723.2394483
+North York Centre,Line 1,sunday,9,0,867.8873379
+North York Centre,Line 1,sunday,10,0,1012.535228
+North York Centre,Line 1,sunday,11,0,1084.859172
+North York Centre,Line 1,sunday,11,0,1084.859172
+North York Centre,Line 1,sunday,12,0,1157.183117
+North York Centre,Line 1,sunday,13,0,1229.507062
+North York Centre,Line 1,sunday,14,0,1301.831007
+North York Centre,Line 1,sunday,15,0,1374.154952
+North York Centre,Line 1,sunday,16,0,1446.478897
+North York Centre,Line 1,sunday,17,0,1446.478897
+North York Centre,Line 1,sunday,18,0,1374.154952
+North York Centre,Line 1,sunday,19,0,1301.831007
+North York Centre,Line 1,sunday,20,0,1157.183117
+North York Centre,Line 1,sunday,21,0,1012.535228
+North York Centre,Line 1,sunday,22,0,867.8873379
+North York Centre,Line 1,sunday,23,0,650.9155034
+North York Centre,Line 1,sunday,24,0,361.6197241
+Old Mill,Line 2,monday,0,0,25.50093285
+Old Mill,Line 2,monday,1,0,20.40074628
+Old Mill,Line 2,monday,6,0,76.50279856
+Old Mill,Line 2,monday,7,0,127.5046643
+Old Mill,Line 2,monday,8,0,178.50653
+Old Mill,Line 2,monday,9,0,229.5083957
+Old Mill,Line 2,monday,10,0,255.0093285
+Old Mill,Line 2,monday,11,0,280.5102614
+Old Mill,Line 2,monday,11,0,280.5102614
+Old Mill,Line 2,monday,12,0,306.0111942
+Old Mill,Line 2,monday,13,0,331.5121271
+Old Mill,Line 2,monday,14,0,357.0130599
+Old Mill,Line 2,monday,15,0,459.0167913
+Old Mill,Line 2,monday,16,0,561.0205227
+Old Mill,Line 2,monday,17,0,612.0223885
+Old Mill,Line 2,monday,18,0,561.0205227
+Old Mill,Line 2,monday,19,0,459.0167913
+Old Mill,Line 2,monday,20,0,357.0130599
+Old Mill,Line 2,monday,21,0,255.0093285
+Old Mill,Line 2,monday,22,0,153.0055971
+Old Mill,Line 2,monday,23,0,102.0037314
+Old Mill,Line 2,monday,24,0,51.0018657
+Old Mill,Line 2,sunday,0,0,105.8331586
+Old Mill,Line 2,sunday,1,0,79.37486897
+Old Mill,Line 2,sunday,8,0,264.5828966
+Old Mill,Line 2,sunday,9,0,317.4994759
+Old Mill,Line 2,sunday,10,0,370.4160552
+Old Mill,Line 2,sunday,11,0,396.8743448
+Old Mill,Line 2,sunday,11,0,396.8743448
+Old Mill,Line 2,sunday,12,0,423.3326345
+Old Mill,Line 2,sunday,13,0,449.7909241
+Old Mill,Line 2,sunday,14,0,476.2492138
+Old Mill,Line 2,sunday,15,0,502.7075034
+Old Mill,Line 2,sunday,16,0,529.1657931
+Old Mill,Line 2,sunday,17,0,529.1657931
+Old Mill,Line 2,sunday,18,0,502.7075034
+Old Mill,Line 2,sunday,19,0,476.2492138
+Old Mill,Line 2,sunday,20,0,423.3326345
+Old Mill,Line 2,sunday,21,0,370.4160552
+Old Mill,Line 2,sunday,22,0,317.4994759
+Old Mill,Line 2,sunday,23,0,238.1246069
+Old Mill,Line 2,sunday,24,0,132.2914483
+Osgoode,Line 1,monday,0,0,154.3010272
+Osgoode,Line 1,monday,1,0,77.1505136
+Osgoode,Line 1,monday,6,0,771.505136
+Osgoode,Line 1,monday,7,0,1851.612326
+Osgoode,Line 1,monday,8,0,2314.515408
+Osgoode,Line 1,monday,9,0,1234.408218
+Osgoode,Line 1,monday,10,0,771.505136
+Osgoode,Line 1,monday,11,0,617.2041088
+Osgoode,Line 1,monday,11,0,617.2041088
+Osgoode,Line 1,monday,12,0,771.505136
+Osgoode,Line 1,monday,13,0,617.2041088
+Osgoode,Line 1,monday,14,0,771.505136
+Osgoode,Line 1,monday,15,0,925.8061632
+Osgoode,Line 1,monday,16,0,1234.408218
+Osgoode,Line 1,monday,17,0,2314.515408
+Osgoode,Line 1,monday,18,0,1851.612326
+Osgoode,Line 1,monday,19,0,925.8061632
+Osgoode,Line 1,monday,20,0,462.9030816
+Osgoode,Line 1,monday,21,0,308.6020544
+Osgoode,Line 1,monday,22,0,154.3010272
+Osgoode,Line 1,monday,23,0,77.1505136
+Osgoode,Line 1,monday,24,0,47.1403806
+Osgoode,Line 1,sunday,0,0,334.7543172
+Osgoode,Line 1,sunday,1,0,251.0657379
+Osgoode,Line 1,sunday,8,0,836.8857931
+Osgoode,Line 1,sunday,9,0,1004.262952
+Osgoode,Line 1,sunday,10,0,1171.64011
+Osgoode,Line 1,sunday,11,0,1255.32869
+Osgoode,Line 1,sunday,11,0,1255.32869
+Osgoode,Line 1,sunday,12,0,1339.017269
+Osgoode,Line 1,sunday,13,0,1422.705848
+Osgoode,Line 1,sunday,14,0,1506.394428
+Osgoode,Line 1,sunday,15,0,1590.083007
+Osgoode,Line 1,sunday,16,0,1673.771586
+Osgoode,Line 1,sunday,17,0,1673.771586
+Osgoode,Line 1,sunday,18,0,1590.083007
+Osgoode,Line 1,sunday,19,0,1506.394428
+Osgoode,Line 1,sunday,20,0,1339.017269
+Osgoode,Line 1,sunday,21,0,1171.64011
+Osgoode,Line 1,sunday,22,0,1004.262952
+Osgoode,Line 1,sunday,23,0,753.1972138
+Osgoode,Line 1,sunday,24,0,418.4428966
+Ossington,Line 2,monday,0,0,92.29008421
+Ossington,Line 2,monday,1,0,73.83206737
+Ossington,Line 2,monday,6,0,276.8702526
+Ossington,Line 2,monday,7,0,461.450421
+Ossington,Line 2,monday,8,0,646.0305895
+Ossington,Line 2,monday,9,0,830.6107579
+Ossington,Line 2,monday,10,0,922.9008421
+Ossington,Line 2,monday,11,0,1015.190926
+Ossington,Line 2,monday,11,0,1015.190926
+Ossington,Line 2,monday,12,0,1107.48101
+Ossington,Line 2,monday,13,0,1199.771095
+Ossington,Line 2,monday,14,0,1292.061179
+Ossington,Line 2,monday,15,0,1661.221516
+Ossington,Line 2,monday,16,0,2030.381853
+Ossington,Line 2,monday,17,0,2214.962021
+Ossington,Line 2,monday,18,0,2030.381853
+Ossington,Line 2,monday,19,0,1661.221516
+Ossington,Line 2,monday,20,0,1292.061179
+Ossington,Line 2,monday,21,0,922.9008421
+Ossington,Line 2,monday,22,0,553.7405052
+Ossington,Line 2,monday,23,0,369.1603368
+Ossington,Line 2,monday,24,0,184.5801684
+Ossington,Line 2,sunday,0,0,383.0193655
+Ossington,Line 2,sunday,1,0,287.2645241
+Ossington,Line 2,sunday,8,0,957.5484138
+Ossington,Line 2,sunday,9,0,1149.058097
+Ossington,Line 2,sunday,10,0,1340.567779
+Ossington,Line 2,sunday,11,0,1436.322621
+Ossington,Line 2,sunday,11,0,1436.322621
+Ossington,Line 2,sunday,12,0,1532.077462
+Ossington,Line 2,sunday,13,0,1627.832303
+Ossington,Line 2,sunday,14,0,1723.587145
+Ossington,Line 2,sunday,15,0,1819.341986
+Ossington,Line 2,sunday,16,0,1915.096828
+Ossington,Line 2,sunday,17,0,1915.096828
+Ossington,Line 2,sunday,18,0,1819.341986
+Ossington,Line 2,sunday,19,0,1723.587145
+Ossington,Line 2,sunday,20,0,1532.077462
+Ossington,Line 2,sunday,21,0,1340.567779
+Ossington,Line 2,sunday,22,0,1149.058097
+Ossington,Line 2,sunday,23,0,861.7935724
+Ossington,Line 2,sunday,24,0,478.7742069
+Pape,Line 2,monday,0,0,144.0391535
+Pape,Line 2,monday,1,0,115.2313228
+Pape,Line 2,monday,6,0,432.1174606
+Pape,Line 2,monday,7,0,720.1957677
+Pape,Line 2,monday,8,0,1008.274075
+Pape,Line 2,monday,9,0,1296.352382
+Pape,Line 2,monday,10,0,1440.391535
+Pape,Line 2,monday,11,0,1584.430689
+Pape,Line 2,monday,11,0,1584.430689
+Pape,Line 2,monday,12,0,1728.469843
+Pape,Line 2,monday,13,0,1872.508996
+Pape,Line 2,monday,14,0,2016.54815
+Pape,Line 2,monday,15,0,2592.704764
+Pape,Line 2,monday,16,0,3168.861378
+Pape,Line 2,monday,17,0,3456.939685
+Pape,Line 2,monday,18,0,3168.861378
+Pape,Line 2,monday,19,0,2592.704764
+Pape,Line 2,monday,20,0,2016.54815
+Pape,Line 2,monday,21,0,1440.391535
+Pape,Line 2,monday,22,0,864.2349213
+Pape,Line 2,monday,23,0,576.1566142
+Pape,Line 2,monday,24,0,288.0783071
+Pape,Line 2,sunday,0,0,597.7867034
+Pape,Line 2,sunday,1,0,448.3400276
+Pape,Line 2,sunday,8,0,1494.466759
+Pape,Line 2,sunday,9,0,1793.36011
+Pape,Line 2,sunday,10,0,2092.253462
+Pape,Line 2,sunday,11,0,2241.700138
+Pape,Line 2,sunday,11,0,2241.700138
+Pape,Line 2,sunday,12,0,2391.146814
+Pape,Line 2,sunday,13,0,2540.59349
+Pape,Line 2,sunday,14,0,2690.040166
+Pape,Line 2,sunday,15,0,2839.486841
+Pape,Line 2,sunday,16,0,2988.933517
+Pape,Line 2,sunday,17,0,2988.933517
+Pape,Line 2,sunday,18,0,2839.486841
+Pape,Line 2,sunday,19,0,2690.040166
+Pape,Line 2,sunday,20,0,2391.146814
+Pape,Line 2,sunday,21,0,2092.253462
+Pape,Line 2,sunday,22,0,1793.36011
+Pape,Line 2,sunday,23,0,1345.020083
+Pape,Line 2,sunday,24,0,747.2333793
+Pioneer Village,Line 1,monday,0,0,132.3173431
+Pioneer Village,Line 1,monday,1,0,66.15867155
+Pioneer Village,Line 1,monday,6,0,661.5867155
+Pioneer Village,Line 1,monday,7,0,1587.808117
+Pioneer Village,Line 1,monday,8,0,1984.760146
+Pioneer Village,Line 1,monday,9,0,1058.538745
+Pioneer Village,Line 1,monday,10,0,661.5867155
+Pioneer Village,Line 1,monday,11,0,529.2693724
+Pioneer Village,Line 1,monday,11,0,529.2693724
+Pioneer Village,Line 1,monday,12,0,661.5867155
+Pioneer Village,Line 1,monday,13,0,529.2693724
+Pioneer Village,Line 1,monday,14,0,661.5867155
+Pioneer Village,Line 1,monday,15,0,793.9040586
+Pioneer Village,Line 1,monday,16,0,1058.538745
+Pioneer Village,Line 1,monday,17,0,1984.760146
+Pioneer Village,Line 1,monday,18,0,1587.808117
+Pioneer Village,Line 1,monday,19,0,793.9040586
+Pioneer Village,Line 1,monday,20,0,396.9520293
+Pioneer Village,Line 1,monday,21,0,264.6346862
+Pioneer Village,Line 1,monday,22,0,132.3173431
+Pioneer Village,Line 1,monday,23,0,66.15867155
+Pioneer Village,Line 1,monday,24,0,40.42416325
+Pioneer Village,Line 1,sunday,0,0,287.0609655
+Pioneer Village,Line 1,sunday,1,0,215.2957241
+Pioneer Village,Line 1,sunday,8,0,717.6524138
+Pioneer Village,Line 1,sunday,9,0,861.1828966
+Pioneer Village,Line 1,sunday,10,0,1004.713379
+Pioneer Village,Line 1,sunday,11,0,1076.478621
+Pioneer Village,Line 1,sunday,11,0,1076.478621
+Pioneer Village,Line 1,sunday,12,0,1148.243862
+Pioneer Village,Line 1,sunday,13,0,1220.009103
+Pioneer Village,Line 1,sunday,14,0,1291.774345
+Pioneer Village,Line 1,sunday,15,0,1363.539586
+Pioneer Village,Line 1,sunday,16,0,1435.304828
+Pioneer Village,Line 1,sunday,17,0,1435.304828
+Pioneer Village,Line 1,sunday,18,0,1363.539586
+Pioneer Village,Line 1,sunday,19,0,1291.774345
+Pioneer Village,Line 1,sunday,20,0,1148.243862
+Pioneer Village,Line 1,sunday,21,0,1004.713379
+Pioneer Village,Line 1,sunday,22,0,861.1828966
+Pioneer Village,Line 1,sunday,23,0,645.8871724
+Pioneer Village,Line 1,sunday,24,0,358.8262069
+Queen,Line 1,monday,0,0,293.1743473
+Queen,Line 1,monday,1,0,146.5871736
+Queen,Line 1,monday,6,0,1465.871736
+Queen,Line 1,monday,7,0,3518.092167
+Queen,Line 1,monday,8,0,4397.615209
+Queen,Line 1,monday,9,0,2345.394778
+Queen,Line 1,monday,10,0,1465.871736
+Queen,Line 1,monday,11,0,1172.697389
+Queen,Line 1,monday,11,0,1172.697389
+Queen,Line 1,monday,12,0,1465.871736
+Queen,Line 1,monday,13,0,1172.697389
+Queen,Line 1,monday,14,0,1465.871736
+Queen,Line 1,monday,15,0,1759.046084
+Queen,Line 1,monday,16,0,2345.394778
+Queen,Line 1,monday,17,0,4397.615209
+Queen,Line 1,monday,18,0,3518.092167
+Queen,Line 1,monday,19,0,1759.046084
+Queen,Line 1,monday,20,0,879.5230418
+Queen,Line 1,monday,21,0,586.3486946
+Queen,Line 1,monday,22,0,293.1743473
+Queen,Line 1,monday,23,0,146.5871736
+Queen,Line 1,monday,24,0,89.56745501
+Queen,Line 1,sunday,0,0,636.0384
+Queen,Line 1,sunday,1,0,477.0288
+Queen,Line 1,sunday,8,0,1590.096
+Queen,Line 1,sunday,9,0,1908.1152
+Queen,Line 1,sunday,10,0,2226.1344
+Queen,Line 1,sunday,11,0,2385.144
+Queen,Line 1,sunday,11,0,2385.144
+Queen,Line 1,sunday,12,0,2544.1536
+Queen,Line 1,sunday,13,0,2703.1632
+Queen,Line 1,sunday,14,0,2862.1728
+Queen,Line 1,sunday,15,0,3021.1824
+Queen,Line 1,sunday,16,0,3180.192
+Queen,Line 1,sunday,17,0,3180.192
+Queen,Line 1,sunday,18,0,3021.1824
+Queen,Line 1,sunday,19,0,2862.1728
+Queen,Line 1,sunday,20,0,2544.1536
+Queen,Line 1,sunday,21,0,2226.1344
+Queen,Line 1,sunday,22,0,1908.1152
+Queen,Line 1,sunday,23,0,1431.0864
+Queen,Line 1,sunday,24,0,795.048
+Queen's Park,Line 1,monday,0,0,275.04759
+Queen's Park,Line 1,monday,1,0,137.523795
+Queen's Park,Line 1,monday,6,0,1375.23795
+Queen's Park,Line 1,monday,7,0,3300.571079
+Queen's Park,Line 1,monday,8,0,4125.713849
+Queen's Park,Line 1,monday,9,0,2200.38072
+Queen's Park,Line 1,monday,10,0,1375.23795
+Queen's Park,Line 1,monday,11,0,1100.19036
+Queen's Park,Line 1,monday,11,0,1100.19036
+Queen's Park,Line 1,monday,12,0,1375.23795
+Queen's Park,Line 1,monday,13,0,1100.19036
+Queen's Park,Line 1,monday,14,0,1375.23795
+Queen's Park,Line 1,monday,15,0,1650.28554
+Queen's Park,Line 1,monday,16,0,2200.38072
+Queen's Park,Line 1,monday,17,0,4125.713849
+Queen's Park,Line 1,monday,18,0,3300.571079
+Queen's Park,Line 1,monday,19,0,1650.28554
+Queen's Park,Line 1,monday,20,0,825.1427699
+Queen's Park,Line 1,monday,21,0,550.0951799
+Queen's Park,Line 1,monday,22,0,275.04759
+Queen's Park,Line 1,monday,23,0,137.523795
+Queen's Park,Line 1,monday,24,0,84.02956421
+Queen's Park,Line 1,sunday,0,0,596.7126069
+Queen's Park,Line 1,sunday,1,0,447.5344552
+Queen's Park,Line 1,sunday,8,0,1491.781517
+Queen's Park,Line 1,sunday,9,0,1790.137821
+Queen's Park,Line 1,sunday,10,0,2088.494124
+Queen's Park,Line 1,sunday,11,0,2237.672276
+Queen's Park,Line 1,sunday,11,0,2237.672276
+Queen's Park,Line 1,sunday,12,0,2386.850428
+Queen's Park,Line 1,sunday,13,0,2536.028579
+Queen's Park,Line 1,sunday,14,0,2685.206731
+Queen's Park,Line 1,sunday,15,0,2834.384883
+Queen's Park,Line 1,sunday,16,0,2983.563034
+Queen's Park,Line 1,sunday,17,0,2983.563034
+Queen's Park,Line 1,sunday,18,0,2834.384883
+Queen's Park,Line 1,sunday,19,0,2685.206731
+Queen's Park,Line 1,sunday,20,0,2386.850428
+Queen's Park,Line 1,sunday,21,0,2088.494124
+Queen's Park,Line 1,sunday,22,0,1790.137821
+Queen's Park,Line 1,sunday,23,0,1342.603366
+Queen's Park,Line 1,sunday,24,0,745.8907586
+Rosedale,Line 1,monday,0,0,38.92860879
+Rosedale,Line 1,monday,1,0,19.46430439
+Rosedale,Line 1,monday,6,0,194.6430439
+Rosedale,Line 1,monday,7,0,467.1433054
+Rosedale,Line 1,monday,8,0,583.9291318
+Rosedale,Line 1,monday,9,0,311.4288703
+Rosedale,Line 1,monday,10,0,194.6430439
+Rosedale,Line 1,monday,11,0,155.7144351
+Rosedale,Line 1,monday,11,0,155.7144351
+Rosedale,Line 1,monday,12,0,194.6430439
+Rosedale,Line 1,monday,13,0,155.7144351
+Rosedale,Line 1,monday,14,0,194.6430439
+Rosedale,Line 1,monday,15,0,233.5716527
+Rosedale,Line 1,monday,16,0,311.4288703
+Rosedale,Line 1,monday,17,0,583.9291318
+Rosedale,Line 1,monday,18,0,467.1433054
+Rosedale,Line 1,monday,19,0,233.5716527
+Rosedale,Line 1,monday,20,0,116.7858264
+Rosedale,Line 1,monday,21,0,77.85721757
+Rosedale,Line 1,monday,22,0,38.92860879
+Rosedale,Line 1,monday,23,0,19.46430439
+Rosedale,Line 1,monday,24,0,11.89304743
+Rosedale,Line 1,sunday,0,0,84.45517241
+Rosedale,Line 1,sunday,1,0,63.34137931
+Rosedale,Line 1,sunday,8,0,211.137931
+Rosedale,Line 1,sunday,9,0,253.3655172
+Rosedale,Line 1,sunday,10,0,295.5931034
+Rosedale,Line 1,sunday,11,0,316.7068966
+Rosedale,Line 1,sunday,11,0,316.7068966
+Rosedale,Line 1,sunday,12,0,337.8206897
+Rosedale,Line 1,sunday,13,0,358.9344828
+Rosedale,Line 1,sunday,14,0,380.0482759
+Rosedale,Line 1,sunday,15,0,401.162069
+Rosedale,Line 1,sunday,16,0,422.2758621
+Rosedale,Line 1,sunday,17,0,422.2758621
+Rosedale,Line 1,sunday,18,0,401.162069
+Rosedale,Line 1,sunday,19,0,380.0482759
+Rosedale,Line 1,sunday,20,0,337.8206897
+Rosedale,Line 1,sunday,21,0,295.5931034
+Rosedale,Line 1,sunday,22,0,253.3655172
+Rosedale,Line 1,sunday,23,0,190.0241379
+Rosedale,Line 1,sunday,24,0,105.5689655
+Royal York,Line 2,monday,0,0,72.37021982
+Royal York,Line 2,monday,1,0,57.89617585
+Royal York,Line 2,monday,6,0,217.1106594
+Royal York,Line 2,monday,7,0,361.8510991
+Royal York,Line 2,monday,8,0,506.5915387
+Royal York,Line 2,monday,9,0,651.3319783
+Royal York,Line 2,monday,10,0,723.7021982
+Royal York,Line 2,monday,11,0,796.072418
+Royal York,Line 2,monday,11,0,796.072418
+Royal York,Line 2,monday,12,0,868.4426378
+Royal York,Line 2,monday,13,0,940.8128576
+Royal York,Line 2,monday,14,0,1013.183077
+Royal York,Line 2,monday,15,0,1302.663957
+Royal York,Line 2,monday,16,0,1592.144836
+Royal York,Line 2,monday,17,0,1736.885276
+Royal York,Line 2,monday,18,0,1592.144836
+Royal York,Line 2,monday,19,0,1302.663957
+Royal York,Line 2,monday,20,0,1013.183077
+Royal York,Line 2,monday,21,0,723.7021982
+Royal York,Line 2,monday,22,0,434.2213189
+Royal York,Line 2,monday,23,0,289.4808793
+Royal York,Line 2,monday,24,0,144.7404396
+Royal York,Line 2,sunday,0,0,300.3485793
+Royal York,Line 2,sunday,1,0,225.2614345
+Royal York,Line 2,sunday,8,0,750.8714483
+Royal York,Line 2,sunday,9,0,901.0457379
+Royal York,Line 2,sunday,10,0,1051.220028
+Royal York,Line 2,sunday,11,0,1126.307172
+Royal York,Line 2,sunday,11,0,1126.307172
+Royal York,Line 2,sunday,12,0,1201.394317
+Royal York,Line 2,sunday,13,0,1276.481462
+Royal York,Line 2,sunday,14,0,1351.568607
+Royal York,Line 2,sunday,15,0,1426.655752
+Royal York,Line 2,sunday,16,0,1501.742897
+Royal York,Line 2,sunday,17,0,1501.742897
+Royal York,Line 2,sunday,18,0,1426.655752
+Royal York,Line 2,sunday,19,0,1351.568607
+Royal York,Line 2,sunday,20,0,1201.394317
+Royal York,Line 2,sunday,21,0,1051.220028
+Royal York,Line 2,sunday,22,0,901.0457379
+Royal York,Line 2,sunday,23,0,675.7843034
+Royal York,Line 2,sunday,24,0,375.4357241
+Runnymede,Line 2,monday,0,0,66.1129112
+Runnymede,Line 2,monday,1,0,52.89032896
+Runnymede,Line 2,monday,6,0,198.3387336
+Runnymede,Line 2,monday,7,0,330.564556
+Runnymede,Line 2,monday,8,0,462.7903784
+Runnymede,Line 2,monday,9,0,595.0162008
+Runnymede,Line 2,monday,10,0,661.129112
+Runnymede,Line 2,monday,11,0,727.2420232
+Runnymede,Line 2,monday,11,0,727.2420232
+Runnymede,Line 2,monday,12,0,793.3549344
+Runnymede,Line 2,monday,13,0,859.4678456
+Runnymede,Line 2,monday,14,0,925.5807568
+Runnymede,Line 2,monday,15,0,1190.032402
+Runnymede,Line 2,monday,16,0,1454.484046
+Runnymede,Line 2,monday,17,0,1586.709869
+Runnymede,Line 2,monday,18,0,1454.484046
+Runnymede,Line 2,monday,19,0,1190.032402
+Runnymede,Line 2,monday,20,0,925.5807568
+Runnymede,Line 2,monday,21,0,661.129112
+Runnymede,Line 2,monday,22,0,396.6774672
+Runnymede,Line 2,monday,23,0,264.4516448
+Runnymede,Line 2,monday,24,0,132.2258224
+Runnymede,Line 2,sunday,0,0,274.3796966
+Runnymede,Line 2,sunday,1,0,205.7847724
+Runnymede,Line 2,sunday,8,0,685.9492414
+Runnymede,Line 2,sunday,9,0,823.1390897
+Runnymede,Line 2,sunday,10,0,960.3289379
+Runnymede,Line 2,sunday,11,0,1028.923862
+Runnymede,Line 2,sunday,11,0,1028.923862
+Runnymede,Line 2,sunday,12,0,1097.518786
+Runnymede,Line 2,sunday,13,0,1166.11371
+Runnymede,Line 2,sunday,14,0,1234.708634
+Runnymede,Line 2,sunday,15,0,1303.303559
+Runnymede,Line 2,sunday,16,0,1371.898483
+Runnymede,Line 2,sunday,17,0,1371.898483
+Runnymede,Line 2,sunday,18,0,1303.303559
+Runnymede,Line 2,sunday,19,0,1234.708634
+Runnymede,Line 2,sunday,20,0,1097.518786
+Runnymede,Line 2,sunday,21,0,960.3289379
+Runnymede,Line 2,sunday,22,0,823.1390897
+Runnymede,Line 2,sunday,23,0,617.3543172
+Runnymede,Line 2,sunday,24,0,342.9746207
+Sheppard West,Line 1,monday,0,0,155.6745084
+Sheppard West,Line 1,monday,1,0,77.83725418
+Sheppard West,Line 1,monday,6,0,778.3725418
+Sheppard West,Line 1,monday,7,0,1868.0941
+Sheppard West,Line 1,monday,8,0,2335.117626
+Sheppard West,Line 1,monday,9,0,1245.396067
+Sheppard West,Line 1,monday,10,0,778.3725418
+Sheppard West,Line 1,monday,11,0,622.6980335
+Sheppard West,Line 1,monday,11,0,622.6980335
+Sheppard West,Line 1,monday,12,0,778.3725418
+Sheppard West,Line 1,monday,13,0,622.6980335
+Sheppard West,Line 1,monday,14,0,778.3725418
+Sheppard West,Line 1,monday,15,0,934.0470502
+Sheppard West,Line 1,monday,16,0,1245.396067
+Sheppard West,Line 1,monday,17,0,2335.117626
+Sheppard West,Line 1,monday,18,0,1868.0941
+Sheppard West,Line 1,monday,19,0,934.0470502
+Sheppard West,Line 1,monday,20,0,467.0235251
+Sheppard West,Line 1,monday,21,0,311.3490167
+Sheppard West,Line 1,monday,22,0,155.6745084
+Sheppard West,Line 1,monday,23,0,77.83725418
+Sheppard West,Line 1,monday,24,0,47.55999171
+Sheppard West,Line 1,sunday,0,0,337.734069
+Sheppard West,Line 1,sunday,1,0,253.3005517
+Sheppard West,Line 1,sunday,8,0,844.3351724
+Sheppard West,Line 1,sunday,9,0,1013.202207
+Sheppard West,Line 1,sunday,10,0,1182.069241
+Sheppard West,Line 1,sunday,11,0,1266.502759
+Sheppard West,Line 1,sunday,11,0,1266.502759
+Sheppard West,Line 1,sunday,12,0,1350.936276
+Sheppard West,Line 1,sunday,13,0,1435.369793
+Sheppard West,Line 1,sunday,14,0,1519.80331
+Sheppard West,Line 1,sunday,15,0,1604.236828
+Sheppard West,Line 1,sunday,16,0,1688.670345
+Sheppard West,Line 1,sunday,17,0,1688.670345
+Sheppard West,Line 1,sunday,18,0,1604.236828
+Sheppard West,Line 1,sunday,19,0,1519.80331
+Sheppard West,Line 1,sunday,20,0,1350.936276
+Sheppard West,Line 1,sunday,21,0,1182.069241
+Sheppard West,Line 1,sunday,22,0,1013.202207
+Sheppard West,Line 1,sunday,23,0,759.9016552
+Sheppard West,Line 1,sunday,24,0,422.1675862
+Sheppard-Yonge,Line 1,monday,0,0,459.1659351
+Sheppard-Yonge,Line 1,monday,1,0,229.5829676
+Sheppard-Yonge,Line 1,monday,6,0,2295.829676
+Sheppard-Yonge,Line 1,monday,7,0,5509.991222
+Sheppard-Yonge,Line 1,monday,8,0,6887.489027
+Sheppard-Yonge,Line 1,monday,9,0,3673.327481
+Sheppard-Yonge,Line 1,monday,10,0,2295.829676
+Sheppard-Yonge,Line 1,monday,11,0,1836.663741
+Sheppard-Yonge,Line 1,monday,11,0,1836.663741
+Sheppard-Yonge,Line 1,monday,12,0,2295.829676
+Sheppard-Yonge,Line 1,monday,13,0,1836.663741
+Sheppard-Yonge,Line 1,monday,14,0,2295.829676
+Sheppard-Yonge,Line 1,monday,15,0,2754.995611
+Sheppard-Yonge,Line 1,monday,16,0,3673.327481
+Sheppard-Yonge,Line 1,monday,17,0,6887.489027
+Sheppard-Yonge,Line 1,monday,18,0,5509.991222
+Sheppard-Yonge,Line 1,monday,19,0,2754.995611
+Sheppard-Yonge,Line 1,monday,20,0,1377.497805
+Sheppard-Yonge,Line 1,monday,21,0,918.3318703
+Sheppard-Yonge,Line 1,monday,22,0,459.1659351
+Sheppard-Yonge,Line 1,monday,23,0,229.5829676
+Sheppard-Yonge,Line 1,monday,24,0,140.2794092
+Sheppard-Yonge,Line 1,sunday,0,0,996.1552552
+Sheppard-Yonge,Line 1,sunday,1,0,747.1164414
+Sheppard-Yonge,Line 1,sunday,8,0,2490.388138
+Sheppard-Yonge,Line 1,sunday,9,0,2988.465766
+Sheppard-Yonge,Line 1,sunday,10,0,3486.543393
+Sheppard-Yonge,Line 1,sunday,11,0,3735.582207
+Sheppard-Yonge,Line 1,sunday,11,0,3735.582207
+Sheppard-Yonge,Line 1,sunday,12,0,3984.621021
+Sheppard-Yonge,Line 1,sunday,13,0,4233.659834
+Sheppard-Yonge,Line 1,sunday,14,0,4482.698648
+Sheppard-Yonge,Line 1,sunday,15,0,4731.737462
+Sheppard-Yonge,Line 1,sunday,16,0,4980.776276
+Sheppard-Yonge,Line 1,sunday,17,0,4980.776276
+Sheppard-Yonge,Line 1,sunday,18,0,4731.737462
+Sheppard-Yonge,Line 1,sunday,19,0,4482.698648
+Sheppard-Yonge,Line 1,sunday,20,0,3984.621021
+Sheppard-Yonge,Line 1,sunday,21,0,3486.543393
+Sheppard-Yonge,Line 1,sunday,22,0,2988.465766
+Sheppard-Yonge,Line 1,sunday,23,0,2241.349324
+Sheppard-Yonge,Line 1,sunday,24,0,1245.194069
+Sheppard-Yonge,Line 4,monday,0,0,116.5455134
+Sheppard-Yonge,Line 4,monday,1,0,87.40913505
+Sheppard-Yonge,Line 4,monday,6,0,1456.818917
+Sheppard-Yonge,Line 4,monday,7,0,2622.274051
+Sheppard-Yonge,Line 4,monday,8,0,2913.637835
+Sheppard-Yonge,Line 4,monday,9,0,2039.546484
+Sheppard-Yonge,Line 4,monday,10,0,1456.818917
+Sheppard-Yonge,Line 4,monday,11,0,1165.455134
+Sheppard-Yonge,Line 4,monday,11,0,1165.455134
+Sheppard-Yonge,Line 4,monday,12,0,1311.137026
+Sheppard-Yonge,Line 4,monday,13,0,1311.137026
+Sheppard-Yonge,Line 4,monday,14,0,1456.818917
+Sheppard-Yonge,Line 4,monday,15,0,2039.546484
+Sheppard-Yonge,Line 4,monday,16,0,2913.637835
+Sheppard-Yonge,Line 4,monday,17,0,3205.001618
+Sheppard-Yonge,Line 4,monday,18,0,2913.637835
+Sheppard-Yonge,Line 4,monday,19,0,2330.910268
+Sheppard-Yonge,Line 4,monday,20,0,1748.182701
+Sheppard-Yonge,Line 4,monday,21,0,1165.455134
+Sheppard-Yonge,Line 4,monday,22,0,582.727567
+Sheppard-Yonge,Line 4,monday,23,0,291.3637835
+Sheppard-Yonge,Line 4,monday,24,0,145.6818917
+Sheppard-Yonge,Line 4,sunday,0,0,612.0098207
+Sheppard-Yonge,Line 4,sunday,1,0,459.0073655
+Sheppard-Yonge,Line 4,sunday,8,0,1530.024552
+Sheppard-Yonge,Line 4,sunday,9,0,1836.029462
+Sheppard-Yonge,Line 4,sunday,10,0,2142.034372
+Sheppard-Yonge,Line 4,sunday,11,0,2295.036828
+Sheppard-Yonge,Line 4,sunday,11,0,2295.036828
+Sheppard-Yonge,Line 4,sunday,12,0,2448.039283
+Sheppard-Yonge,Line 4,sunday,13,0,2601.041738
+Sheppard-Yonge,Line 4,sunday,14,0,2754.044193
+Sheppard-Yonge,Line 4,sunday,15,0,2907.046648
+Sheppard-Yonge,Line 4,sunday,16,0,3060.049103
+Sheppard-Yonge,Line 4,sunday,17,0,3060.049103
+Sheppard-Yonge,Line 4,sunday,18,0,2907.046648
+Sheppard-Yonge,Line 4,sunday,19,0,2754.044193
+Sheppard-Yonge,Line 4,sunday,20,0,2448.039283
+Sheppard-Yonge,Line 4,sunday,21,0,2142.034372
+Sheppard-Yonge,Line 4,sunday,22,0,1836.029462
+Sheppard-Yonge,Line 4,sunday,23,0,1377.022097
+Sheppard-Yonge,Line 4,sunday,24,0,765.0122759
+Sherbourne,Line 2,monday,0,0,103.0598349
+Sherbourne,Line 2,monday,1,0,82.44786789
+Sherbourne,Line 2,monday,6,0,309.1795046
+Sherbourne,Line 2,monday,7,0,515.2991743
+Sherbourne,Line 2,monday,8,0,721.4188441
+Sherbourne,Line 2,monday,9,0,927.5385138
+Sherbourne,Line 2,monday,10,0,1030.598349
+Sherbourne,Line 2,monday,11,0,1133.658184
+Sherbourne,Line 2,monday,11,0,1133.658184
+Sherbourne,Line 2,monday,12,0,1236.718018
+Sherbourne,Line 2,monday,13,0,1339.777853
+Sherbourne,Line 2,monday,14,0,1442.837688
+Sherbourne,Line 2,monday,15,0,1855.077028
+Sherbourne,Line 2,monday,16,0,2267.316367
+Sherbourne,Line 2,monday,17,0,2473.436037
+Sherbourne,Line 2,monday,18,0,2267.316367
+Sherbourne,Line 2,monday,19,0,1855.077028
+Sherbourne,Line 2,monday,20,0,1442.837688
+Sherbourne,Line 2,monday,21,0,1030.598349
+Sherbourne,Line 2,monday,22,0,618.3590092
+Sherbourne,Line 2,monday,23,0,412.2393395
+Sherbourne,Line 2,monday,24,0,206.1196697
+Sherbourne,Line 2,sunday,0,0,427.7156414
+Sherbourne,Line 2,sunday,1,0,320.786731
+Sherbourne,Line 2,sunday,8,0,1069.289103
+Sherbourne,Line 2,sunday,9,0,1283.146924
+Sherbourne,Line 2,sunday,10,0,1497.004745
+Sherbourne,Line 2,sunday,11,0,1603.933655
+Sherbourne,Line 2,sunday,11,0,1603.933655
+Sherbourne,Line 2,sunday,12,0,1710.862566
+Sherbourne,Line 2,sunday,13,0,1817.791476
+Sherbourne,Line 2,sunday,14,0,1924.720386
+Sherbourne,Line 2,sunday,15,0,2031.649297
+Sherbourne,Line 2,sunday,16,0,2138.578207
+Sherbourne,Line 2,sunday,17,0,2138.578207
+Sherbourne,Line 2,sunday,18,0,2031.649297
+Sherbourne,Line 2,sunday,19,0,1924.720386
+Sherbourne,Line 2,sunday,20,0,1710.862566
+Sherbourne,Line 2,sunday,21,0,1497.004745
+Sherbourne,Line 2,sunday,22,0,1283.146924
+Sherbourne,Line 2,sunday,23,0,962.3601931
+Sherbourne,Line 2,sunday,24,0,534.6445517
+Spadina,Line 1,monday,0,0,91.66389749
+Spadina,Line 1,monday,1,0,45.83194874
+Spadina,Line 1,monday,6,0,458.3194874
+Spadina,Line 1,monday,7,0,1099.96677
+Spadina,Line 1,monday,8,0,1374.958462
+Spadina,Line 1,monday,9,0,733.3111799
+Spadina,Line 1,monday,10,0,458.3194874
+Spadina,Line 1,monday,11,0,366.65559
+Spadina,Line 1,monday,11,0,366.65559
+Spadina,Line 1,monday,12,0,458.3194874
+Spadina,Line 1,monday,13,0,366.65559
+Spadina,Line 1,monday,14,0,458.3194874
+Spadina,Line 1,monday,15,0,549.9833849
+Spadina,Line 1,monday,16,0,733.3111799
+Spadina,Line 1,monday,17,0,1374.958462
+Spadina,Line 1,monday,18,0,1099.96677
+Spadina,Line 1,monday,19,0,549.9833849
+Spadina,Line 1,monday,20,0,274.9916925
+Spadina,Line 1,monday,21,0,183.327795
+Spadina,Line 1,monday,22,0,91.66389749
+Spadina,Line 1,monday,23,0,45.83194874
+Spadina,Line 1,monday,24,0,28.00416234
+Spadina,Line 1,sunday,0,0,198.8637793
+Spadina,Line 1,sunday,1,0,149.1478345
+Spadina,Line 1,sunday,8,0,497.1594483
+Spadina,Line 1,sunday,9,0,596.5913379
+Spadina,Line 1,sunday,10,0,696.0232276
+Spadina,Line 1,sunday,11,0,745.7391724
+Spadina,Line 1,sunday,11,0,745.7391724
+Spadina,Line 1,sunday,12,0,795.4551172
+Spadina,Line 1,sunday,13,0,845.1710621
+Spadina,Line 1,sunday,14,0,894.8870069
+Spadina,Line 1,sunday,15,0,944.6029517
+Spadina,Line 1,sunday,16,0,994.3188966
+Spadina,Line 1,sunday,17,0,994.3188966
+Spadina,Line 1,sunday,18,0,944.6029517
+Spadina,Line 1,sunday,19,0,894.8870069
+Spadina,Line 1,sunday,20,0,795.4551172
+Spadina,Line 1,sunday,21,0,696.0232276
+Spadina,Line 1,sunday,22,0,596.5913379
+Spadina,Line 1,sunday,23,0,447.4435034
+Spadina,Line 1,sunday,24,0,248.5797241
+Spadina,Line 2,monday,0,0,115.2154604
+Spadina,Line 2,monday,1,0,92.17236833
+Spadina,Line 2,monday,6,0,345.6463812
+Spadina,Line 2,monday,7,0,576.0773021
+Spadina,Line 2,monday,8,0,806.5082229
+Spadina,Line 2,monday,9,0,1036.939144
+Spadina,Line 2,monday,10,0,1152.154604
+Spadina,Line 2,monday,11,0,1267.370065
+Spadina,Line 2,monday,11,0,1267.370065
+Spadina,Line 2,monday,12,0,1382.585525
+Spadina,Line 2,monday,13,0,1497.800985
+Spadina,Line 2,monday,14,0,1613.016446
+Spadina,Line 2,monday,15,0,2073.878287
+Spadina,Line 2,monday,16,0,2534.740129
+Spadina,Line 2,monday,17,0,2765.17105
+Spadina,Line 2,monday,18,0,2534.740129
+Spadina,Line 2,monday,19,0,2073.878287
+Spadina,Line 2,monday,20,0,1613.016446
+Spadina,Line 2,monday,21,0,1152.154604
+Spadina,Line 2,monday,22,0,691.2927625
+Spadina,Line 2,monday,23,0,460.8618416
+Spadina,Line 2,monday,24,0,230.4309208
+Spadina,Line 2,sunday,0,0,478.163531
+Spadina,Line 2,sunday,1,0,358.6226483
+Spadina,Line 2,sunday,8,0,1195.408828
+Spadina,Line 2,sunday,9,0,1434.490593
+Spadina,Line 2,sunday,10,0,1673.572359
+Spadina,Line 2,sunday,11,0,1793.113241
+Spadina,Line 2,sunday,11,0,1793.113241
+Spadina,Line 2,sunday,12,0,1912.654124
+Spadina,Line 2,sunday,13,0,2032.195007
+Spadina,Line 2,sunday,14,0,2151.73589
+Spadina,Line 2,sunday,15,0,2271.276772
+Spadina,Line 2,sunday,16,0,2390.817655
+Spadina,Line 2,sunday,17,0,2390.817655
+Spadina,Line 2,sunday,18,0,2271.276772
+Spadina,Line 2,sunday,19,0,2151.73589
+Spadina,Line 2,sunday,20,0,1912.654124
+Spadina,Line 2,sunday,21,0,1673.572359
+Spadina,Line 2,sunday,22,0,1434.490593
+Spadina,Line 2,sunday,23,0,1075.867945
+Spadina,Line 2,sunday,24,0,597.7044138
+St Andrew,Line 1,monday,0,0,276.1016569
+St Andrew,Line 1,monday,1,0,138.0508285
+St Andrew,Line 1,monday,6,0,1380.508285
+St Andrew,Line 1,monday,7,0,3313.219883
+St Andrew,Line 1,monday,8,0,4141.524854
+St Andrew,Line 1,monday,9,0,2208.813255
+St Andrew,Line 1,monday,10,0,1380.508285
+St Andrew,Line 1,monday,11,0,1104.406628
+St Andrew,Line 1,monday,11,0,1104.406628
+St Andrew,Line 1,monday,12,0,1380.508285
+St Andrew,Line 1,monday,13,0,1104.406628
+St Andrew,Line 1,monday,14,0,1380.508285
+St Andrew,Line 1,monday,15,0,1656.609941
+St Andrew,Line 1,monday,16,0,2208.813255
+St Andrew,Line 1,monday,17,0,4141.524854
+St Andrew,Line 1,monday,18,0,3313.219883
+St Andrew,Line 1,monday,19,0,1656.609941
+St Andrew,Line 1,monday,20,0,828.3049707
+St Andrew,Line 1,monday,21,0,552.2033138
+St Andrew,Line 1,monday,22,0,276.1016569
+St Andrew,Line 1,monday,23,0,138.0508285
+St Andrew,Line 1,monday,24,0,84.35159134
+St Andrew,Line 1,sunday,0,0,598.9993931
+St Andrew,Line 1,sunday,1,0,449.2495448
+St Andrew,Line 1,sunday,8,0,1497.498483
+St Andrew,Line 1,sunday,9,0,1796.998179
+St Andrew,Line 1,sunday,10,0,2096.497876
+St Andrew,Line 1,sunday,11,0,2246.247724
+St Andrew,Line 1,sunday,11,0,2246.247724
+St Andrew,Line 1,sunday,12,0,2395.997572
+St Andrew,Line 1,sunday,13,0,2545.747421
+St Andrew,Line 1,sunday,14,0,2695.497269
+St Andrew,Line 1,sunday,15,0,2845.247117
+St Andrew,Line 1,sunday,16,0,2994.996966
+St Andrew,Line 1,sunday,17,0,2994.996966
+St Andrew,Line 1,sunday,18,0,2845.247117
+St Andrew,Line 1,sunday,19,0,2695.497269
+St Andrew,Line 1,sunday,20,0,2395.997572
+St Andrew,Line 1,sunday,21,0,2096.497876
+St Andrew,Line 1,sunday,22,0,1796.998179
+St Andrew,Line 1,sunday,23,0,1347.748634
+St Andrew,Line 1,sunday,24,0,748.7492414
+St Clair,Line 1,monday,0,0,218.287682
+St Clair,Line 1,monday,1,0,109.143841
+St Clair,Line 1,monday,6,0,1091.43841
+St Clair,Line 1,monday,7,0,2619.452184
+St Clair,Line 1,monday,8,0,3274.31523
+St Clair,Line 1,monday,9,0,1746.301456
+St Clair,Line 1,monday,10,0,1091.43841
+St Clair,Line 1,monday,11,0,873.150728
+St Clair,Line 1,monday,11,0,873.150728
+St Clair,Line 1,monday,12,0,1091.43841
+St Clair,Line 1,monday,13,0,873.150728
+St Clair,Line 1,monday,14,0,1091.43841
+St Clair,Line 1,monday,15,0,1309.726092
+St Clair,Line 1,monday,16,0,1746.301456
+St Clair,Line 1,monday,17,0,3274.31523
+St Clair,Line 1,monday,18,0,2619.452184
+St Clair,Line 1,monday,19,0,1309.726092
+St Clair,Line 1,monday,20,0,654.863046
+St Clair,Line 1,monday,21,0,436.575364
+St Clair,Line 1,monday,22,0,218.287682
+St Clair,Line 1,monday,23,0,109.143841
+St Clair,Line 1,monday,24,0,66.68889116
+St Clair,Line 1,sunday,0,0,473.5726345
+St Clair,Line 1,sunday,1,0,355.1794759
+St Clair,Line 1,sunday,8,0,1183.931586
+St Clair,Line 1,sunday,9,0,1420.717903
+St Clair,Line 1,sunday,10,0,1657.504221
+St Clair,Line 1,sunday,11,0,1775.897379
+St Clair,Line 1,sunday,11,0,1775.897379
+St Clair,Line 1,sunday,12,0,1894.290538
+St Clair,Line 1,sunday,13,0,2012.683697
+St Clair,Line 1,sunday,14,0,2131.076855
+St Clair,Line 1,sunday,15,0,2249.470014
+St Clair,Line 1,sunday,16,0,2367.863172
+St Clair,Line 1,sunday,17,0,2367.863172
+St Clair,Line 1,sunday,18,0,2249.470014
+St Clair,Line 1,sunday,19,0,2131.076855
+St Clair,Line 1,sunday,20,0,1894.290538
+St Clair,Line 1,sunday,21,0,1657.504221
+St Clair,Line 1,sunday,22,0,1420.717903
+St Clair,Line 1,sunday,23,0,1065.538428
+St Clair,Line 1,sunday,24,0,591.9657931
+St Clair West,Line 1,monday,0,0,167.7962782
+St Clair West,Line 1,monday,1,0,83.89813912
+St Clair West,Line 1,monday,6,0,838.9813912
+St Clair West,Line 1,monday,7,0,2013.555339
+St Clair West,Line 1,monday,8,0,2516.944174
+St Clair West,Line 1,monday,9,0,1342.370226
+St Clair West,Line 1,monday,10,0,838.9813912
+St Clair West,Line 1,monday,11,0,671.185113
+St Clair West,Line 1,monday,11,0,671.185113
+St Clair West,Line 1,monday,12,0,838.9813912
+St Clair West,Line 1,monday,13,0,671.185113
+St Clair West,Line 1,monday,14,0,838.9813912
+St Clair West,Line 1,monday,15,0,1006.777669
+St Clair West,Line 1,monday,16,0,1342.370226
+St Clair West,Line 1,monday,17,0,2516.944174
+St Clair West,Line 1,monday,18,0,2013.555339
+St Clair West,Line 1,monday,19,0,1006.777669
+St Clair West,Line 1,monday,20,0,503.3888347
+St Clair West,Line 1,monday,21,0,335.5925565
+St Clair West,Line 1,monday,22,0,167.7962782
+St Clair West,Line 1,monday,23,0,83.89813912
+St Clair West,Line 1,monday,24,0,51.2633037
+St Clair West,Line 1,sunday,0,0,364.0321103
+St Clair West,Line 1,sunday,1,0,273.0240828
+St Clair West,Line 1,sunday,8,0,910.0802759
+St Clair West,Line 1,sunday,9,0,1092.096331
+St Clair West,Line 1,sunday,10,0,1274.112386
+St Clair West,Line 1,sunday,11,0,1365.120414
+St Clair West,Line 1,sunday,11,0,1365.120414
+St Clair West,Line 1,sunday,12,0,1456.128441
+St Clair West,Line 1,sunday,13,0,1547.136469
+St Clair West,Line 1,sunday,14,0,1638.144497
+St Clair West,Line 1,sunday,15,0,1729.152524
+St Clair West,Line 1,sunday,16,0,1820.160552
+St Clair West,Line 1,sunday,17,0,1820.160552
+St Clair West,Line 1,sunday,18,0,1729.152524
+St Clair West,Line 1,sunday,19,0,1638.144497
+St Clair West,Line 1,sunday,20,0,1456.128441
+St Clair West,Line 1,sunday,21,0,1274.112386
+St Clair West,Line 1,sunday,22,0,1092.096331
+St Clair West,Line 1,sunday,23,0,819.0722483
+St Clair West,Line 1,sunday,24,0,455.0401379
+St George,Line 1,monday,0,0,807.543046
+St George,Line 1,monday,1,0,403.771523
+St George,Line 1,monday,6,0,4037.71523
+St George,Line 1,monday,7,0,9690.516552
+St George,Line 1,monday,8,0,12113.14569
+St George,Line 1,monday,9,0,6460.344368
+St George,Line 1,monday,10,0,4037.71523
+St George,Line 1,monday,11,0,3230.172184
+St George,Line 1,monday,11,0,3230.172184
+St George,Line 1,monday,12,0,4037.71523
+St George,Line 1,monday,13,0,3230.172184
+St George,Line 1,monday,14,0,4037.71523
+St George,Line 1,monday,15,0,4845.258276
+St George,Line 1,monday,16,0,6460.344368
+St George,Line 1,monday,17,0,12113.14569
+St George,Line 1,monday,18,0,9690.516552
+St George,Line 1,monday,19,0,4845.258276
+St George,Line 1,monday,20,0,2422.629138
+St George,Line 1,monday,21,0,1615.086092
+St George,Line 1,monday,22,0,807.543046
+St George,Line 1,monday,23,0,403.771523
+St George,Line 1,monday,24,0,246.7118154
+St George,Line 1,sunday,0,0,1751.955421
+St George,Line 1,sunday,1,0,1313.966566
+St George,Line 1,sunday,8,0,4379.888552
+St George,Line 1,sunday,9,0,5255.866262
+St George,Line 1,sunday,10,0,6131.843972
+St George,Line 1,sunday,11,0,6569.832828
+St George,Line 1,sunday,11,0,6569.832828
+St George,Line 1,sunday,12,0,7007.821683
+St George,Line 1,sunday,13,0,7445.810538
+St George,Line 1,sunday,14,0,7883.799393
+St George,Line 1,sunday,15,0,8321.788248
+St George,Line 1,sunday,16,0,8759.777103
+St George,Line 1,sunday,17,0,8759.777103
+St George,Line 1,sunday,18,0,8321.788248
+St George,Line 1,sunday,19,0,7883.799393
+St George,Line 1,sunday,20,0,7007.821683
+St George,Line 1,sunday,21,0,6131.843972
+St George,Line 1,sunday,22,0,5255.866262
+St George,Line 1,sunday,23,0,3941.899697
+St George,Line 1,sunday,24,0,2189.944276
+St George,Line 2,monday,0,0,454.4417345
+St George,Line 2,monday,1,0,363.5533876
+St George,Line 2,monday,6,0,1363.325203
+St George,Line 2,monday,7,0,2272.208672
+St George,Line 2,monday,8,0,3181.092141
+St George,Line 2,monday,9,0,4089.97561
+St George,Line 2,monday,10,0,4544.417345
+St George,Line 2,monday,11,0,4998.859079
+St George,Line 2,monday,11,0,4998.859079
+St George,Line 2,monday,12,0,5453.300814
+St George,Line 2,monday,13,0,5907.742548
+St George,Line 2,monday,14,0,6362.184283
+St George,Line 2,monday,15,0,8179.95122
+St George,Line 2,monday,16,0,9997.718158
+St George,Line 2,monday,17,0,10906.60163
+St George,Line 2,monday,18,0,9997.718158
+St George,Line 2,monday,19,0,8179.95122
+St George,Line 2,monday,20,0,6362.184283
+St George,Line 2,monday,21,0,4544.417345
+St George,Line 2,monday,22,0,2726.650407
+St George,Line 2,monday,23,0,1817.766938
+St George,Line 2,monday,24,0,908.8834689
+St George,Line 2,sunday,0,0,1886.0096
+St George,Line 2,sunday,1,0,1414.5072
+St George,Line 2,sunday,8,0,4715.024
+St George,Line 2,sunday,9,0,5658.0288
+St George,Line 2,sunday,10,0,6601.0336
+St George,Line 2,sunday,11,0,7072.536
+St George,Line 2,sunday,11,0,7072.536
+St George,Line 2,sunday,12,0,7544.0384
+St George,Line 2,sunday,13,0,8015.5408
+St George,Line 2,sunday,14,0,8487.0432
+St George,Line 2,sunday,15,0,8958.5456
+St George,Line 2,sunday,16,0,9430.048
+St George,Line 2,sunday,17,0,9430.048
+St George,Line 2,sunday,18,0,8958.5456
+St George,Line 2,sunday,19,0,8487.0432
+St George,Line 2,sunday,20,0,7544.0384
+St George,Line 2,sunday,21,0,6601.0336
+St George,Line 2,sunday,22,0,5658.0288
+St George,Line 2,sunday,23,0,4243.5216
+St George,Line 2,sunday,24,0,2357.512
+St Patrick,Line 1,monday,0,0,191.5606967
+St Patrick,Line 1,monday,1,0,95.78034833
+St Patrick,Line 1,monday,6,0,957.8034833
+St Patrick,Line 1,monday,7,0,2298.72836
+St Patrick,Line 1,monday,8,0,2873.41045
+St Patrick,Line 1,monday,9,0,1532.485573
+St Patrick,Line 1,monday,10,0,957.8034833
+St Patrick,Line 1,monday,11,0,766.2427866
+St Patrick,Line 1,monday,11,0,766.2427866
+St Patrick,Line 1,monday,12,0,957.8034833
+St Patrick,Line 1,monday,13,0,766.2427866
+St Patrick,Line 1,monday,14,0,957.8034833
+St Patrick,Line 1,monday,15,0,1149.36418
+St Patrick,Line 1,monday,16,0,1532.485573
+St Patrick,Line 1,monday,17,0,2873.41045
+St Patrick,Line 1,monday,18,0,2298.72836
+St Patrick,Line 1,monday,19,0,1149.36418
+St Patrick,Line 1,monday,20,0,574.68209
+St Patrick,Line 1,monday,21,0,383.1213933
+St Patrick,Line 1,monday,22,0,191.5606967
+St Patrick,Line 1,monday,23,0,95.78034833
+St Patrick,Line 1,monday,24,0,58.52355173
+St Patrick,Line 1,sunday,0,0,415.5887448
+St Patrick,Line 1,sunday,1,0,311.6915586
+St Patrick,Line 1,sunday,8,0,1038.971862
+St Patrick,Line 1,sunday,9,0,1246.766234
+St Patrick,Line 1,sunday,10,0,1454.560607
+St Patrick,Line 1,sunday,11,0,1558.457793
+St Patrick,Line 1,sunday,11,0,1558.457793
+St Patrick,Line 1,sunday,12,0,1662.354979
+St Patrick,Line 1,sunday,13,0,1766.252166
+St Patrick,Line 1,sunday,14,0,1870.149352
+St Patrick,Line 1,sunday,15,0,1974.046538
+St Patrick,Line 1,sunday,16,0,2077.943724
+St Patrick,Line 1,sunday,17,0,2077.943724
+St Patrick,Line 1,sunday,18,0,1974.046538
+St Patrick,Line 1,sunday,19,0,1870.149352
+St Patrick,Line 1,sunday,20,0,1662.354979
+St Patrick,Line 1,sunday,21,0,1454.560607
+St Patrick,Line 1,sunday,22,0,1246.766234
+St Patrick,Line 1,sunday,23,0,935.0746759
+St Patrick,Line 1,sunday,24,0,519.485931
+Summerhill,Line 1,monday,0,0,40.28611925
+Summerhill,Line 1,monday,1,0,20.14305962
+Summerhill,Line 1,monday,6,0,201.4305962
+Summerhill,Line 1,monday,7,0,483.433431
+Summerhill,Line 1,monday,8,0,604.2917887
+Summerhill,Line 1,monday,9,0,322.288954
+Summerhill,Line 1,monday,10,0,201.4305962
+Summerhill,Line 1,monday,11,0,161.144477
+Summerhill,Line 1,monday,11,0,161.144477
+Summerhill,Line 1,monday,12,0,201.4305962
+Summerhill,Line 1,monday,13,0,161.144477
+Summerhill,Line 1,monday,14,0,201.4305962
+Summerhill,Line 1,monday,15,0,241.7167155
+Summerhill,Line 1,monday,16,0,322.288954
+Summerhill,Line 1,monday,17,0,604.2917887
+Summerhill,Line 1,monday,18,0,483.433431
+Summerhill,Line 1,monday,19,0,241.7167155
+Summerhill,Line 1,monday,20,0,120.8583577
+Summerhill,Line 1,monday,21,0,80.57223849
+Summerhill,Line 1,monday,22,0,40.28611925
+Summerhill,Line 1,monday,23,0,20.14305962
+Summerhill,Line 1,monday,24,0,12.30777934
+Summerhill,Line 1,sunday,0,0,87.40027586
+Summerhill,Line 1,sunday,1,0,65.5502069
+Summerhill,Line 1,sunday,8,0,218.5006897
+Summerhill,Line 1,sunday,9,0,262.2008276
+Summerhill,Line 1,sunday,10,0,305.9009655
+Summerhill,Line 1,sunday,11,0,327.7510345
+Summerhill,Line 1,sunday,11,0,327.7510345
+Summerhill,Line 1,sunday,12,0,349.6011034
+Summerhill,Line 1,sunday,13,0,371.4511724
+Summerhill,Line 1,sunday,14,0,393.3012414
+Summerhill,Line 1,sunday,15,0,415.1513103
+Summerhill,Line 1,sunday,16,0,437.0013793
+Summerhill,Line 1,sunday,17,0,437.0013793
+Summerhill,Line 1,sunday,18,0,415.1513103
+Summerhill,Line 1,sunday,19,0,393.3012414
+Summerhill,Line 1,sunday,20,0,349.6011034
+Summerhill,Line 1,sunday,21,0,305.9009655
+Summerhill,Line 1,sunday,22,0,262.2008276
+Summerhill,Line 1,sunday,23,0,196.6506207
+Summerhill,Line 1,sunday,24,0,109.2503448
+Union,Line 1,monday,0,0,600.1567726
+Union,Line 1,monday,1,0,360.0940636
+Union,Line 1,monday,6,0,1800.470318
+Union,Line 1,monday,7,0,3600.940636
+Union,Line 1,monday,8,0,4801.254181
+Union,Line 1,monday,9,0,6001.567726
+Union,Line 1,monday,10,0,6601.724499
+Union,Line 1,monday,11,0,7201.881272
+Union,Line 1,monday,11,0,7201.881272
+Union,Line 1,monday,12,0,7802.038044
+Union,Line 1,monday,13,0,8402.194817
+Union,Line 1,monday,14,0,9602.508362
+Union,Line 1,monday,15,0,11402.97868
+Union,Line 1,monday,16,0,13203.449
+Union,Line 1,monday,17,0,14403.76254
+Union,Line 1,monday,18,0,13203.449
+Union,Line 1,monday,19,0,9602.508362
+Union,Line 1,monday,20,0,6001.567726
+Union,Line 1,monday,21,0,3600.940636
+Union,Line 1,monday,22,0,2400.627091
+Union,Line 1,monday,23,0,1200.313545
+Union,Line 1,monday,24,0,624.4218713
+Union,Line 1,sunday,0,0,2365.00469
+Union,Line 1,sunday,1,0,1773.753517
+Union,Line 1,sunday,8,0,5912.511724
+Union,Line 1,sunday,9,0,7095.014069
+Union,Line 1,sunday,10,0,8277.516414
+Union,Line 1,sunday,11,0,8868.767586
+Union,Line 1,sunday,11,0,8868.767586
+Union,Line 1,sunday,12,0,9460.018759
+Union,Line 1,sunday,13,0,10051.26993
+Union,Line 1,sunday,14,0,10642.5211
+Union,Line 1,sunday,15,0,11233.77228
+Union,Line 1,sunday,16,0,11825.02345
+Union,Line 1,sunday,17,0,11825.02345
+Union,Line 1,sunday,18,0,11233.77228
+Union,Line 1,sunday,19,0,10642.5211
+Union,Line 1,sunday,20,0,9460.018759
+Union,Line 1,sunday,21,0,8277.516414
+Union,Line 1,sunday,22,0,7095.014069
+Union,Line 1,sunday,23,0,5321.260552
+Union,Line 1,sunday,24,0,2956.255862
+Vaughan Metropolitan Centre,Line 1,monday,0,0,162.8533431
+Vaughan Metropolitan Centre,Line 1,monday,1,0,81.42667155
+Vaughan Metropolitan Centre,Line 1,monday,6,0,814.2667155
+Vaughan Metropolitan Centre,Line 1,monday,7,0,1954.240117
+Vaughan Metropolitan Centre,Line 1,monday,8,0,2442.800146
+Vaughan Metropolitan Centre,Line 1,monday,9,0,1302.826745
+Vaughan Metropolitan Centre,Line 1,monday,10,0,814.2667155
+Vaughan Metropolitan Centre,Line 1,monday,11,0,651.4133724
+Vaughan Metropolitan Centre,Line 1,monday,11,0,651.4133724
+Vaughan Metropolitan Centre,Line 1,monday,12,0,814.2667155
+Vaughan Metropolitan Centre,Line 1,monday,13,0,651.4133724
+Vaughan Metropolitan Centre,Line 1,monday,14,0,814.2667155
+Vaughan Metropolitan Centre,Line 1,monday,15,0,977.1200586
+Vaughan Metropolitan Centre,Line 1,monday,16,0,1302.826745
+Vaughan Metropolitan Centre,Line 1,monday,17,0,2442.800146
+Vaughan Metropolitan Centre,Line 1,monday,18,0,1954.240117
+Vaughan Metropolitan Centre,Line 1,monday,19,0,977.1200586
+Vaughan Metropolitan Centre,Line 1,monday,20,0,488.5600293
+Vaughan Metropolitan Centre,Line 1,monday,21,0,325.7066862
+Vaughan Metropolitan Centre,Line 1,monday,22,0,162.8533431
+Vaughan Metropolitan Centre,Line 1,monday,23,0,81.42667155
+Vaughan Metropolitan Centre,Line 1,monday,24,0,49.75319163
+Vaughan Metropolitan Centre,Line 1,sunday,0,0,353.308469
+Vaughan Metropolitan Centre,Line 1,sunday,1,0,264.9813517
+Vaughan Metropolitan Centre,Line 1,sunday,8,0,883.2711724
+Vaughan Metropolitan Centre,Line 1,sunday,9,0,1059.925407
+Vaughan Metropolitan Centre,Line 1,sunday,10,0,1236.579641
+Vaughan Metropolitan Centre,Line 1,sunday,11,0,1324.906759
+Vaughan Metropolitan Centre,Line 1,sunday,11,0,1324.906759
+Vaughan Metropolitan Centre,Line 1,sunday,12,0,1413.233876
+Vaughan Metropolitan Centre,Line 1,sunday,13,0,1501.560993
+Vaughan Metropolitan Centre,Line 1,sunday,14,0,1589.88811
+Vaughan Metropolitan Centre,Line 1,sunday,15,0,1678.215228
+Vaughan Metropolitan Centre,Line 1,sunday,16,0,1766.542345
+Vaughan Metropolitan Centre,Line 1,sunday,17,0,1766.542345
+Vaughan Metropolitan Centre,Line 1,sunday,18,0,1678.215228
+Vaughan Metropolitan Centre,Line 1,sunday,19,0,1589.88811
+Vaughan Metropolitan Centre,Line 1,sunday,20,0,1413.233876
+Vaughan Metropolitan Centre,Line 1,sunday,21,0,1236.579641
+Vaughan Metropolitan Centre,Line 1,sunday,22,0,1059.925407
+Vaughan Metropolitan Centre,Line 1,sunday,23,0,794.9440552
+Vaughan Metropolitan Centre,Line 1,sunday,24,0,441.6355862
+Victoria Park,Line 2,monday,0,0,134.7304156
+Victoria Park,Line 2,monday,1,0,107.7843325
+Victoria Park,Line 2,monday,6,0,404.1912467
+Victoria Park,Line 2,monday,7,0,673.6520779
+Victoria Park,Line 2,monday,8,0,943.112909
+Victoria Park,Line 2,monday,9,0,1212.57374
+Victoria Park,Line 2,monday,10,0,1347.304156
+Victoria Park,Line 2,monday,11,0,1482.034571
+Victoria Park,Line 2,monday,11,0,1482.034571
+Victoria Park,Line 2,monday,12,0,1616.764987
+Victoria Park,Line 2,monday,13,0,1751.495402
+Victoria Park,Line 2,monday,14,0,1886.225818
+Victoria Park,Line 2,monday,15,0,2425.14748
+Victoria Park,Line 2,monday,16,0,2964.069143
+Victoria Park,Line 2,monday,17,0,3233.529974
+Victoria Park,Line 2,monday,18,0,2964.069143
+Victoria Park,Line 2,monday,19,0,2425.14748
+Victoria Park,Line 2,monday,20,0,1886.225818
+Victoria Park,Line 2,monday,21,0,1347.304156
+Victoria Park,Line 2,monday,22,0,808.3824934
+Victoria Park,Line 2,monday,23,0,538.9216623
+Victoria Park,Line 2,monday,24,0,269.4608311
+Victoria Park,Line 2,sunday,0,0,559.1538759
+Victoria Park,Line 2,sunday,1,0,419.3654069
+Victoria Park,Line 2,sunday,8,0,1397.88469
+Victoria Park,Line 2,sunday,9,0,1677.461628
+Victoria Park,Line 2,sunday,10,0,1957.038566
+Victoria Park,Line 2,sunday,11,0,2096.827034
+Victoria Park,Line 2,sunday,11,0,2096.827034
+Victoria Park,Line 2,sunday,12,0,2236.615503
+Victoria Park,Line 2,sunday,13,0,2376.403972
+Victoria Park,Line 2,sunday,14,0,2516.192441
+Victoria Park,Line 2,sunday,15,0,2655.98091
+Victoria Park,Line 2,sunday,16,0,2795.769379
+Victoria Park,Line 2,sunday,17,0,2795.769379
+Victoria Park,Line 2,sunday,18,0,2655.98091
+Victoria Park,Line 2,sunday,19,0,2516.192441
+Victoria Park,Line 2,sunday,20,0,2236.615503
+Victoria Park,Line 2,sunday,21,0,1957.038566
+Victoria Park,Line 2,sunday,22,0,1677.461628
+Victoria Park,Line 2,sunday,23,0,1258.096221
+Victoria Park,Line 2,sunday,24,0,698.9423448
+Warden,Line 2,monday,0,0,91.17971457
+Warden,Line 2,monday,1,0,72.94377165
+Warden,Line 2,monday,6,0,273.5391437
+Warden,Line 2,monday,7,0,455.8985728
+Warden,Line 2,monday,8,0,638.258002
+Warden,Line 2,monday,9,0,820.6174311
+Warden,Line 2,monday,10,0,911.7971457
+Warden,Line 2,monday,11,0,1002.97686
+Warden,Line 2,monday,11,0,1002.97686
+Warden,Line 2,monday,12,0,1094.156575
+Warden,Line 2,monday,13,0,1185.336289
+Warden,Line 2,monday,14,0,1276.516004
+Warden,Line 2,monday,15,0,1641.234862
+Warden,Line 2,monday,16,0,2005.95372
+Warden,Line 2,monday,17,0,2188.31315
+Warden,Line 2,monday,18,0,2005.95372
+Warden,Line 2,monday,19,0,1641.234862
+Warden,Line 2,monday,20,0,1276.516004
+Warden,Line 2,monday,21,0,911.7971457
+Warden,Line 2,monday,22,0,547.0782874
+Warden,Line 2,monday,23,0,364.7188583
+Warden,Line 2,monday,24,0,182.3594291
+Warden,Line 2,sunday,0,0,378.4111448
+Warden,Line 2,sunday,1,0,283.8083586
+Warden,Line 2,sunday,8,0,946.0278621
+Warden,Line 2,sunday,9,0,1135.233434
+Warden,Line 2,sunday,10,0,1324.439007
+Warden,Line 2,sunday,11,0,1419.041793
+Warden,Line 2,sunday,11,0,1419.041793
+Warden,Line 2,sunday,12,0,1513.644579
+Warden,Line 2,sunday,13,0,1608.247366
+Warden,Line 2,sunday,14,0,1702.850152
+Warden,Line 2,sunday,15,0,1797.452938
+Warden,Line 2,sunday,16,0,1892.055724
+Warden,Line 2,sunday,17,0,1892.055724
+Warden,Line 2,sunday,18,0,1797.452938
+Warden,Line 2,sunday,19,0,1702.850152
+Warden,Line 2,sunday,20,0,1513.644579
+Warden,Line 2,sunday,21,0,1324.439007
+Warden,Line 2,sunday,22,0,1135.233434
+Warden,Line 2,sunday,23,0,851.4250759
+Warden,Line 2,sunday,24,0,473.013931
+Wellesley,Line 1,monday,0,0,141.3807218
+Wellesley,Line 1,monday,1,0,70.69036088
+Wellesley,Line 1,monday,6,0,706.9036088
+Wellesley,Line 1,monday,7,0,1696.568661
+Wellesley,Line 1,monday,8,0,2120.710826
+Wellesley,Line 1,monday,9,0,1131.045774
+Wellesley,Line 1,monday,10,0,706.9036088
+Wellesley,Line 1,monday,11,0,565.522887
+Wellesley,Line 1,monday,11,0,565.522887
+Wellesley,Line 1,monday,12,0,706.9036088
+Wellesley,Line 1,monday,13,0,565.522887
+Wellesley,Line 1,monday,14,0,706.9036088
+Wellesley,Line 1,monday,15,0,848.2843305
+Wellesley,Line 1,monday,16,0,1131.045774
+Wellesley,Line 1,monday,17,0,2120.710826
+Wellesley,Line 1,monday,18,0,1696.568661
+Wellesley,Line 1,monday,19,0,848.2843305
+Wellesley,Line 1,monday,20,0,424.1421653
+Wellesley,Line 1,monday,21,0,282.7614435
+Wellesley,Line 1,monday,22,0,141.3807218
+Wellesley,Line 1,monday,23,0,70.69036088
+Wellesley,Line 1,monday,24,0,43.19310865
+Wellesley,Line 1,sunday,0,0,306.7238621
+Wellesley,Line 1,sunday,1,0,230.0428966
+Wellesley,Line 1,sunday,8,0,766.8096552
+Wellesley,Line 1,sunday,9,0,920.1715862
+Wellesley,Line 1,sunday,10,0,1073.533517
+Wellesley,Line 1,sunday,11,0,1150.214483
+Wellesley,Line 1,sunday,11,0,1150.214483
+Wellesley,Line 1,sunday,12,0,1226.895448
+Wellesley,Line 1,sunday,13,0,1303.576414
+Wellesley,Line 1,sunday,14,0,1380.257379
+Wellesley,Line 1,sunday,15,0,1456.938345
+Wellesley,Line 1,sunday,16,0,1533.61931
+Wellesley,Line 1,sunday,17,0,1533.61931
+Wellesley,Line 1,sunday,18,0,1456.938345
+Wellesley,Line 1,sunday,19,0,1380.257379
+Wellesley,Line 1,sunday,20,0,1226.895448
+Wellesley,Line 1,sunday,21,0,1073.533517
+Wellesley,Line 1,sunday,22,0,920.1715862
+Wellesley,Line 1,sunday,23,0,690.1286897
+Wellesley,Line 1,sunday,24,0,383.4048276
+Wilson,Line 1,monday,0,0,172.3159895
+Wilson,Line 1,monday,1,0,86.15799477
+Wilson,Line 1,monday,6,0,861.5799477
+Wilson,Line 1,monday,7,0,2067.791874
+Wilson,Line 1,monday,8,0,2584.739843
+Wilson,Line 1,monday,9,0,1378.527916
+Wilson,Line 1,monday,10,0,861.5799477
+Wilson,Line 1,monday,11,0,689.2639582
+Wilson,Line 1,monday,11,0,689.2639582
+Wilson,Line 1,monday,12,0,861.5799477
+Wilson,Line 1,monday,13,0,689.2639582
+Wilson,Line 1,monday,14,0,861.5799477
+Wilson,Line 1,monday,15,0,1033.895937
+Wilson,Line 1,monday,16,0,1378.527916
+Wilson,Line 1,monday,17,0,2584.739843
+Wilson,Line 1,monday,18,0,2067.791874
+Wilson,Line 1,monday,19,0,1033.895937
+Wilson,Line 1,monday,20,0,516.9479686
+Wilson,Line 1,monday,21,0,344.6319791
+Wilson,Line 1,monday,22,0,172.3159895
+Wilson,Line 1,monday,23,0,86.15799477
+Wilson,Line 1,monday,24,0,52.644117
+Wilson,Line 1,sunday,0,0,373.8375724
+Wilson,Line 1,sunday,1,0,280.3781793
+Wilson,Line 1,sunday,8,0,934.593931
+Wilson,Line 1,sunday,9,0,1121.512717
+Wilson,Line 1,sunday,10,0,1308.431503
+Wilson,Line 1,sunday,11,0,1401.890897
+Wilson,Line 1,sunday,11,0,1401.890897
+Wilson,Line 1,sunday,12,0,1495.35029
+Wilson,Line 1,sunday,13,0,1588.809683
+Wilson,Line 1,sunday,14,0,1682.269076
+Wilson,Line 1,sunday,15,0,1775.728469
+Wilson,Line 1,sunday,16,0,1869.187862
+Wilson,Line 1,sunday,17,0,1869.187862
+Wilson,Line 1,sunday,18,0,1775.728469
+Wilson,Line 1,sunday,19,0,1682.269076
+Wilson,Line 1,sunday,20,0,1495.35029
+Wilson,Line 1,sunday,21,0,1308.431503
+Wilson,Line 1,sunday,22,0,1121.512717
+Wilson,Line 1,sunday,23,0,841.1345379
+Wilson,Line 1,sunday,24,0,467.2969655
+Woodbine,Line 2,monday,0,0,45.09520013
+Woodbine,Line 2,monday,1,0,36.0761601
+Woodbine,Line 2,monday,6,0,135.2856004
+Woodbine,Line 2,monday,7,0,225.4760007
+Woodbine,Line 2,monday,8,0,315.6664009
+Woodbine,Line 2,monday,9,0,405.8568012
+Woodbine,Line 2,monday,10,0,450.9520013
+Woodbine,Line 2,monday,11,0,496.0472014
+Woodbine,Line 2,monday,11,0,496.0472014
+Woodbine,Line 2,monday,12,0,541.1424016
+Woodbine,Line 2,monday,13,0,586.2376017
+Woodbine,Line 2,monday,14,0,631.3328018
+Woodbine,Line 2,monday,15,0,811.7136024
+Woodbine,Line 2,monday,16,0,992.0944029
+Woodbine,Line 2,monday,17,0,1082.284803
+Woodbine,Line 2,monday,18,0,992.0944029
+Woodbine,Line 2,monday,19,0,811.7136024
+Woodbine,Line 2,monday,20,0,631.3328018
+Woodbine,Line 2,monday,21,0,450.9520013
+Woodbine,Line 2,monday,22,0,270.5712008
+Woodbine,Line 2,monday,23,0,180.3808005
+Woodbine,Line 2,monday,24,0,90.19040026
+Woodbine,Line 2,sunday,0,0,187.1526621
+Woodbine,Line 2,sunday,1,0,140.3644966
+Woodbine,Line 2,sunday,8,0,467.8816552
+Woodbine,Line 2,sunday,9,0,561.4579862
+Woodbine,Line 2,sunday,10,0,655.0343172
+Woodbine,Line 2,sunday,11,0,701.8224828
+Woodbine,Line 2,sunday,11,0,701.8224828
+Woodbine,Line 2,sunday,12,0,748.6106483
+Woodbine,Line 2,sunday,13,0,795.3988138
+Woodbine,Line 2,sunday,14,0,842.1869793
+Woodbine,Line 2,sunday,15,0,888.9751448
+Woodbine,Line 2,sunday,16,0,935.7633103
+Woodbine,Line 2,sunday,17,0,935.7633103
+Woodbine,Line 2,sunday,18,0,888.9751448
+Woodbine,Line 2,sunday,19,0,842.1869793
+Woodbine,Line 2,sunday,20,0,748.6106483
+Woodbine,Line 2,sunday,21,0,655.0343172
+Woodbine,Line 2,sunday,22,0,561.4579862
+Woodbine,Line 2,sunday,23,0,421.0934897
+Woodbine,Line 2,sunday,24,0,233.9408276
+York Mills,Line 1,monday,0,0,163.6838201
+York Mills,Line 1,monday,1,0,81.84191004
+York Mills,Line 1,monday,6,0,818.4191004
+York Mills,Line 1,monday,7,0,1964.205841
+York Mills,Line 1,monday,8,0,2455.257301
+York Mills,Line 1,monday,9,0,1309.470561
+York Mills,Line 1,monday,10,0,818.4191004
+York Mills,Line 1,monday,11,0,654.7352803
+York Mills,Line 1,monday,11,0,654.7352803
+York Mills,Line 1,monday,12,0,818.4191004
+York Mills,Line 1,monday,13,0,654.7352803
+York Mills,Line 1,monday,14,0,818.4191004
+York Mills,Line 1,monday,15,0,982.1029205
+York Mills,Line 1,monday,16,0,1309.470561
+York Mills,Line 1,monday,17,0,2455.257301
+York Mills,Line 1,monday,18,0,1964.205841
+York Mills,Line 1,monday,19,0,982.1029205
+York Mills,Line 1,monday,20,0,491.0514603
+York Mills,Line 1,monday,21,0,327.3676402
+York Mills,Line 1,monday,22,0,163.6838201
+York Mills,Line 1,monday,23,0,81.84191004
+York Mills,Line 1,monday,24,0,50.00690998
+York Mills,Line 1,sunday,0,0,355.1101793
+York Mills,Line 1,sunday,1,0,266.3326345
+York Mills,Line 1,sunday,8,0,887.7754483
+York Mills,Line 1,sunday,9,0,1065.330538
+York Mills,Line 1,sunday,10,0,1242.885628
+York Mills,Line 1,sunday,11,0,1331.663172
+York Mills,Line 1,sunday,11,0,1331.663172
+York Mills,Line 1,sunday,12,0,1420.440717
+York Mills,Line 1,sunday,13,0,1509.218262
+York Mills,Line 1,sunday,14,0,1597.995807
+York Mills,Line 1,sunday,15,0,1686.773352
+York Mills,Line 1,sunday,16,0,1775.550897
+York Mills,Line 1,sunday,17,0,1775.550897
+York Mills,Line 1,sunday,18,0,1686.773352
+York Mills,Line 1,sunday,19,0,1597.995807
+York Mills,Line 1,sunday,20,0,1420.440717
+York Mills,Line 1,sunday,21,0,1242.885628
+York Mills,Line 1,sunday,22,0,1065.330538
+York Mills,Line 1,sunday,23,0,798.9979034
+York Mills,Line 1,sunday,24,0,443.8877241
+York University,Line 1,monday,0,0,163.2765669
+York University,Line 1,monday,1,0,81.63828347
+York University,Line 1,monday,6,0,816.3828347
+York University,Line 1,monday,7,0,1959.318803
+York University,Line 1,monday,8,0,2449.148504
+York University,Line 1,monday,9,0,1306.212536
+York University,Line 1,monday,10,0,816.3828347
+York University,Line 1,monday,11,0,653.1062678
+York University,Line 1,monday,11,0,653.1062678
+York University,Line 1,monday,12,0,816.3828347
+York University,Line 1,monday,13,0,653.1062678
+York University,Line 1,monday,14,0,816.3828347
+York University,Line 1,monday,15,0,979.6594017
+York University,Line 1,monday,16,0,1306.212536
+York University,Line 1,monday,17,0,2449.148504
+York University,Line 1,monday,18,0,1959.318803
+York University,Line 1,monday,19,0,979.6594017
+York University,Line 1,monday,20,0,489.8297008
+York University,Line 1,monday,21,0,326.5531339
+York University,Line 1,monday,22,0,163.2765669
+York University,Line 1,monday,23,0,81.63828347
+York University,Line 1,monday,24,0,49.8824904
+York University,Line 1,sunday,0,0,354.2266483
+York University,Line 1,sunday,1,0,265.6699862
+York University,Line 1,sunday,8,0,885.5666207
+York University,Line 1,sunday,9,0,1062.679945
+York University,Line 1,sunday,10,0,1239.793269
+York University,Line 1,sunday,11,0,1328.349931
+York University,Line 1,sunday,11,0,1328.349931
+York University,Line 1,sunday,12,0,1416.906593
+York University,Line 1,sunday,13,0,1505.463255
+York University,Line 1,sunday,14,0,1594.019917
+York University,Line 1,sunday,15,0,1682.576579
+York University,Line 1,sunday,16,0,1771.133241
+York University,Line 1,sunday,17,0,1771.133241
+York University,Line 1,sunday,18,0,1682.576579
+York University,Line 1,sunday,19,0,1594.019917
+York University,Line 1,sunday,20,0,1416.906593
+York University,Line 1,sunday,21,0,1239.793269
+York University,Line 1,sunday,22,0,1062.679945
+York University,Line 1,sunday,23,0,797.0099586
+York University,Line 1,sunday,24,0,442.7833103
+Yorkdale,Line 1,monday,0,0,157.5111402
+Yorkdale,Line 1,monday,1,0,78.75557008
+Yorkdale,Line 1,monday,6,0,787.5557008
+Yorkdale,Line 1,monday,7,0,1890.133682
+Yorkdale,Line 1,monday,8,0,2362.667103
+Yorkdale,Line 1,monday,9,0,1260.089121
+Yorkdale,Line 1,monday,10,0,787.5557008
+Yorkdale,Line 1,monday,11,0,630.0445607
+Yorkdale,Line 1,monday,11,0,630.0445607
+Yorkdale,Line 1,monday,12,0,787.5557008
+Yorkdale,Line 1,monday,13,0,630.0445607
+Yorkdale,Line 1,monday,14,0,787.5557008
+Yorkdale,Line 1,monday,15,0,945.066841
+Yorkdale,Line 1,monday,16,0,1260.089121
+Yorkdale,Line 1,monday,17,0,2362.667103
+Yorkdale,Line 1,monday,18,0,1890.133682
+Yorkdale,Line 1,monday,19,0,945.066841
+Yorkdale,Line 1,monday,20,0,472.5334205
+Yorkdale,Line 1,monday,21,0,315.0222803
+Yorkdale,Line 1,monday,22,0,157.5111402
+Yorkdale,Line 1,monday,23,0,78.75557008
+Yorkdale,Line 1,monday,24,0,48.12109958
+Yorkdale,Line 1,sunday,0,0,341.7186207
+Yorkdale,Line 1,sunday,1,0,256.2889655
+Yorkdale,Line 1,sunday,8,0,854.2965517
+Yorkdale,Line 1,sunday,9,0,1025.155862
+Yorkdale,Line 1,sunday,10,0,1196.015172
+Yorkdale,Line 1,sunday,11,0,1281.444828
+Yorkdale,Line 1,sunday,11,0,1281.444828
+Yorkdale,Line 1,sunday,12,0,1366.874483
+Yorkdale,Line 1,sunday,13,0,1452.304138
+Yorkdale,Line 1,sunday,14,0,1537.733793
+Yorkdale,Line 1,sunday,15,0,1623.163448
+Yorkdale,Line 1,sunday,16,0,1708.593103
+Yorkdale,Line 1,sunday,17,0,1708.593103
+Yorkdale,Line 1,sunday,18,0,1623.163448
+Yorkdale,Line 1,sunday,19,0,1537.733793
+Yorkdale,Line 1,sunday,20,0,1366.874483
+Yorkdale,Line 1,sunday,21,0,1196.015172
+Yorkdale,Line 1,sunday,22,0,1025.155862
+Yorkdale,Line 1,sunday,23,0,768.8668966
+Yorkdale,Line 1,sunday,24,0,427.1482759
+Bathurst,Line 2,monday,24,0,255.4518066
+Bay,Line 2,monday,24,0,175.1545494
+Bloor-Yonge,Line 2,monday,24,0,1014.619044
+Broadview,Line 2,monday,24,0,97.84610674
+Castle Frank,Line 2,monday,24,0,74.66192257
+Chester,Line 2,monday,24,0,51.73654637
+Christie,Line 2,monday,24,0,95.23298119
+Coxwell,Line 2,monday,24,0,112.2892607
+Donlands,Line 2,monday,24,0,52.73838364
+Dufferin,Line 2,monday,24,0,223.743657
+Dundas West,Line 2,monday,24,0,199.2069926
+Greenwood,Line 2,monday,24,0,79.87147638
+High Park,Line 2,monday,24,0,76.58211067
+Islington,Line 2,monday,24,0,208.9081168
+Jane,Line 2,monday,24,0,124.8372725
+Keele,Line 2,monday,24,0,136.1246391
+Kennedy,Line 2,monday,24,0,357.9981999
+Kipling,Line 2,monday,24,0,412.3562205
+Lansdowne,Line 2,monday,24,0,145.3164961
+Main Street,Line 2,monday,24,0,155.9693657
+Old Mill,Line 2,monday,24,0,51.0018657
+Ossington,Line 2,monday,24,0,184.5801684
+Pape,Line 2,monday,24,0,288.0783071
+Royal York,Line 2,monday,24,0,144.7404396
+Runnymede,Line 2,monday,24,0,132.2258224
+Sherbourne,Line 2,monday,24,0,206.1196697
+Spadina,Line 2,monday,24,0,230.4309208
+St George,Line 2,monday,24,0,908.8834689
+Victoria Park,Line 2,monday,24,0,269.4608311
+Warden,Line 2,monday,24,0,182.3594291
+Woodbine,Line 2,monday,24,0,90.19040026
+Bayview,Line 4,monday,24,0,25.58825086
+Bessarion,Line 4,monday,24,0,13.11372083
+Don Mills,Line 4,monday,24,0,118.3905067
+Leslie,Line 4,monday,24,0,16.44576059
+Sheppard-Yonge,Line 4,monday,24,0,145.6818917

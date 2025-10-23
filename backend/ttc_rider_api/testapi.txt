@@ -1,3 +1,8 @@
 pip3 install -r requirements.txt
 python3 train.py
 uvicorn ttc_rider_api.main:app --reload
+
+# To start FastAPI: 
+uvicorn ttc_rider_api.main:app
+
+Go to http://127.0.0.1:8000/docs
