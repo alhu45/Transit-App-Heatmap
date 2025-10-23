@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TTC Subway Map</title>
+
+    <!-- Leaflet CSS -->
+    <link
+        rel="stylesheet"
+        href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    />
+
+    <style>
+        html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        }
+        #map {
+        height: 100vh; /* full-page map */
+        width: 100%;
+        }
+
+    </style>
+    </head>
+
+    <body>
+    <div id="map"></div>
+
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+    <script>
+        const x = document.getElementById("demo");
+
+        function getLocation() {
+        if (navigator.geolocation) {
+            navigator.geolocation.getCurrentPosition(success, error);
+        } else { 
+            x.innerHTML = "Geolocation is not supported by this browser.";
+        }
+        }
+
+        function success(position) {
+        x.innerHTML = "Latitude: " + position.coords.latitude + 
+        "<br>Longitude: " + position.coords.longitude;
+        }
+
+        function error() {
+        alert("Sorry, no position available.");
+        }
+
+        // alert("Hello, world!");
+
+        // Initialize map centered on Toronto
+        const map = L.map("map").setView([43.7, -79.38], 12);
+
+        // Map
+        L.tileLayer(
+        'https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',
+        {
+            maxZoom: 19,
+            attribution:
+            '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions">CARTO</a>',
+        }
+        ).addTo(map);
+
+    </script>
+    </body>
+</html>
