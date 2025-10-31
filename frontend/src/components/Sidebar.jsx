@@ -19,7 +19,7 @@ export default function Sidebar({ selectedStation, onClose }) {
     const payload = {
       records: {
         station: selectedStation.name, 
-        line: "1",                     
+        line: selectedStation.line,                     
         day: day,
         hour: hour,
       },
@@ -47,35 +47,27 @@ export default function Sidebar({ selectedStation, onClose }) {
   }, [selectedStation]);
 
   return (
-    <div className={`sidebar ${selectedStation ? "open" : ""}`}>
+    <div className={`sidebar ${selectedStation ? "open" : ""} line-${selectedStation?.line}`}>
       {selectedStation && (
         <>
-          <h2>{selectedStation.name}</h2>
-          <p>
-            <b>Latitude:</b> {selectedStation.lat.toFixed(4)}
-          </p>
-          <p>
-            <b>Longitude:</b> {selectedStation.lon.toFixed(4)}
-          </p>
+          <div className="sidebar-header">
+            <h2>{selectedStation.name} Station</h2>
+          </div>
+
+          <p><b>Latitude:</b> {selectedStation.lat.toFixed(4)}</p>
+          <p><b>Longitude:</b> {selectedStation.lon.toFixed(4)}</p>
+
           {prediction ? (
             <>
-              <p>
-                <b>Day:</b> {prediction.predictions[0].day.charAt(0).toUpperCase() + prediction.predictions[0].day.slice(1)}
-              </p>
-              <p>
-                <b>Hour:</b> {prediction.predictions[0].hour}:00
-              </p>
-              <p>
-                <b>Estimated Riders:</b>{" "}
-                {Math.round(prediction.predictions[0].riders).toLocaleString()}
-              </p>
+              <p><b>Day:</b> {prediction.predictions[0].day}</p>
+              <p><b>Hour:</b> {prediction.predictions[0].hour}:00</p>
+              <p><b>Estimated Riders:</b> {Math.round(prediction.predictions[0].riders).toLocaleString()}</p>
             </>
           ) : (
             <p>Loading prediction...</p>
           )}
-          <button onClick={onClose} className="close-btn">
-            Close
-          </button>
+
+          <button onClick={onClose} className="close-btn">Close</button>
         </>
       )}
     </div>

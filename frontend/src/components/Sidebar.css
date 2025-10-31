@@ -34,3 +34,31 @@
     background: #0069d9;
   }
   
+  /* ---- Sidebar Header Section ---- */
+.sidebar-header {
+  padding: 16px 20px;
+  /* border-radius: 8px; */
+  margin: -20px -20px 20px -20px; /* full-width edge-to-edge */
+}
+
+.sidebar-header h2 {
+  margin: 0;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* ---- Line Color Variants ---- */
+.line-1 .sidebar-header {
+  background-color: #ffd700; /* Line 1 - Yellow */
+  color: #000;
+}
+
+.line-2 .sidebar-header {
+  background-color: #008000; /* Line 2 - Green */
+  color: #fff;
+}
+
+.line-4 .sidebar-header {
+  background-color: #800080; /* Line 4 - Purple */
+  color: #fff;
+}
