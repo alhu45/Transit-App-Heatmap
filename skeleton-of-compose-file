@@ -1,0 +1,37 @@
+version: "3.9"  # Docker Compose file format version
+
+services:
+  app:  # your main service (backend, script, etc.)
+    build:
+      context: ./app           # folder where Dockerfile lives
+      dockerfile: Dockerfile   # optional if named 'Dockerfile'
+    container_name: app
+    ports:
+      - "8000:8000"            # HOST:CONTAINER (optional)
+    volumes:
+      - ./app:/app             # mount code for live dev (optional)
+    env_file:
+      - .env                   # load env vars (optional)
+    environment:
+      EXAMPLE_VAR: "value"     # can also directly set env vars
+    depends_on:
+      - db                     # wait for another service (optional)
+    restart: unless-stopped    # or always / on-failure
+    command: python main.py    # override CMD in Dockerfile (optional)
+
+  db:  # example secondary service (database / cache / queue)
+    image: postgres:16         # use official image instead of build
+    container_name: db
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: pass
+      POSTGRES_DB: mydb
+    volumes:
+      - db_data:/var/lib/postgresql/data
+    restart: unless-stopped
+
+# named volumes (persistent storage)
+volumes:
+  db_data:

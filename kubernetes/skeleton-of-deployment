@@ -1,0 +1,32 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: myapp-deployment       # Name of the deployment
+  labels:
+    app: myapp
+spec:
+  replicas: 2                  # How many pods (containers) to run
+  selector:
+    matchLabels:
+      app: myapp               # Must match the pod label below
+  template:
+    metadata:
+      labels:
+        app: myapp             # Pods created by this deployment will have this label
+    spec:
+      containers:
+        - name: myapp
+          image: myapp:latest  # Docker image to use
+          imagePullPolicy: IfNotPresent  # Avoid pulling if local
+          ports:
+            - containerPort: 8000        # Port exposed by the app
+          env:                           # Optional: environment variables
+            - name: ENV
+              value: "production"
+          resources:                     # Optional: resource limits
+            requests:
+              cpu: "100m"
+              memory: "128Mi"
+            limits:
+              cpu: "500m"
+              memory: "256Mi"
