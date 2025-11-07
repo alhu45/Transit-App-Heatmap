@@ -1,13 +1,20 @@
-# To start FastAPI: uvicorn ttc_rider_api.main:app
-
 from typing import List, Optional, Tuple
 from datetime import datetime
 import pandas as pd
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel, Field
 from ttc_rider_api.model import load_model, predict_batch
+from fastapi.middleware.cors import CORSMiddleware
 
 app = FastAPI(title="TTC Ridership API", version="0.2.0")
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["http://localhost:5173", "http://127.0.0.1:5173"],  # your React dev server
+    allow_credentials=True,
+    allow_methods=["*"],  # allows POST, GET, OPTIONS, etc.
+    allow_headers=["*"],  # allows Content-Type, Authorization, etc.
+)
 MODEL, META = load_model()
 
 # TTC Service Hours
@@ -88,7 +95,7 @@ def predict(request: PredictRequest):
 # GET /options — metadata for dropdowns or UIs
 @app.get("/options")
 def get_options():
-    df = pd.read_csv("Ridership_Data.csv")
+    df = pd.read_csv("ttc_rider_api/Ridership-Data.csv")
     return {
         "hours": list(range(24)),
         "days": sorted(df["Day"].dropna().astype(str).str.lower().str.strip().unique().tolist()),

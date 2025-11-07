@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: myapp-service
+spec:
+  selector:
+    app: myapp                # Must match the Deployment label
+  ports:
+    - port: 8000              # Port exposed inside cluster
+      targetPort: 8000        # Port inside the container
+      protocol: TCP
+  type: NodePort              # Options: ClusterIP, NodePort, LoadBalancer

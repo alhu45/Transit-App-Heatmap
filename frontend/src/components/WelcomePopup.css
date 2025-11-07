@@ -1,0 +1,61 @@
+/* Dim background overlay */
+.popup-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.4);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 2000;
+    backdrop-filter: blur(2px);
+  }
+  
+  /* White popup box */
+  .popup-box {
+    background: white;
+    border-radius: 10px;
+    padding: 32px 40px;
+    text-align: center;
+    width: 400px;
+    max-width: 90%;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3);
+    animation: fadeIn 0.3s ease-in-out;
+  }
+  
+  .popup-box h1 {
+    margin-bottom: 10px;
+    font-size: 28px;
+    font-weight: 700;
+  }
+  
+  .popup-box p {
+    margin-bottom: 20px;
+    color: #333;
+    font-size: 16px;
+  }
+  
+  /* Close button */
+  .popup-box button {
+    padding: 10px 18px;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    border-radius: 6px;
+    cursor: pointer;
+    font-weight: 600;
+    transition: background 0.2s ease;
+  }
+  
+  .popup-box button:hover {
+    background-color: #005ecb;
+  }
+  
+  /* Entry animation */
+  @keyframes fadeIn {
+    from { opacity: 0; transform: scale(0.95); }
+    to { opacity: 1; transform: scale(1); }
+  }
+  

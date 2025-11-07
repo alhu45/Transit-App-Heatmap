@@ -7,7 +7,7 @@ import pandas as pd
 ARTIFACTS = Path("artifacts")
 MODEL_PATH = ARTIFACTS / "model.joblib"
 META_PATH  = ARTIFACTS / "meta.json"
-print(f"[DEBUG] MODEL_PATH.resolve() = {MODEL_PATH.resolve()}")
+# print(f"[DEBUG] MODEL_PATH.resolve() = {MODEL_PATH.resolve()}")
 
 
 def load_model():

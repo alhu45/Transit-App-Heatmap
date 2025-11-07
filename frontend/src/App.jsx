@@ -3,6 +3,7 @@ import "./App.css";
 import Sidebar from "./components/Sidebar.jsx";
 import Overlay from "./components/Overlay.jsx";
 import MapContainer from "./components/MapContainer.jsx";
+import WelcomePopup from "./components/WelcomePopup";
 
 export default function App() {
   const [selectedStation, setSelectedStation] = useState(null);
@@ -20,6 +21,8 @@ export default function App() {
         show={!!selectedStation}
         onClick={() => setSelectedStation(null)}
       />
+
+      <WelcomePopup />
 
       {/* Leaflet Map */}
       <MapContainer onStationSelect={setSelectedStation} />
