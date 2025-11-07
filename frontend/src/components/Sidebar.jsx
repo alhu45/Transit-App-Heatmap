@@ -27,7 +27,9 @@ export default function Sidebar({ selectedStation, onClose }) {
 
     console.log("Sending payload:", payload);
 
-    fetch("http://127.0.0.1:8000/predict", {
+    const API_URL = import.meta.env.VITE_API_URL; 
+    
+    fetch(`${API_URL}/predict`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(payload),

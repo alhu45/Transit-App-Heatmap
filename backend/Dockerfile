@@ -10,7 +10,6 @@ COPY . .
 
 EXPOSE 6767
 
-WORKDIR /backend/ttc_rider_api
 
 CMD ["uvicorn", "ttc_rider_api.main:app", "--host", "0.0.0.0", "--port", "6767"]
 
