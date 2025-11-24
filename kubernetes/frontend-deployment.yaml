@@ -1,0 +1,21 @@
+# Deployment for TTC Ridership frontend (React)
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: ttc-frontend
+spec:
+  replicas: 2 # 2 Pods for high availability
+  selector:
+    matchLabels:
+      app: ttc-frontend
+  template:
+    metadata:
+      labels:
+        app: ttc-frontend
+    spec:
+      containers:
+        - name: frontend
+          # Replace with your frontend Docker Hub image
+          image: your-dockerhub-username/ttc-frontend:latest
+          ports:
+            - containerPort: 5173

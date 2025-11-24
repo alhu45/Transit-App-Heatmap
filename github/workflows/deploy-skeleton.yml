@@ -1,0 +1,50 @@
+name: Deploy to AWS EKS
+
+on:
+  push:
+    branches:
+      - main   # Only run on main branch updates
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1️⃣ Pull the code
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 2️⃣ Configure AWS Credentials for CLI access
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: ${{ secrets.AWS_REGION }}
+
+      # 3️⃣ Login to AWS ECR (Docker Registry)
+      - name: Login to Amazon ECR
+        id: login-ecr
+        uses: aws-actions/amazon-ecr-login@v2
+
+      # 4️⃣ Build + Push Backend Docker Image to ECR
+      - name: Build & Push Backend Image
+        run: |
+          docker build -t ${{ secrets.ECR_BACKEND_REPO }}:latest ./backend
+          docker push ${{ secrets.ECR_BACKEND_REPO }}:latest
+
+      # 5️⃣ Build + Push Frontend Docker Image to ECR
+      - name: Build & Push Frontend Image
+        run: |
+          docker build -t ${{ secrets.ECR_FRONTEND_REPO }}:latest ./frontend
+          docker push ${{ secrets.ECR_FRONTEND_REPO }}:latest
+
+      # 6️⃣ Configure kubectl to connect to your EKS cluster
+      - name: Setup kubeconfig
+        run: |
+          echo "${{ secrets.KUBE_CONFIG_DATA }}" | base64 -d > ~/.kube/config
+
+      # 7️⃣ Apply Kubernetes manifests to update running app
+      - name: Deploy to EKS via Kubernetes
+        run: |
+          kubectl apply -f k8s/

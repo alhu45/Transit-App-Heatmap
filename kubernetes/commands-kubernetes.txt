@@ -1,0 +1,7 @@
+To Deploy Everything
+kubectl apply -f k8s/
+
+Check Deployments
+kubectl get pods
+kubectl get svc
+kubectl get ingress

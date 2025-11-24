@@ -1,5 +1,6 @@
+# Terraform version + required providers
 terraform {
-  required_version = ">= 1.5.0"
+  required_version = ">= 1.4"
   required_providers {
     aws = {
       source  = "hashicorp/aws"
@@ -7,5 +8,3 @@ terraform {
     }
   }
 }
-
-# Locks your Terraform and provider versions to prevent breaking changes.

@@ -1,0 +1,12 @@
+# Internal routing for backend API
+apiVersion: v1
+kind: Service
+metadata:
+  name: ttc-backend-service
+spec:
+  selector:
+    app: ttc-backend
+  ports:
+    - port: 8000        # Exposed inside cluster
+      targetPort: 8000  # Container port
+  type: ClusterIP       # Not exposed to the public directly

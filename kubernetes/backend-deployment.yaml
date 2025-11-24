@@ -1,0 +1,37 @@
+# Deployment for TTC Ridership FastAPI backend
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: ttc-backend
+spec:
+  replicas: 2 # 2 Pods for load balancing + resilience
+  selector:
+    matchLabels:
+      app: ttc-backend
+  template:
+    metadata:
+      labels:
+        app: ttc-backend
+    spec:
+      containers:
+        - name: backend
+          # Replace image below with your Docker Hub image name
+          image: your-dockerhub-username/ttc-backend:latest
+          ports:
+            - containerPort: 8000
+          env:
+            - name: ENVIRONMENT
+              value: "production"
+          # Health checks ensure the Pod stays available
+          readinessProbe:
+            httpGet:
+              path: /health
+              port: 8000
+            initialDelaySeconds: 5
+            periodSeconds: 10
+          livenessProbe:
+            httpGet:
+              path: /health
+              port: 8000
+            initialDelaySeconds: 10
+            periodSeconds: 20

@@ -1,0 +1,78 @@
+┌─────────────┐
+│  Developer  │
+│   (You)     │
+└──────┬──────┘
+       │ git push to main
+       ▼
+┌────────────────────────┐
+│ GitHub Actions Runner  │
+│ (in GitHub cloud)      │
+└────────┬──────────────┘
+         │
+         │ builds both Docker images
+         ▼
+┌────────────────────────┐
+│ Docker Build (Frontend)│
+└────────┬──────────────┘
+         │ push
+         ▼
+┌────────────────────────┐
+│ AWS ECR Frontend Repo  │
+│ (stores image)         │
+└────────┴──────────────┘
+         │
+         │ build backend image
+         ▼
+┌────────────────────────┐
+│ Docker Build (Backend) │
+└────────┬──────────────┘
+         │ push
+         ▼
+┌────────────────────────┐
+│ AWS ECR Backend Repo   │
+└────────┴──────────────┘
+         │
+         │ update Kubernetes YAML image tag
+         ▼
+┌────────────────────────┐
+│ kubectl apply -f k8s/  │
+│ deployed to EKS        │
+└────────┬──────────────┘
+         │
+         │ Kubernetes rolls out changes
+         ▼
+┌────────────────────────┐
+│ AWS EKS Cluster        │
+│  - Pods restart        │
+│  - Rolling updates     │
+│  - Load balancer ready │
+└────────────────────────┘
+
+
+--------------------------------------------------------------------------
+
+┌────────────────┐
+│ Terraform Apply │  <── only when infra changes
+└───────┬────────┘
+        ▼
+┌─────────────────────────┐
+│ AWS Provisioned Infra   │
+│ - VPC                   │
+│ - EKS cluster           │
+│ - ECR registries        │
+└──────┬──────────────────┘
+       │   kubectl deploy
+       ▼
+┌──────────────────────────────┐
+│ GitHub Actions CI/CD         │  <── every git push
+│ - Build Docker images        │
+│ - Push to ECR                │
+│ - Deploy to EKS              │
+└──────────┬───────────────────┘
+           ▼
+┌──────────────────────────────┐
+│ Kubernetes in AWS (EKS)      │
+│ - Pods auto-update           │
+│ - Load balancing             │
+│ - Self-healing               │
+└──────────────────────────────┘

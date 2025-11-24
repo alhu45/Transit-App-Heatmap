@@ -1,0 +1,29 @@
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: ttc-ingress
+  annotations:
+    # Enables automatic HTTPS if using cert-manager later
+    kubernetes.io/ingress.class: nginx
+spec:
+  rules:
+    - host: ttc.example.com  # Change to real domain
+      http:
+        paths:
+          - path: /
+            pathType: Prefix
+            backend:
+              service:
+                name: ttc-frontend-service
+                port:
+                  number: 80
+    - host: api.ttc.example.com  # Backend subdomain
+      http:
+        paths:
+          - path: /
+            pathType: Prefix
+            backend:
+              service:
+                name: ttc-backend-service
+                port:
+                  number: 8000

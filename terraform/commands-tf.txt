@@ -1,0 +1,17 @@
+Initialize and Deploy
+cd infrastructure/terraform
+terraform init
+terraform apply
+
+Configure kubectl
+aws eks update-kubeconfig --region us-east-1 --name ttc-ridership-cluster
+
+Build and Push Docker Images
+docker build -t <backend_repo_url>:latest ./backend
+docker push <backend_repo_url>:latest
+
+docker build -t <frontend_repo_url>:latest ./frontend
+docker push <frontend_repo_url>:latest
+
+Deploy app to cluster
+kubectl apply -f k8s/

@@ -1,0 +1,12 @@
+# Service exposing frontend to the outside world
+apiVersion: v1
+kind: Service
+metadata:
+  name: ttc-frontend-service
+spec:
+  selector:
+    app: ttc-frontend
+  ports:
+    - port: 80          # Public-facing HTTP port
+      targetPort: 5173  # Port inside the container
+  type: LoadBalancer    # Exposed externally with public IP

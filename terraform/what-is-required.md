@@ -30,3 +30,5 @@ provider.tf  →  main.tf  →  outputs.tf
 🟦 main.tf = what to build,
 🟨 variables.tf = inputs,
 🟥 outputs.tf = outputs (return values).
+
+
