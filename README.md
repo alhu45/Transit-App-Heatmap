@@ -1,6 +1,6 @@
 # TTC Ridership Heatmap System
 
-A full-stack project that **predicts and visualizes crowding levels at TTC subway stations** using machine learning, enriched with contextual data like weather and major events. The system provides real-time prediction capabilities with an interactive frontend that helps users and planners understand congestion patterns across Toronto’s transit network.
+A data engineering project that **predicts and visualizes crowding levels at TTC subway stations** using machine learning, enriched with contextual data like weather and major events. The system provides real-time prediction capabilities with an interactive frontend that helps users and planners understand congestion patterns across Toronto’s transit network.
 
 ---
 
@@ -28,7 +28,7 @@ This project builds and serves a machine learning model trained on TTC ridership
 - Frontend and backend packaged into separate Docker containers.
 
 ### Cloud-Ready Deployment
-- Supports deployment to AWS (or any cloud) via Kubernetes.
+- Supports deployment to AWS via Kubernetes.
 
 ### Infrastructure as Code
 - Terraform manages cloud environment setup and provisioning.
