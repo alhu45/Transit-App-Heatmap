@@ -1,0 +1,43 @@
+name: CI/CD Pipeline
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Pull repo code into the runner
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      # Log in to container registry (GHCR example)
+      - name: Login to GitHub Container Registry
+        run: echo "${{ secrets.GHCR_TOKEN }}" | docker login ghcr.io -u ${{ github.actor }} --password-stdin
+
+      # Build and push Docker image
+      - name: Build and push Docker image
+        run: |
+          IMAGE=ghcr.io/<your-username>/ttc-ridership:${{ github.sha }}
+          docker build -t $IMAGE .
+          docker push $IMAGE
+
+      # Set up kubectl
+      - name: Install kubectl
+        uses: azure/setup-kubectl@v4
+
+      # Configure kubeconfig
+      - name: Configure kubeconfig
+        run: |
+          mkdir -p ~/.kube
+          echo "${{ secrets.KUBECONFIG }}" | base64 -d > ~/.kube/config
+
+      # Deploy to Kubernetes
+      - name: Deploy to Kubernetes
+        run: |
+          kubectl set image deployment/ttc-api \
+            ttc-api=ghcr.io/<your-username>/ttc-ridership:${{ github.sha }}
+          kubectl rollout status deployment/ttc-api
